@@ -1,0 +1,1682 @@
+ID,CommonName,ScientificName,LENGTH_cm,SEX,TAG_TYPE,TAG_DATE,TAG_LAT,TAG_LONG,DAYS@LIBERTY,FINAL_LAT,FINAL_LONG,CAPTURE (Y/N),REGION
+S798,Oceanic whitetip shark,Carcharhinus longimanus,161,F,PSAT,02/03/2012,-0.43,-37.63,104,-1.16,-34.93,,OTHER
+S799,Oceanic whitetip shark,Carcharhinus longimanus,197,F,PSAT,06/12/2011,-3.59,-34.92,141,-9.87,-35.75,,OTHER
+S800,Oceanic whitetip shark,Carcharhinus longimanus,134,F,PSAT,02/03/2012,-0.74,-37.53,101,-0.61,-36.27,,OTHER
+S804,Oceanic whitetip shark,Carcharhinus longimanus,167,M,PSAT,16/01/2011,-0.14,-34.22,176,-4.52,-34.17,,OTHER
+S1090,Tiger shark,Galeocerdo cuvier,238,F,PSAT,02/08/2012,-3.82,-32.42,10,-4.32,-33.9,,OTHER
+S1092,Tiger shark,Galeocerdo cuvier,170,M,PSAT,17/09/2012,-8.19,-34.82,88,-3.97,-35.62,,OTHER
+S1093,Tiger shark,Galeocerdo cuvier,310,F,PSAT,04/09/2012,-3.41,-34.97,37,-2.51,-44.04,,OTHER
+S1094,Tiger shark,Galeocerdo cuvier,240,F,PSAT,01/08/2012,-3.82,-32.43,124,-0.91,-43.09,,OTHER
+S1096,Tiger shark,Galeocerdo cuvier,162,M,PSAT,24/11/2013,-6.79,-34.78,10,-6.31,-34.64,,OTHER
+S1097,Tiger shark,Galeocerdo cuvier,184,F,PSAT,31/08/2013,-8.18,-34.83,56,-12.56,-38.02,,OTHER
+S1098,Tiger shark,Galeocerdo cuvier,251,M,SPOT,31/07/2014,-3.81,-32.41,51,-3.85,-32.52,,OTHER
+S1099,Tiger shark,Galeocerdo cuvier,273,F,SPOT,02/08/2014,-3.82,-32.4,15,-3.79,-32.39,,OTHER
+S1100,Tiger shark,Galeocerdo cuvier,203,M,SPOT,12/06/2016,-3.82,-32.44,30,-3.78,-32.43,,OTHER
+S1102,Tiger shark,Galeocerdo cuvier,200,F,SPOT,06/05/2015,-3.82,-32.44,203,-4.88,-35.38,,OTHER
+S1103,Tiger shark,Galeocerdo cuvier,180,F,PSAT,24/08/2012,-8.36,-34.93,32,-16.87,-37.12,,OTHER
+S1104,Tiger shark,Galeocerdo cuvier,131,M,PSAT,28/06/2008,-8.17,-34.89,30,-7.48,-35.03,,OTHER
+S1105,Tiger shark,Galeocerdo cuvier,120,F,PSAT,15/04/2011,-8.17,-34.75,29,-8.23,-34.87,,OTHER
+S1106,Tiger shark,Galeocerdo cuvier,295,F,PSAT,06/01/2011,-8.21,-34.7,42,-4.03,-36.45,,OTHER
+S1107,Tiger shark,Galeocerdo cuvier,193,M,PSAT,24/07/2009,-8.16,-34.89,7,-8.18,-34.75,,OTHER
+S1108,Tiger shark,Galeocerdo cuvier,150,M,PSAT,07/08/2010,-8.17,-34.89,73,-4.24,-35.39,,OTHER
+S1109,Tiger shark,Galeocerdo cuvier,130,M,PSAT,11/07/2011,-8.16,-34.88,43,-6.96,-34.81,,OTHER
+S1110,Tiger shark,Galeocerdo cuvier,128,F,PSAT,01/06/2010,-8.21,-34.77,73,-8.06,-34.66,,OTHER
+S1111,Tiger shark,Galeocerdo cuvier,270,F,PSAT,08/05/2011,-3,-38.44,18,-6.09,-34.96,,OTHER
+S1112,Tiger shark,Galeocerdo cuvier,190,F,PSAT,22/12/2010,-8.33,-34.67,25,-4.76,-35.93,,OTHER
+S1113,Tiger shark,Galeocerdo cuvier,134,F,PSAT,25/07/2011,-8.17,-34.77,43,-10.01,-35.58,,OTHER
+S1114,Tiger shark,Galeocerdo cuvier,170,M,PSAT,15/08/2011,-11.27,-35.25,3,-12.53,-35.38,,OTHER
+S1115,Tiger shark,Galeocerdo cuvier,156,M,PSAT,14/08/2011,-8.24,-34.91,59,-2.3,-34.79,,OTHER
+S1116,Tiger shark,Galeocerdo cuvier,172,F,PSAT,23/08/2011,-8.25,-34.91,10,-7.6,-34.92,,OTHER
+S1117,Tiger shark,Galeocerdo cuvier,190,M,PSAT,08/02/2011,-8.18,-34.68,23,-3.16,-36.92,,OTHER
+S1231,Tiger shark,Galeocerdo cuvier,338,M,SPOT,21/06/2016,-7.9,-14.44,125,-10.81,-35.78,,OTHER
+S1232,Tiger shark,Galeocerdo cuvier,335,F,SPOT,02/08/2016,-7.98,-14.44,157,-2.43,-25.73,,OTHER
+S1560,Scalloped hammerhead shark,Sphyrna lewini,210,M,PSAT,07/08/2014,-2.58,-28.69,4,-4.57,-29.13,,OTHER
+S1561,Scalloped hammerhead shark,Sphyrna lewini,200,F,PSAT,28/03/2012,0.85,-29.42,74,0.95,-29.53,,OTHER
+S1562,Scalloped hammerhead shark,Sphyrna lewini,250,F,PSAT,08/10/2010,-0.5,-28.67,5,4.35,-29.89,,OTHER
+S1563,Scalloped hammerhead shark,Sphyrna lewini,260,F,PSAT,08/10/2010,5,-28.58,5,1.35,-28.62,,OTHER
+S1658,Galapagos shark,Carcharhinus galapagensis,270,M,PSAT,22/06/2016,-7.91,-14.33,64,-11.09,-14.45,,OTHER
+S1659,Galapagos shark,Carcharhinus galapagensis,310,M,PSAT,20/06/2016,-7.9,-14.44,52,-8.91,-14.47,,OTHER
+S1660,Galapagos shark,Carcharhinus galapagensis,280,F,PSAT,10/07/2016,-8.98,-13.93,38,-8.91,-15.25,,OTHER
+S1661,Galapagos shark,Carcharhinus galapagensis,258,F,PSAT,14/08/2016,-7.95,-14.45,95,-7.44,-14.61,,OTHER
+S1662,Galapagos shark,Carcharhinus galapagensis,293,M,PSAT,28/06/2016,-7.9,-14.44,48,-8.94,-13.68,,OTHER
+S1663,Galapagos shark,Carcharhinus galapagensis,300,F,PSAT,14/08/2016,-7.96,-14.43,90,-8.08,-14.3,,OTHER
+S1664,Galapagos shark,Carcharhinus galapagensis,173,M,SPOT,01/01/2017,-7.96,-14.43,11,-7.94,-14.43,,OTHER
+S1665,Galapagos shark,Carcharhinus galapagensis,170,F,SPOT,19/07/2016,-7.9,-14.34,9,-7.9,-14.34,,OTHER
+S1666,Galapagos shark,Carcharhinus galapagensis,195,M,SPOT,19/06/2016,-7.97,-14.42,62,-7.99,-14.43,,OTHER
+S1667,Galapagos shark,Carcharhinus galapagensis,230,M,SPOT,14/08/2016,-7.96,-14.43,26,-7.98,-14.37,,OTHER
+S1668,Galapagos shark,Carcharhinus galapagensis,296,F,SPOT,14/08/2016,-7.96,-14.44,26,-7.98,-14.47,,OTHER
+S1669,Galapagos shark,Carcharhinus galapagensis,258,F,SPOT,14/08/2016,-7.95,-14.45,139,-7.98,-14.41,,OTHER
+S1,Blue shark,Prionace glauca,251,U,SPOT,23/09/2004,-28.38,160.13,11,-27.01,161.62,,AUSTRL
+S2,Blue shark,Prionace glauca,202,M,SPOT,23/09/2004,-28.45,160.28,127,-23.03,160.6,,AUSTRL
+S3,Blue shark,Prionace glauca,228,F,SPOT,24/09/2004,-28.18,160.65,136,-22.6,165.26,,AUSTRL
+S4,Blue shark,Prionace glauca,240,M,SPOT,10/07/2004,-34.21,152.87,52,-29.08,158.42,,AUSTRL
+S5,Blue shark,Prionace glauca,224,F,SPOT,28/07/2005,-34.07,153.2,6,-36.45,153.76,,AUSTRL
+S6,Blue shark,Prionace glauca,200,U,SPOT,26/03/2007,-43.1,147.49,137,-45.36,146.62,,AUSTRL
+S7,Blue shark,Prionace glauca,159,F,PSAT,29/05/2014,-39.17,140.13,10,-40.04,139.64,,AUSTRL
+S8,Blue shark,Prionace glauca,302,M,PSAT,16/07/2013,-37.95,139.9,126,-37.28,124.88,,AUSTRL
+S9,Blue shark,Prionace glauca,216,F,PSAT,30/06/2013,-38.54,141.74,162,-8.87,112.06,,AUSTRL
+S10,Blue shark,Prionace glauca,207,F,PSAT,07/05/2013,-38.17,140.3,184,-38.26,102.96,,AUSTRL
+S11,Blue shark,Prionace glauca,178,F,PSAT,08/05/2013,-38.18,140.29,24,-38.56,140.6,,AUSTRL
+S12,Blue shark,Prionace glauca,229,M,SPOT,28/07/2013,40.87,-71.72,320,9.92,-84.11,,ATL_N
+S13,Blue shark,Prionace glauca,180,F,PSAT,21/10/2005,40.87,-70.86,129,18.5,-68.08,,ATL_N
+S14,Blue shark,Prionace glauca,295,M,SPOT,12/07/2014,40.69,-71.51,72,38.73,-61.68,,ATL_N
+S15,Blue shark,Prionace glauca,174,F,PSAT,07/04/2010,-23.58,41.22,13,-26.35,42.18,,IND_SW
+S16,Blue shark,Prionace glauca,256,F,PSAT,29/06/2010,-26.76,33.73,25,-28.7,33.87,,IND_SW
+S17,Blue shark,Prionace glauca,185,M,PSAT,30/03/2010,-18.85,63.16,41,-22.76,60.39,,IND_SW
+S18,Blue shark,Prionace glauca,233,F,PSAT,10/02/2010,-21.26,54.65,49,-21.18,57.12,,IND_SW
+S19,Blue shark,Prionace glauca,238,F,PSAT,13/04/2010,-20.4,40.9,59,-24.94,36.86,,IND_SW
+S20,Blue shark,Prionace glauca,250,M,SPOT,30/06/2016,40.7,-70.8,20,40.67,-70.06,,ATL_N
+S21,Blue shark,Prionace glauca,266,M,SPOT,07/08/2016,41.01,-71.37,47,40.87,-70.72,,ATL_N
+S22,Blue shark,Prionace glauca,240,M,SPOT,15/06/2016,40.8,-71.38,63,41.03,-70.64,,ATL_N
+S23,Blue shark,Prionace glauca,262,M,SPOT,07/07/2016,40.92,-71.28,51,42.14,-67.61,,ATL_N
+S24,Blue shark,Prionace glauca,312.5,M,SPOT,12/07/2016,40.92,-71.28,33,40.39,-69.41,,ATL_N
+S25,Blue shark,Prionace glauca,270,M,SPOT,08/08/2016,40.99,-71.37,47,40.97,-71.48,,ATL_N
+S26,Blue shark,Prionace glauca,269,M,SPOT,27/07/2016,41.12,-71.1,22,41.27,-71.36,,ATL_N
+S27,Blue shark,Prionace glauca,268.5,M,SPOT,12/07/2016,40.92,-71.28,11,41.08,-71.31,,ATL_N
+S28,Blue shark,Prionace glauca,254,M,SPOT,15/06/2016,40.8,-71.38,68,40.72,-71.2,,ATL_N
+S29,Blue shark,Prionace glauca,240,M,SPOT,15/08/2016,41.12,-71.28,32,40.61,-71.52,,ATL_N
+S30,Blue shark,Prionace glauca,239,M,SPOT,27/07/2016,41.12,-71.1,38,41.01,-70.62,,ATL_N
+S31,Blue shark,Prionace glauca,254,M,SPOT,07/07/2016,40.92,-71.28,84,43.16,-57.75,,ATL_N
+S32,Blue shark,Prionace glauca,281,M,SPOT,30/06/2016,40.7,-70.8,46,42.93,-67.81,,ATL_N
+S33,Blue shark,Prionace glauca,265,M,SPOT,27/07/2016,41.12,-71.1,36,41.24,-71.24,,ATL_N
+S34,Blue shark,Prionace glauca,288,M,SPOT,06/07/2016,40.92,-71.28,29,40.24,-70.02,,ATL_N
+S35,Blue shark,Prionace glauca,220,F,PSAT,27/08/2011,33.03,-37.04,110,31.18,-35.91,,ATL_N
+S36,Blue shark,Prionace glauca,220,F,PSAT,28/08/2011,32.44,-36.11,93,18.12,-25.22,,ATL_N
+S37,Blue shark,Prionace glauca,120,F,SPOT,20/05/2015,37.01,-7.71,39,39,-10.41,,ATL_N
+S38,Blue shark,Prionace glauca,205,M,SPOT,04/06/2014,41.28,-42.36,218,33.56,-35.96,,ATL_N
+S39,Blue shark,Prionace glauca,240,M,SPOT,05/06/2014,41.42,-42.1,232,38.65,-52.05,,ATL_N
+S40,Blue shark,Prionace glauca,220,F,SPOT,05/06/2014,41.4,-42.31,42,32.69,-44.3,,ATL_N
+S41,Blue shark,Prionace glauca,220,F,SPOT,05/06/2014,41.39,-42.48,93,38.64,-40.92,,ATL_N
+S42,Blue shark,Prionace glauca,230,F,SPOT,05/06/2014,41.38,-42.57,10,38.77,-39.06,,ATL_N
+S43,Blue shark,Prionace glauca,215,F,SPOT,07/06/2014,41.23,-44.01,27,32.13,-48.36,,ATL_N
+S44,Blue shark,Prionace glauca,210,M,SPOT,11/09/2015,40.29,-36.16,2,40.32,-35.8,,ATL_N
+S45,Blue shark,Prionace glauca,210,F,SPOT,07/06/2014,41.22,-44.01,15,36.52,-41.12,,ATL_N
+S46,Blue shark,Prionace glauca,190,F,SPOT,31/08/2015,39.29,-40.44,21,28.86,-40.61,,ATL_N
+S47,Blue shark,Prionace glauca,190,F,SPOT,07/06/2014,41.44,-44.01,10,39.23,-46.46,,ATL_N
+S48,Blue shark,Prionace glauca,220,F,SPOT,09/06/2014,41.57,-43.23,56,18.88,-45.54,,ATL_N
+S49,Blue shark,Prionace glauca,220,F,SPOT,11/06/2014,41.53,-43.42,42,33.93,-47.63,,ATL_N
+S50,Blue shark,Prionace glauca,240,F,PSAT,21/01/2017,13.35,-28.19,37,23.83,-30.63,,ATL_N
+S51,Blue shark,Prionace glauca,265,M,PSAT,17/02/2017,13.71,-30.33,35,13.4,-34.84,,ATL_N
+S52,Blue shark,Prionace glauca,255,F,PSAT,24/01/2017,13.4,-29.09,34,24.53,-24.43,,ATL_N
+S53,Blue shark,Prionace glauca,230,M,SPOT,27/09/2015,33.57,-32.66,4,33.14,-31.59,,ATL_N
+S54,Blue shark,Prionace glauca,220,F,SPOT,16/01/2017,11.02,-24.03,72,21.84,-27.12,,ATL_N
+S55,Blue shark,Prionace glauca,230,M,SPOT,17/01/2017,10.32,-23.07,39,14.89,-27.65,,ATL_N
+S56,Blue shark,Prionace glauca,195,F,SPOT,17/01/2017,10.34,-23.09,22,12.8,-25.75,,ATL_N
+S57,Blue shark,Prionace glauca,270,M,SPOT,19/01/2017,12.05,-27.16,83,16.59,-29.93,,ATL_N
+S58,Blue shark,Prionace glauca,225,F,SPOT,19/01/2017,12.04,-27.15,24,16.73,-29.24,,ATL_N
+S59,Blue shark,Prionace glauca,230,F,SPOT,20/01/2017,12.42,-27.55,108,30.43,-21.29,,ATL_N
+S60,Blue shark,Prionace glauca,220,M,SPOT,26/01/2017,14.08,-28.42,88,18.34,-23.96,,ATL_N
+S61,Blue shark,Prionace glauca,210,F,SPOT,22/01/2017,13.24,-28.23,124,42.35,-31.61,,ATL_N
+S62,Blue shark,Prionace glauca,225,M,SPOT,26/01/2017,14.17,-28.4,171,41.15,-43.83,,ATL_N
+S63,Blue shark,Prionace glauca,230,F,SPOT,25/01/2017,13.49,-29.14,102,38.17,-17.02,,ATL_N
+S64,Blue shark,Prionace glauca,200,F,PSAT,24/01/2017,13.4,-28.5,47,28.08,-32.55,,ATL_N
+S65,Blue shark,Prionace glauca,230,M,PSAT,26/01/2017,14.19,-28.43,19,15.75,-25.05,,ATL_N
+S66,Blue shark,Prionace glauca,230,F,PSAT,25/01/2017,13.46,-28.5,121,34.02,-27.93,,ATL_N
+S67,Blue shark,Prionace glauca,230,M,PSAT,28/01/2017,15.03,-28.41,121,39.35,-40.46,,ATL_N
+S68,Blue shark,Prionace glauca,210,F,SPOT,28/08/2011,31.5,-36.4,47,30.04,-40.04,,ATL_N
+S69,Blue shark,Prionace glauca,150,F,PSAT,24/08/2007,50.03,-4.41,70,46.95,-5.55,,ATL_N
+S70,Blue shark,Prionace glauca,180,F,PSAT,04/06/2008,37,-8.66,117,29.44,-13.52,,ATL_N
+S71,Blue shark,Prionace glauca,180,F,PSAT,04/06/2008,36.99,-8.64,179,21.6,-33.87,,ATL_N
+S72,Blue shark,Prionace glauca,199,F,PSAT,06/07/2006,50.04,-4.1,30,48.81,-5.58,,ATL_N
+S73,Blue shark,Prionace glauca,200,F,PSAT,03/06/2008,36.99,-8.66,106,28.66,-14.37,,ATL_N
+S74,Blue shark,Prionace glauca,90,F,PSAT,10/10/2006,36.98,-8.61,58,36.04,-11.1,,ATL_N
+S75,Blue shark,Prionace glauca,199,M,PSAT,17/06/2007,36.3,-24.28,59,29.48,-28.69,,ATL_N
+S76,Blue shark,Prionace glauca,130,F,PSAT,01/08/2007,50.05,-4.11,60,47.06,-8.81,,ATL_N
+S77,Blue shark,Prionace glauca,115,F,PSAT,04/10/2007,36.96,-8.68,69,34.34,-11.62,,ATL_N
+S78,Blue shark,Prionace glauca,153,F,PSAT,21/07/2006,50.09,-4.37,60,45.45,-7.47,,ATL_N
+S79,Blue shark,Prionace glauca,130,F,PSAT,08/08/2006,50.04,-4.06,60,44.82,-5.27,,ATL_N
+S80,Blue shark,Prionace glauca,186,F,SPOT,15/08/2006,50.03,-4.09,8,48.9,-6.17,,ATL_N
+S81,Blue shark,Prionace glauca,170,F,SPOT,18/08/2006,50.02,-4,14,50.84,-7.59,,ATL_N
+S82,Blue shark,Prionace glauca,160,F,SPOT,31/08/2007,50,-4.26,20,50.41,-7.94,,ATL_N
+S83,Blue shark,Prionace glauca,145,F,SPOT,01/06/2009,36.98,-8.65,23,36.45,-8.77,,ATL_N
+S84,Blue shark,Prionace glauca,220,M,SPOT,01/06/2009,36.98,-8.63,102,35.73,-6.48,,ATL_N
+S85,Blue shark,Prionace glauca,85,M,SPOT,10/10/2006,36.99,-8.64,23,37.92,-9.12,,ATL_N
+S86,Blue shark,Prionace glauca,130,F,SPOT,06/06/2008,37.01,-8.67,76,46.91,-7.52,,ATL_N
+S87,Blue shark,Prionace glauca,130,M,SPOT,13/06/2008,37.02,-8.64,112,39.27,-10.58,,ATL_N
+S88,Blue shark,Prionace glauca,125,F,SPOT,26/05/2009,36.99,-8.69,22,36.08,-6.74,,ATL_N
+S89,Blue shark,Prionace glauca,190,F,SPOT,30/08/2011,31.07,-36.58,18,33.95,-36.12,,ATL_N
+S90,Blue shark,Prionace glauca,220,F,SPOT,02/09/2011,34.02,-36.44,33,29.62,-37.11,,ATL_N
+S91,Blue shark,Prionace glauca,260,M,PSAT,21/08/2011,42.32,-28,127,33.68,-38.78,,ATL_N
+S92,Blue shark,Prionace glauca,250,M,PSAT,22/08/2011,42.38,-29.48,116,23.66,-27.51,,ATL_N
+S93,Blue shark,Prionace glauca,240,M,PSAT,26/08/2011,33.55,-36.47,120,13.62,-50.04,,ATL_N
+S94,Blue shark,Prionace glauca,200,M,PSAT,26/08/2011,33.38,-36.49,119,29.04,-43.77,,ATL_N
+S95,Blue shark,Prionace glauca,185,M,PSAT,26/06/2010,42.32,-44.73,88,49.91,-43.16,,ATL_N
+S96,Blue shark,Prionace glauca,192,F,PSAT,27/06/2010,42.67,-45.7,87,31.53,-44.56,,ATL_N
+S97,Blue shark,Prionace glauca,125,F,PSAT,26/05/2009,36.99,-8.69,107,35.79,-8.51,,ATL_N
+S98,Blue shark,Prionace glauca,240,F,PSAT,21/08/2011,42.32,-28,81,17.53,-28.79,,ATL_N
+S99,Blue shark,Prionace glauca,240,F,PSAT,26/08/2011,33.55,-36.47,120,36.32,-39.19,,ATL_N
+S100,Blue shark,Prionace glauca,260,F,PSAT,29/06/2010,41.03,-45.3,119,24.02,-45.44,,ATL_N
+S101,Blue shark,Prionace glauca,240,F,PSAT,30/06/2010,40.65,-48.77,179,40.53,-35.87,,ATL_N
+S102,Blue shark,Prionace glauca,200,M,PSAT,25/06/2010,42.22,-43.98,120,41.59,-32.01,,ATL_N
+S103,Blue shark,Prionace glauca,210,M,PSAT,25/06/2010,42.2,-44.02,112,51.03,-30.02,,ATL_N
+S104,Blue shark,Prionace glauca,235,M,PSAT,25/06/2010,42.17,-44.13,179,36.93,-55.66,,ATL_N
+S105,Blue shark,Prionace glauca,164,M,SPOT,20/08/2010,38.47,-28.6,245,6.22,-15.18,,ATL_N
+S106,Blue shark,Prionace glauca,140,M,SPOT,20/08/2010,38.42,-28.6,126,32.41,-31.46,,ATL_N
+S107,Blue shark,Prionace glauca,183,M,SPOT,20/08/2010,38.41,-28.6,525,34.39,-45.62,,ATL_N
+S108,Blue shark,Prionace glauca,201,F,SPOT,18/05/2012,38.34,-28.58,33,27.5,-29.97,,ATL_N
+S109,Blue shark,Prionace glauca,211,M,SPOT,20/08/2010,38.34,-28.58,527,30.13,-32.12,,ATL_N
+S110,Blue shark,Prionace glauca,159,M,SPOT,20/08/2010,38.41,-28.6,213,11.15,-37.02,,ATL_N
+S111,Blue shark,Prionace glauca,172,M,SPOT,20/08/2010,38.34,-28.58,369,37.7,-28.9,,ATL_N
+S112,Blue shark,Prionace glauca,180,M,SPOT,20/08/2010,38.43,-28.6,381,-2.82,-18.13,,ATL_N
+S113,Blue shark,Prionace glauca,207,M,SPOT,20/08/2010,38.34,-28.58,199,28.7,-19.5,,ATL_N
+S114,Blue shark,Prionace glauca,183,M,SPOT,20/08/2010,38.41,-28.6,116,15.64,-25.64,,ATL_N
+S115,Blue shark,Prionace glauca,112,M,PSAT,20/08/2010,38.44,-28.61,175,37.3,-27.96,,ATL_N
+S116,Blue shark,Prionace glauca,127,M,PSAT,23/10/2010,38.32,-30.44,28,40.32,-29.26,,ATL_N
+S117,Blue shark,Prionace glauca,122,F,PSAT,20/08/2010,38.43,-28.6,102,37.81,-28.01,,ATL_N
+S118,Blue shark,Prionace glauca,120,F,PSAT,20/08/2010,38.41,-28.6,161,35.99,-28.61,,ATL_N
+S119,Blue shark,Prionace glauca,112,M,PSAT,21/08/2010,38.41,-28.53,271,41.26,-50.22,,ATL_N
+S120,Blue shark,Prionace glauca,120,M,PSAT,20/08/2010,38.39,-28.59,276,39.03,-31.5,,ATL_N
+S121,Blue shark,Prionace glauca,142,F,SPOT,26/02/2009,38.32,-28.65,27,37.84,-28.91,,ATL_N
+S122,Blue shark,Prionace glauca,145,F,SPOT,26/02/2009,38.33,-28.73,953,32.83,-41.06,,ATL_N
+S123,Blue shark,Prionace glauca,127,F,SPOT,19/02/2009,38.36,-28.66,878,10.69,-37.91,,ATL_N
+S124,Blue shark,Prionace glauca,139,F,SPOT,19/02/2009,38.37,-28.67,617,46.92,-13.16,,ATL_N
+S125,Blue shark,Prionace glauca,148,F,SPOT,26/02/2009,38.32,-28.63,91,41.42,-9.59,,ATL_N
+S126,Blue shark,Prionace glauca,175,F,SPOT,26/02/2009,38.32,-28.56,225,6.87,-23.95,,ATL_N
+S127,Blue shark,Prionace glauca,156,F,PSAT,02/05/2009,39.04,-17.48,123,48.08,-8.16,,ATL_N
+S128,Blue shark,Prionace glauca,116,F,PSAT,22/01/2010,37.4,-32.72,83,39.02,-27.63,,ATL_N
+S129,Blue shark,Prionace glauca,116,M,PSAT,07/11/2009,32.53,-28.38,159,37.38,-34.05,,ATL_N
+S130,Blue shark,Prionace glauca,200,M,PSAT,18/11/2009,26.38,-27.14,72,30.16,-26.93,,ATL_N
+S131,Blue shark,Prionace glauca,168,M,SPOT,16/10/2009,38.34,-28.64,36,30.71,-29.98,,ATL_N
+S132,Blue shark,Prionace glauca,133,M,SPOT,16/10/2009,38.34,-28.21,206,35.14,-21.35,,ATL_N
+S133,Blue shark,Prionace glauca,201,M,SPOT,16/10/2009,38.34,-28.6,162,35.25,-24.59,,ATL_N
+S134,Blue shark,Prionace glauca,156,M,SPOT,16/10/2009,38.33,-28.52,82,29.83,-24.67,,ATL_N
+S135,Blue shark,Prionace glauca,130,M,SPOT,02/12/2009,38.35,-28.53,43,31.59,-26.62,,ATL_N
+S136,Blue shark,Prionace glauca,178,F,SPOT,02/12/2009,38.33,-28.51,580,28.97,-65.99,,ATL_N
+S137,Blue shark,Prionace glauca,178,U,PSAT,09/09/2005,44.11,-52.91,22,44.02,-53.3,,ATL_N
+S138,Blue shark,Prionace glauca,168,U,PSAT,22/10/2007,44.39,-62.73,51,40.39,-62.23,,ATL_N
+S139,Blue shark,Prionace glauca,190,U,PSAT,17/10/2007,43.6,-62.32,99,42.37,-45.7,,ATL_N
+S140,Blue shark,Prionace glauca,172,U,PSAT,27/09/2007,44.01,-63.1,59,43.27,-64.7,,ATL_N
+S141,Blue shark,Prionace glauca,178,U,PSAT,08/09/2005,44.41,-53.28,58,44.92,-54.37,,ATL_N
+S142,Blue shark,Prionace glauca,153,U,PSAT,06/10/2006,43.88,-63.04,37,43.59,-61.66,,ATL_N
+S143,Blue shark,Prionace glauca,209,U,PSAT,14/09/2005,42.12,-59.31,25,11.3,-53.43,,ATL_N
+S144,Blue shark,Prionace glauca,156,U,PSAT,10/09/2005,44.27,-53.04,73,49.84,-41.67,,ATL_N
+S145,Blue shark,Prionace glauca,200.9,U,PSAT,26/08/2005,44.33,-63.42,118,43.73,-63.6,,ATL_N
+S146,Blue shark,Prionace glauca,158,U,PSAT,10/09/2005,44.38,-53.33,76,47.77,-42.81,,ATL_N
+S147,Blue shark,Prionace glauca,142,U,PSAT,06/10/2006,43.88,-63.04,47,42.67,-62.49,,ATL_N
+S148,Blue shark,Prionace glauca,138,U,PSAT,06/10/2006,43.88,-63.04,39,40.09,-62.49,,ATL_N
+S149,Blue shark,Prionace glauca,170,U,PSAT,06/10/2006,43.88,-63.04,12,41.73,-61.07,,ATL_N
+S150,Blue shark,Prionace glauca,142,U,PSAT,07/10/2006,44.34,-62.49,23,40.37,-58.15,,ATL_N
+S151,Blue shark,Prionace glauca,142,U,PSAT,07/10/2006,44.34,-62.49,11,43.68,-60.5,,ATL_N
+S152,Blue shark,Prionace glauca,167,U,PSAT,07/10/2006,44.21,-62.91,66,43.41,-42.96,,ATL_N
+S153,Blue shark,Prionace glauca,125,U,PSAT,08/10/2006,44.27,-62.53,70,41.22,-42.58,,ATL_N
+S154,Blue shark,Prionace glauca,177,U,PSAT,09/10/2006,44.05,-63.5,10,43.92,-63.61,,ATL_N
+S155,Blue shark,Prionace glauca,151,U,PSAT,09/10/2006,43.92,-63.29,41,41.53,-63.27,,ATL_N
+S156,Blue shark,Prionace glauca,135,U,PSAT,09/10/2006,43.96,-63.18,14,40.04,-57.19,,ATL_N
+S157,Blue shark,Prionace glauca,142,U,PSAT,09/10/2006,44.08,-63.28,17,42.5,-66.17,,ATL_N
+S158,Blue shark,Prionace glauca,139,U,PSAT,15/09/2008,42.87,-49.72,15,42.1,-50.68,,ATL_N
+S159,Blue shark,Prionace glauca,135,U,PSAT,26/09/2007,44.15,-62.82,84,40.66,-57.84,,ATL_N
+S160,Blue shark,Prionace glauca,130,U,PSAT,26/09/2007,44.13,-62.87,33,39.97,-61.5,,ATL_N
+S161,Blue shark,Prionace glauca,129,U,PSAT,26/09/2007,44.09,-62.9,111,35.53,-65.45,,ATL_N
+S162,Blue shark,Prionace glauca,154,U,PSAT,26/09/2007,44.03,-62.98,45,43.41,-63.33,,ATL_N
+S163,Blue shark,Prionace glauca,160,U,PSAT,26/09/2007,43.98,-63.06,112,39.69,-50.93,,ATL_N
+S164,Blue shark,Prionace glauca,167,U,PSAT,17/10/2007,43.07,-63.06,119,42.22,-59.29,,ATL_N
+S165,Blue shark,Prionace glauca,167,M,SPOT,19/09/2012,51.56,-8.29,213,18.9,-21.74,,ATL_N
+S166,Blue shark,Prionace glauca,134,M,SPOT,25/09/2013,51.8,-8.25,314,51.07,-7.19,,ATL_N
+S167,Blue shark,Prionace glauca,138,F,SPOT,25/09/2013,51.58,-8.29,74,47.6,-10.62,,ATL_N
+S168,Blue shark,Prionace glauca,118,U,PSAT,07/09/2012,51.54,-8.32,71,45.5,-1.72,,ATL_N
+S169,Blue shark,Prionace glauca,,U,SPOT,23/06/2012,33.24,-117.98,188,17.01,-124.01,,PAC_NE
+S170,Blue shark,Prionace glauca,,U,SPOT,19/09/2010,34.17,-120.19,737,33.24,-120.39,,PAC_NE
+S171,Blue shark,Prionace glauca,,U,SPOT,21/07/2012,33.81,-119.45,58,34.09,-119.39,,PAC_NE
+S172,Blue shark,Prionace glauca,,U,SPOT,31/10/2011,32.67,-122.34,68,14.29,-129.29,,PAC_NE
+S173,Blue shark,Prionace glauca,,U,SPOT,03/07/2011,33.91,-119.52,178,27.44,-118.85,,PAC_NE
+S174,Blue shark,Prionace glauca,,U,SPOT,31/10/2011,33.11,-121.2,98,14.65,-121.87,,PAC_NE
+S175,Blue shark,Prionace glauca,,U,SPOT,29/10/2014,28.19,-123.04,365,28.97,-134.55,,PAC_NE
+S176,Blue shark,Prionace glauca,,U,SPOT,15/07/2014,32.75,-122.61,69,31.44,-119.37,,PAC_NE
+S177,Blue shark,Prionace glauca,,U,SPOT,30/06/2015,32.89,-119.84,24,22.7,-125,,PAC_NE
+S178,Blue shark,Prionace glauca,,U,SPOT,15/11/2015,36.15,-122.68,10,34.29,-122.21,,PAC_NE
+S179,Blue shark,Prionace glauca,,U,SPOT,13/10/2015,36.64,-122.2,142,28.74,-116.49,,PAC_NE
+S180,Blue shark,Prionace glauca,,U,SPOT,08/11/2015,36.69,-122.1,17,35.85,-122.71,,PAC_NE
+S181,Blue shark,Prionace glauca,,U,SPOT,13/10/2015,36.68,-122.18,60,33.42,-120.23,,PAC_NE
+S182,Blue shark,Prionace glauca,,U,PSAT,03/07/2002,32.44,-118.28,132,33.86,-119.39,,PAC_NE
+S183,Blue shark,Prionace glauca,,U,SPOT,26/09/2016,36.94,-122.36,212,37.73,-124.74,,PAC_NE
+S184,Blue shark,Prionace glauca,,U,PSAT,10/11/2004,35.11,-122.14,43,32.35,-126.95,,PAC_NE
+S185,Blue shark,Prionace glauca,,U,PSAT,11/11/2004,35.22,-121.57,40,22.37,-113.74,,PAC_NE
+S186,Blue shark,Prionace glauca,,U,PSAT,15/11/2004,35.72,-123.61,87,30.3,-120,,PAC_NE
+S187,Blue shark,Prionace glauca,,U,PSAT,15/11/2004,35.99,-122.97,136,5.95,-111.96,,PAC_NE
+S188,Blue shark,Prionace glauca,,U,PSAT,15/11/2004,36.13,-122.35,87,12.53,-119.15,,PAC_NE
+S189,Blue shark,Prionace glauca,,U,PSAT,15/11/2004,36.45,-122.19,89,12.37,-109.45,,PAC_NE
+S190,Blue shark,Prionace glauca,,U,PSAT,19/11/2004,34.27,-121.4,56,27.09,-114.51,,PAC_NE
+S191,Blue shark,Prionace glauca,,U,PSAT,24/11/2004,33.12,-121.11,25,29.01,-114.84,,PAC_NE
+S192,Blue shark,Prionace glauca,,U,PSAT,03/02/2006,25.39,-114.53,43,27.15,-114.29,,PAC_NE
+S193,Blue shark,Prionace glauca,,U,PSAT,07/02/2006,24.36,-111.58,22,15.77,-111.96,,PAC_NE
+S194,Blue shark,Prionace glauca,,U,PSAT,14/02/2006,21.05,-109.95,9,18.81,-110,,PAC_NE
+S195,Blue shark,Prionace glauca,,U,PSAT,15/07/2007,32.29,-118.19,135,5.13,-125.84,,PAC_NE
+S196,Blue shark,Prionace glauca,,U,PSAT,27/07/2007,46.93,-127.14,74,44.86,-134.27,,PAC_NE
+S197,Blue shark,Prionace glauca,,U,PSAT,21/07/2007,48.33,-126.41,106,37.66,-128.94,,PAC_NE
+S198,Blue shark,Prionace glauca,,U,PSAT,25/07/2007,48.04,-126.84,206,37.43,-145.81,,PAC_NE
+S199,Blue shark,Prionace glauca,,U,PSAT,27/07/2007,46.66,-126.74,108,36.86,-129.16,,PAC_NE
+S200,Blue shark,Prionace glauca,,U,PSAT,27/07/2007,47.94,-126.2,214,10.9,-125.1,,PAC_NE
+S201,Blue shark,Prionace glauca,,U,PSAT,04/08/2007,45.67,-128.66,235,33.98,-118.9,,PAC_NE
+S202,Blue shark,Prionace glauca,,U,PSAT,18/06/2008,32.72,-117.77,301,24.78,-120.71,,PAC_NE
+S203,Blue shark,Prionace glauca,,U,SPOT,30/06/2002,32.71,-117.62,147,27.23,-123.8,,PAC_NE
+S204,Blue shark,Prionace glauca,,U,SPOT,26/06/2002,33.95,-119.38,176,25.55,-118.17,,PAC_NE
+S205,Blue shark,Prionace glauca,,U,SPOT,05/07/2002,32.99,-118.42,18,34.33,-123.72,,PAC_NE
+S206,Blue shark,Prionace glauca,,U,SPOT,08/07/2002,33.46,-118.59,140,26.61,-118.45,,PAC_NE
+S207,Blue shark,Prionace glauca,,U,SPOT,01/07/2003,34.41,-120.03,195,15.92,-129.3,,PAC_NE
+S208,Blue shark,Prionace glauca,,U,SPOT,28/06/2003,33.75,-119.67,108,11.01,-139.88,,PAC_NE
+S209,Blue shark,Prionace glauca,,U,SPOT,24/06/2004,32.29,-118.43,4,31.03,-117.82,,PAC_NE
+S210,Blue shark,Prionace glauca,,U,SPOT,06/07/2004,32.48,-117.32,13,29.41,-116.33,,PAC_NE
+S211,Blue shark,Prionace glauca,,U,SPOT,03/02/2006,24.68,-113.3,22,18.3,-113.34,,PAC_NE
+S212,Blue shark,Prionace glauca,,U,SPOT,22/11/2004,34.53,-122.27,102,27.32,-115.01,,PAC_NE
+S213,Blue shark,Prionace glauca,,U,SPOT,11/10/2004,23.87,-115.95,347,5.35,-113.27,,PAC_NE
+S214,Blue shark,Prionace glauca,,U,SPOT,24/12/2004,29.14,-114.99,12,28.96,-114.92,,PAC_NE
+S215,Blue shark,Prionace glauca,,U,SPOT,09/02/2005,14.78,-110.74,12,14.5,-111.61,,PAC_NE
+S216,Blue shark,Prionace glauca,,U,SPOT,05/05/2005,7.28,-124.03,11,7.09,-125.78,,PAC_NE
+S217,Blue shark,Prionace glauca,,U,SPOT,23/11/2004,36.4,-122.19,14,35.6,-122.98,,PAC_NE
+S218,Blue shark,Prionace glauca,,U,SPOT,03/04/2005,5.72,-119.1,11,6.4,-119.01,,PAC_NE
+S219,Blue shark,Prionace glauca,,U,SPOT,15/11/2004,36.22,-122.35,110,8.04,-105.84,,PAC_NE
+S220,Blue shark,Prionace glauca,,U,SPOT,23/11/2004,34.45,-122.76,236,30.16,-125.04,,PAC_NE
+S221,Blue shark,Prionace glauca,,U,SPOT,19/11/2004,35.03,-121.56,84,17.04,-107.96,,PAC_NE
+S222,Blue shark,Prionace glauca,,U,SPOT,19/11/2004,35.24,-121.76,82,14.6,-107.83,,PAC_NE
+S223,Blue shark,Prionace glauca,,U,SPOT,02/08/2007,32.85,-119.21,24,32.73,-119.17,,PAC_NE
+S224,Blue shark,Prionace glauca,,U,SPOT,02/08/2007,33.24,-120.61,86,21.68,-120.9,,PAC_NE
+S225,Blue shark,Prionace glauca,,U,SPOT,14/02/2005,13.68,-109.44,11,12.71,-109.71,,PAC_NE
+S226,Blue shark,Prionace glauca,,U,SPOT,09/07/2005,33.31,-117.71,4,33.59,-117.89,,PAC_NE
+S227,Blue shark,Prionace glauca,,U,SPOT,10/11/2004,35.25,-121.34,38,26.43,-114.86,,PAC_NE
+S228,Blue shark,Prionace glauca,,U,SPOT,08/11/2004,35.16,-121.77,44,32.39,-126.96,,PAC_NE
+S229,Blue shark,Prionace glauca,,U,SPOT,15/11/2004,34.02,-121.44,35,22.56,-113.76,,PAC_NE
+S230,Blue shark,Prionace glauca,,U,SPOT,16/11/2004,33.04,-121.06,234,8.49,-156.27,,PAC_NE
+S231,Blue shark,Prionace glauca,,U,SPOT,15/11/2004,36.21,-122.37,84,12.03,-118.13,,PAC_NE
+S232,Blue shark,Prionace glauca,,U,SPOT,10/07/2005,33.28,-118.08,79,46.76,-124.28,,PAC_NE
+S233,Blue shark,Prionace glauca,,U,SPOT,31/01/2006,25.46,-113.35,32,16.86,-110.81,,PAC_NE
+S234,Blue shark,Prionace glauca,,U,SPOT,08/02/2006,23.67,-112.76,29,16.58,-111.07,,PAC_NE
+S235,Blue shark,Prionace glauca,,U,SPOT,16/11/2004,35.65,-121.43,15,30.27,-118.27,,PAC_NE
+S236,Blue shark,Prionace glauca,,U,SPOT,30/01/2006,25.26,-114.07,39,22.53,-112.69,,PAC_NE
+S237,Blue shark,Prionace glauca,,U,SPOT,04/02/2006,24.72,-112.89,22,22.94,-110.22,,PAC_NE
+S238,Blue shark,Prionace glauca,,U,SPOT,01/02/2006,25.45,-114.18,44,27.13,-114.31,,PAC_NE
+S239,Blue shark,Prionace glauca,,U,SPOT,19/02/2006,23.17,-114.23,28,21.84,-112.28,,PAC_NE
+S240,Blue shark,Prionace glauca,,U,SPOT,04/02/2006,24.55,-114.35,26,21.78,-111.12,,PAC_NE
+S241,Blue shark,Prionace glauca,,U,SPOT,12/02/2006,21.37,-110.81,10,18.87,-110.11,,PAC_NE
+S242,Blue shark,Prionace glauca,,U,SPOT,04/07/2006,33.83,-119.41,186,19,-118.76,,PAC_NE
+S243,Blue shark,Prionace glauca,,U,SPOT,16/07/2006,33.35,-117.65,78,29.3,-115.29,,PAC_NE
+S244,Blue shark,Prionace glauca,,U,SPOT,05/02/2006,25.15,-113.3,9,23.75,-112.51,,PAC_NE
+S245,Blue shark,Prionace glauca,,U,SPOT,13/03/2006,14.91,-112.71,11,14.48,-112.62,,PAC_NE
+S246,Blue shark,Prionace glauca,,U,SPOT,30/12/2007,40.2,-163.2,9,39.94,-161.31,,PAC_NE
+S247,Blue shark,Prionace glauca,,U,SPOT,24/12/2007,32.96,-124.92,9,30.58,-125.08,,PAC_NE
+S248,Blue shark,Prionace glauca,,U,SPOT,28/07/2007,48.54,-125.97,12,46.59,-124.75,,PAC_NE
+S249,Blue shark,Prionace glauca,,U,SPOT,11/11/2007,38.54,-133.5,10,38.84,-132.02,,PAC_NE
+S250,Blue shark,Prionace glauca,,U,SPOT,04/07/2008,33.83,-118.67,6,33.92,-119.32,,PAC_NE
+S251,Blue shark,Prionace glauca,,U,SPOT,27/07/2007,48.19,-126.48,103,24.01,-112.66,,PAC_NE
+S252,Blue shark,Prionace glauca,,U,SPOT,02/08/2007,46.19,-128.06,236,33.98,-118.94,,PAC_NE
+S253,Blue shark,Prionace glauca,,U,SPOT,17/07/2007,33.96,-119.03,148,23.64,-113.81,,PAC_NE
+S254,Blue shark,Prionace glauca,,U,SPOT,18/12/2008,32.62,-149.47,6,32.92,-149.54,,PAC_NE
+S255,Blue shark,Prionace glauca,,U,SPOT,20/02/2008,37.78,-145.01,8,37.4,-143.63,,PAC_NE
+S256,Blue shark,Prionace glauca,,U,SPOT,15/09/2007,6.89,-124.03,9,7.77,-122.48,,PAC_NE
+S257,Blue shark,Prionace glauca,,U,SPOT,19/03/2008,32.55,-117.56,9,30.02,-116.98,,PAC_NE
+S258,Blue shark,Prionace glauca,,U,SPOT,01/02/2008,15.21,-121.66,8,15.07,-123.28,,PAC_NE
+S259,Blue shark,Prionace glauca,,U,SPOT,13/08/2010,45.6,-128.1,160,34.41,-122.96,,PAC_NE
+S260,Blue shark,Prionace glauca,,U,SPOT,05/08/2010,47.67,-125.86,244,33.74,-149.56,,PAC_NE
+S261,Blue shark,Prionace glauca,,U,SPOT,20/08/2009,32.62,-118.41,42,17.57,-123.41,,PAC_NE
+S262,Blue shark,Prionace glauca,,U,SPOT,28/10/2011,33.81,-121.25,71,15.45,-116.13,,PAC_NE
+S263,Blue shark,Prionace glauca,,U,SPOT,08/08/2010,32.54,-119.01,377,32.93,-122.58,,PAC_NE
+S264,Blue shark,Prionace glauca,,U,SPOT,24/08/2009,33.65,-119.02,66,22.85,-117.78,,PAC_NE
+S265,Blue shark,Prionace glauca,,U,SPOT,15/08/2009,33.06,-119.27,59,36.53,-126.57,,PAC_NE
+S266,Blue shark,Prionace glauca,,U,SPOT,15/07/2012,33.83,-119.1,198,23.52,-119.91,,PAC_NE
+S267,Blue shark,Prionace glauca,,U,SPOT,26/08/2002,32.72,-119.81,9,30.75,-118.74,,PAC_NE
+S268,Blue shark,Prionace glauca,,U,SPOT,30/12/2003,24.91,-140.14,3,24.67,-140.22,,PAC_NE
+S269,Blue shark,Prionace glauca,,U,SPOT,30/07/2010,33.65,-118.96,74,18.05,-134.83,,PAC_NE
+S270,Blue shark,Prionace glauca,,U,SPOT,02/08/2012,33.94,-118.81,52,32.06,-118.98,,PAC_NE
+S271,Blue shark,Prionace glauca,,U,SPOT,30/07/2010,33.45,-120.13,90,21.85,-113.71,,PAC_NE
+S272,Blue shark,Prionace glauca,,U,SPOT,30/07/2010,33.73,-120.21,50,19.24,-122.26,,PAC_NE
+S273,Blue shark,Prionace glauca,,U,SPOT,02/08/2009,33.8,-119.45,160,31.95,-123.95,,PAC_NE
+S274,Blue shark,Prionace glauca,,U,SPOT,04/08/2009,33.73,-118.45,96,12.18,-123.28,,PAC_NE
+S275,Blue shark,Prionace glauca,,U,SPOT,12/08/2009,33.72,-119.52,204,26.85,-113.83,,PAC_NE
+S276,Blue shark,Prionace glauca,,U,SPOT,05/07/2012,30.78,-118.35,32,18.2,-125.12,,PAC_NE
+S277,Blue shark,Prionace glauca,,U,SPOT,02/08/2009,33.83,-119.64,144,27.47,-116.02,,PAC_NE
+S278,Blue shark,Prionace glauca,,U,SPOT,12/08/2009,33.73,-119.61,108,33.14,-126.46,,PAC_NE
+S279,Blue shark,Prionace glauca,,U,SPOT,06/08/2009,35.09,-121.26,337,11.6,-142.57,,PAC_NE
+S280,Blue shark,Prionace glauca,,U,SPOT,31/07/2010,33.56,-119.26,208,24.13,-120.12,,PAC_NE
+S281,Shortfin mako shark,Isurus oxyrinchus,141,F,SPOT,15/02/2013,-35.86,174.73,587,-33.73,179.72,,AUSTRL
+S282,Shortfin mako shark,Isurus oxyrinchus,140,F,SPOT,19/02/2013,-37.13,174.55,319,-37.31,174.08,,AUSTRL
+S283,Shortfin mako shark,Isurus oxyrinchus,180,F,SPOT,23/03/2013,21.24,-86.29,411,22.16,-86.92,,ATL_N
+S284,Shortfin mako shark,Isurus oxyrinchus,175,F,SPOT,25/03/2013,21.17,-86.3,297,21.38,-86.49,,ATL_N
+S285,Shortfin mako shark,Isurus oxyrinchus,153,M,SPOT,17/05/2014,37.9,-74.73,357,37.71,-74.66,,ATL_N
+S286,Shortfin mako shark,Isurus oxyrinchus,250,F,SPOT,08/04/2013,21.17,-86.3,293,21.47,-86.52,,ATL_N
+S287,Shortfin mako shark,Isurus oxyrinchus,175,M,SPOT,08/04/2013,21.17,-86.3,221,19.47,-87.37,,ATL_N
+S288,Shortfin mako shark,Isurus oxyrinchus,168,M,SPOT,27/05/2013,38.09,-74.44,98,43.57,-60.09,,ATL_N
+S289,Shortfin mako shark,Isurus oxyrinchus,175,F,SPOT,28/05/2013,38.03,-74.52,306,35.65,-73.04,,ATL_N
+S290,Shortfin mako shark,Isurus oxyrinchus,172,M,SPOT,28/05/2013,38.05,-74.5,251,36.38,-51.83,,ATL_N
+S291,Shortfin mako shark,Isurus oxyrinchus,155,M,SPOT,31/05/2013,38.04,-74.49,405,42.23,-66.29,,ATL_N
+S292,Shortfin mako shark,Isurus oxyrinchus,186,M,SPOT,21/03/2014,21.4,-86.47,124,21.46,-86.51,,ATL_N
+S293,Shortfin mako shark,Isurus oxyrinchus,89,F,SPOT,15/08/2013,41.04,-71.49,11,39.64,-72.14,,ATL_N
+S294,Shortfin mako shark,Isurus oxyrinchus,128,M,SPOT,11/09/2014,41.14,-71.3,394,40.59,-71.06,,ATL_N
+S295,Shortfin mako shark,Isurus oxyrinchus,198,M,SPOT,28/05/2013,38.07,-74.48,89,44.39,-48.46,,ATL_N
+S296,Shortfin mako shark,Isurus oxyrinchus,188,F,SPOT,20/05/2014,38.02,-74.55,379,37.21,-64.85,,ATL_N
+S297,Shortfin mako shark,Isurus oxyrinchus,179,M,SPOT,24/03/2014,21.36,-86.49,636,21.3,-86.43,,ATL_N
+S298,Shortfin mako shark,Isurus oxyrinchus,195,M,SPOT,24/03/2014,21.39,-86.47,137,21.9,-86.91,,ATL_N
+S299,Shortfin mako shark,Isurus oxyrinchus,148,F,SPOT,22/03/2014,21.4,-86.49,588,20.87,-94.68,,ATL_N
+S300,Shortfin mako shark,Isurus oxyrinchus,180,F,SPOT,12/12/2015,21.52,-86.48,36,21.45,-86.45,,ATL_N
+S301,Shortfin mako shark,Isurus oxyrinchus,193,M,SPOT,23/03/2014,21.41,-86.47,296,38.9,-72.85,,ATL_N
+S302,Shortfin mako shark,Isurus oxyrinchus,193,M,SPOT,25/03/2014,21.38,-86.47,754,21.4,-86.36,,ATL_N
+S303,Shortfin mako shark,Isurus oxyrinchus,205,M,SPOT,30/03/2014,21.33,-86.47,3,21.87,-86.49,,ATL_N
+S304,Shortfin mako shark,Isurus oxyrinchus,252,F,SPOT,29/03/2014,21.33,-86.47,202,10.91,-83.54,,ATL_N
+S305,Shortfin mako shark,Isurus oxyrinchus,178,M,SPOT,25/03/2014,21.39,-86.45,494,21.33,-86.6,,ATL_N
+S306,Shortfin mako shark,Isurus oxyrinchus,155,M,SPOT,19/05/2014,38.02,-74.55,516,39.88,-69.32,,ATL_N
+S307,Shortfin mako shark,Isurus oxyrinchus,178,F,SPOT,19/05/2014,38.01,-74.58,540,40.49,-62.94,,ATL_N
+S308,Shortfin mako shark,Isurus oxyrinchus,179,M,SPOT,20/05/2014,38.02,-74.55,438,36.88,-75.5,,ATL_N
+S309,Shortfin mako shark,Isurus oxyrinchus,150,M,SPOT,20/05/2014,38.04,-74.5,357,39.94,-71.83,,ATL_N
+S310,Shortfin mako shark,Isurus oxyrinchus,192,M,SPOT,14/06/2016,38.02,-74.65,47,42.76,-48.23,,ATL_N
+S311,Shortfin mako shark,Isurus oxyrinchus,192,M,SPOT,22/05/2014,38.03,-74.55,77,39.88,-69.6,,ATL_N
+S312,Shortfin mako shark,Isurus oxyrinchus,180,M,SPOT,21/05/2014,38.03,-74.53,111,43.67,-52.19,,ATL_N
+S313,Shortfin mako shark,Isurus oxyrinchus,180,F,SPOT,13/04/2015,21.37,-86.5,421,15.67,-76.62,,ATL_N
+S314,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,26/10/2014,32.49,-117.79,181,33.81,-127.6,,PAC_NE
+S315,Shortfin mako shark,Isurus oxyrinchus,305,F,SPOT,07/06/2015,33.5,-118.6,231,23.48,-148.18,,PAC_NE
+S316,Shortfin mako shark,Isurus oxyrinchus,175,M,SPOT,31/05/2015,38,-74.71,84,43.72,-59.12,,ATL_N
+S317,Shortfin mako shark,Isurus oxyrinchus,173,M,SPOT,06/04/2016,21.33,-86.5,50,19.33,-95.85,,ATL_N
+S318,Shortfin mako shark,Isurus oxyrinchus,158,F,SPOT,15/05/2015,37.87,-74.74,49,41.03,-71.96,,ATL_N
+S319,Shortfin mako shark,Isurus oxyrinchus,117,M,SPOT,19/05/2015,38.01,-74.54,195,37.81,-74.4,,ATL_N
+S320,Shortfin mako shark,Isurus oxyrinchus,121,M,SPOT,19/05/2015,38,-74.54,81,40.58,-72.83,,ATL_N
+S321,Shortfin mako shark,Isurus oxyrinchus,158,M,SPOT,19/05/2015,37.97,-74.55,469,40.18,-71.28,,ATL_N
+S322,Shortfin mako shark,Isurus oxyrinchus,158,M,SPOT,23/05/2015,38.02,-74.51,465,41.92,-65.51,,ATL_N
+S323,Shortfin mako shark,Isurus oxyrinchus,122,F,SPOT,24/05/2015,38.03,-74.52,466,41.14,-71.31,,ATL_N
+S324,Shortfin mako shark,Isurus oxyrinchus,143,M,SPOT,25/05/2015,38.04,-74.67,348,35.25,-74.91,,ATL_N
+S325,Shortfin mako shark,Isurus oxyrinchus,156,M,SPOT,26/05/2015,38.07,-74.5,331,34.11,-71.78,,ATL_N
+S326,Shortfin mako shark,Isurus oxyrinchus,167,F,SPOT,26/05/2015,38.1,-74.47,245,32.53,-49.65,,ATL_N
+S327,Shortfin mako shark,Isurus oxyrinchus,192,M,SPOT,26/05/2015,38.1,-74.46,254,38.11,-73.8,,ATL_N
+S328,Shortfin mako shark,Isurus oxyrinchus,147,F,SPOT,10/06/2015,37.99,-74.66,121,35.29,-30.61,,ATL_N
+S329,Shortfin mako shark,Isurus oxyrinchus,229,F,SPOT,25/04/2016,21.39,-86.47,128,23.93,-82.99,,ATL_N
+S330,Shortfin mako shark,Isurus oxyrinchus,220,M,SPOT,10/04/2016,21.4,-86.49,18,23.08,-87.1,,ATL_N
+S331,Shortfin mako shark,Isurus oxyrinchus,203,M,SPOT,12/04/2016,21.4,-86.47,72,23.25,-89.88,,ATL_N
+S332,Shortfin mako shark,Isurus oxyrinchus,183,F,SPOT,14/04/2016,21.25,-86.28,133,22.9,-92.28,,ATL_N
+S333,Shortfin mako shark,Isurus oxyrinchus,244,F,SPOT,13/04/2016,21.25,-86.29,135,21.57,-96.61,,ATL_N
+S334,Shortfin mako shark,Isurus oxyrinchus,196,F,SPOT,20/04/2016,21.42,-86.49,130,20.54,-96.73,,ATL_N
+S335,Shortfin mako shark,Isurus oxyrinchus,203,M,SPOT,13/04/2016,21.2,-86.29,60,16.98,-82.14,,ATL_N
+S336,Shortfin mako shark,Isurus oxyrinchus,246,F,SPOT,20/04/2016,21.33,-86.47,127,26.99,-87.55,,ATL_N
+S337,Shortfin mako shark,Isurus oxyrinchus,158,F,SPOT,15/06/2016,38,-74.65,66,41.12,-70.5,,ATL_N
+S338,Shortfin mako shark,Isurus oxyrinchus,169,M,SPOT,15/06/2016,38.02,-74.65,78,40.64,-69.57,,ATL_N
+S339,Shortfin mako shark,Isurus oxyrinchus,,M,SPOT,10/08/2016,41.05,-71.4,22,41.12,-70.92,,ATL_N
+S340,Shortfin mako shark,Isurus oxyrinchus,185,F,SPOT,20/08/2016,41.1,-71.29,11,41.15,-71.42,,ATL_N
+S341,Shortfin mako shark,Isurus oxyrinchus,220,F,PSAT,21/08/2011,42.34,-28.36,117,22.19,-23.72,,ATL_N
+S342,Shortfin mako shark,Isurus oxyrinchus,255,F,PSAT,22/08/2011,42.39,-29.43,117,39.07,-29.82,,ATL_N
+S343,Shortfin mako shark,Isurus oxyrinchus,170,M,PSAT,03/09/2011,34.15,-36.45,113,40.45,-44.04,,ATL_N
+S344,Shortfin mako shark,Isurus oxyrinchus,185,M,SPOT,23/08/2015,42.02,-39.49,39,41.38,-43.75,,ATL_N
+S345,Shortfin mako shark,Isurus oxyrinchus,195,F,SPOT,23/08/2015,41.36,-39.43,225,32.41,-43.36,,ATL_N
+S346,Shortfin mako shark,Isurus oxyrinchus,160,F,SPOT,09/06/2014,42.03,-43.4,66,42.86,-38.08,,ATL_N
+S347,Shortfin mako shark,Isurus oxyrinchus,180,M,SPOT,09/06/2014,42.11,-43.58,54,41.56,-40.33,,ATL_N
+S348,Shortfin mako shark,Isurus oxyrinchus,170,M,PSAT,27/01/2017,14.17,-28.26,17,13.91,-21.41,,ATL_N
+S349,Shortfin mako shark,Isurus oxyrinchus,140,M,SPOT,27/08/2015,41.32,-39.14,36,41.37,-38.3,,ATL_N
+S350,Shortfin mako shark,Isurus oxyrinchus,160,F,SPOT,27/08/2015,41.26,-39.42,102,40.13,-38.53,,ATL_N
+S351,Shortfin mako shark,Isurus oxyrinchus,170,F,SPOT,28/08/2015,41.11,-39.38,191,36.38,-42.89,,ATL_N
+S352,Shortfin mako shark,Isurus oxyrinchus,160,M,SPOT,28/08/2015,41.02,-39.41,33,46.4,-42.24,,ATL_N
+S353,Shortfin mako shark,Isurus oxyrinchus,150,M,SPOT,30/08/2015,39.47,-40.43,103,37.53,-43.42,,ATL_N
+S354,Shortfin mako shark,Isurus oxyrinchus,170,F,SPOT,03/10/2015,40.83,-40.94,23,41.81,-40.53,,ATL_N
+S355,Shortfin mako shark,Isurus oxyrinchus,210,F,SPOT,26/12/2015,38.87,-40.93,77,36.16,-55.41,,ATL_N
+S356,Shortfin mako shark,Isurus oxyrinchus,220,M,SPOT,16/01/2017,11.07,-24.13,87,13.6,-20.94,,ATL_N
+S357,Shortfin mako shark,Isurus oxyrinchus,210,F,SPOT,17/01/2017,10.13,-22.42,32,7.68,-20.67,,ATL_N
+S358,Shortfin mako shark,Isurus oxyrinchus,160,F,SPOT,20/01/2017,12.47,-28.03,61,14.13,-18.13,,ATL_N
+S359,Shortfin mako shark,Isurus oxyrinchus,150,F,SPOT,28/01/2017,15.15,-28.41,69,17.79,-17.38,,ATL_N
+S360,Shortfin mako shark,Isurus oxyrinchus,160,F,PSAT,24/01/2017,13.4,-29.07,37,18.98,-17.51,,ATL_N
+S361,Shortfin mako shark,Isurus oxyrinchus,210,F,SPOT,05/09/2011,34.37,-36.58,58,18.9,-52.79,,ATL_N
+S362,Shortfin mako shark,Isurus oxyrinchus,200,M,SPOT,08/09/2011,35.21,-36.41,50,42.35,-44.59,,ATL_N
+S363,Shortfin mako shark,Isurus oxyrinchus,140,M,PSAT,25/06/2010,42.37,-44.25,59,48.14,-31.73,,ATL_N
+S364,Shortfin mako shark,Isurus oxyrinchus,125,M,PSAT,23/04/2009,39.45,-43.17,29,40.46,-48.34,,ATL_N
+S365,Shortfin mako shark,Isurus oxyrinchus,220,M,PSAT,30/06/2010,40.8,-48.42,87,47.5,-41.59,,ATL_N
+S366,Shortfin mako shark,Isurus oxyrinchus,170,F,PSAT,24/04/2009,40.12,-44.42,59,25.47,-50.33,,ATL_N
+S367,Shortfin mako shark,Isurus oxyrinchus,130,M,PSAT,03/07/2010,40.92,-48.55,89,44.48,-41.83,,ATL_N
+S368,Shortfin mako shark,Isurus oxyrinchus,180,M,PSAT,27/06/2010,42.68,-45.67,114,40.84,-50.32,,ATL_N
+S369,Shortfin mako shark,Isurus oxyrinchus,130,F,PSAT,04/07/2010,42.28,-48.73,117,39.69,-11.13,,ATL_N
+S370,Shortfin mako shark,Isurus oxyrinchus,165,F,PSAT,05/07/2010,41.27,-48.47,119,42.66,-39.94,,ATL_N
+S371,Shortfin mako shark,Isurus oxyrinchus,130,U,PSAT,01/01/2011,25.35,-18.39,349,25.78,-17.56,,ATL_N
+S380,Shortfin mako shark,Isurus oxyrinchus,170,F,PSAT,11/12/2010,23.12,-20.95,13,22.1,-24.41,,ATL_N
+S381,Shortfin mako shark,Isurus oxyrinchus,150,F,PSAT,12/12/2010,22.32,-22.18,58,33.5,-10.34,,ATL_N
+S382,Shortfin mako shark,Isurus oxyrinchus,140,M,PSAT,07/12/2010,22.42,-24.82,35,18.32,-17.47,,ATL_N
+S383,Shortfin mako shark,Isurus oxyrinchus,125,F,PSAT,21/03/2011,18.28,-16.31,5,17.88,-17.21,,ATL_N
+S384,Shortfin mako shark,Isurus oxyrinchus,152,F,SPOT,27/07/2013,40.85,-71.72,37,40.45,-73.17,,ATL_N
+S385,Shortfin mako shark,Isurus oxyrinchus,152,M,SPOT,27/07/2013,38.21,-73.6,325,39.79,-72.27,,ATL_N
+S386,Shortfin mako shark,Isurus oxyrinchus,152,F,SPOT,28/07/2013,40.84,-71.52,185,33.65,-45.69,,ATL_N
+S387,Shortfin mako shark,Isurus oxyrinchus,160,M,SPOT,12/07/2014,40.69,-71.51,11,40.09,-70.98,,ATL_N
+S388,Shortfin mako shark,Isurus oxyrinchus,183,F,SPOT,13/07/2014,40.66,-71.51,29,40.83,-69.79,,ATL_N
+S389,Shortfin mako shark,Isurus oxyrinchus,198,F,SPOT,13/07/2014,40.6,-71.62,301,37.74,-73.14,,ATL_N
+S390,Shortfin mako shark,Isurus oxyrinchus,206,F,SPOT,18/07/2015,40.79,-71.54,40,43.66,-60.24,,ATL_N
+S391,Shortfin mako shark,Isurus oxyrinchus,175,F,PSAT,17/10/2008,45.03,-47.48,119,26.52,-14.54,,ATL_N
+S392,Shortfin mako shark,Isurus oxyrinchus,167,M,PSAT,13/10/2008,45.05,-46.96,80,43.86,-27.54,,ATL_N
+S393,Shortfin mako shark,Isurus oxyrinchus,151,M,PSAT,09/10/2008,44.79,-48.03,143,33.67,-50.8,,ATL_N
+S394,Shortfin mako shark,Isurus oxyrinchus,171,M,SPOT,13/03/2013,-36.01,175.11,212,-35.55,174.82,,AUSTRL
+S395,Shortfin mako shark,Isurus oxyrinchus,185,F,SPOT,22/05/2012,-35.15,174.26,345,-23.06,177.7,,AUSTRL
+S396,Shortfin mako shark,Isurus oxyrinchus,156,M,SPOT,13/02/2013,-35.92,174.81,281,-34.92,173.58,,AUSTRL
+S397,Shortfin mako shark,Isurus oxyrinchus,270,F,SPOT,13/11/2010,24.7,-80.85,149,27.72,-80.01,,ATL_N
+S404,Shortfin mako shark,Isurus oxyrinchus,180,F,SPOT,30/03/2009,-33.75,131.45,446,-26.94,113.35,,AUSTRL
+S405,Shortfin mako shark,Isurus oxyrinchus,200,F,SPOT,04/06/2008,-34.18,132.41,469,-19.07,109.15,,AUSTRL
+S406,Shortfin mako shark,Isurus oxyrinchus,215,M,SPOT,09/05/2009,-38.17,140.55,262,-32.42,129.99,,AUSTRL
+S407,Shortfin mako shark,Isurus oxyrinchus,150,F,SPOT,05/04/2008,-35.78,135.44,106,-33.7,133.39,,AUSTRL
+S408,Shortfin mako shark,Isurus oxyrinchus,174,M,SPOT,22/11/2009,-35.07,134.07,323,-12.66,107.87,,AUSTRL
+S409,Shortfin mako shark,Isurus oxyrinchus,180,M,SPOT,13/03/2008,-34.7,133.14,48,-36.55,137.72,,AUSTRL
+S410,Shortfin mako shark,Isurus oxyrinchus,170,M,SPOT,07/05/2009,-38.21,140.94,551,-38.24,66.62,,AUSTRL
+S411,Shortfin mako shark,Isurus oxyrinchus,170,M,SPOT,11/03/2008,-34.15,132.42,671,-32.58,127.15,,AUSTRL
+S412,Shortfin mako shark,Isurus oxyrinchus,180,F,SPOT,01/06/2008,-33.96,131.95,496,-32.07,114.71,,AUSTRL
+S413,Shortfin mako shark,Isurus oxyrinchus,240,F,SPOT,31/03/2009,-34.13,132.52,482,-34.93,160.74,,AUSTRL
+S414,Shortfin mako shark,Isurus oxyrinchus,100,U,PSAT,11/10/2013,43.59,-59.42,133,35.43,-46.49,,ATL_N
+S415,Shortfin mako shark,Isurus oxyrinchus,175,U,PSAT,05/10/2013,40.98,-62.85,101,39.16,-49.89,,ATL_N
+S416,Shortfin mako shark,Isurus oxyrinchus,90,U,PSAT,11/10/2013,43.61,-59.35,131,44.39,-49.96,,ATL_N
+S417,Shortfin mako shark,Isurus oxyrinchus,152,U,PSAT,07/01/2014,29.48,-49.42,12,25.77,-49.53,,ATL_N
+S418,Shortfin mako shark,Isurus oxyrinchus,112,U,PSAT,14/08/2011,42.86,-62.51,22,43.71,-59.2,,ATL_N
+S419,Shortfin mako shark,Isurus oxyrinchus,202.9,U,PSAT,25/08/2013,42.92,-62.43,82,41.3,-67.03,,ATL_N
+S420,Shortfin mako shark,Isurus oxyrinchus,122,U,PSAT,01/09/2013,42.5,-64.58,109,40.23,-49.53,,ATL_N
+S421,Shortfin mako shark,Isurus oxyrinchus,92,U,PSAT,02/09/2013,42.58,-64.63,97,42.15,-61.33,,ATL_N
+S422,Shortfin mako shark,Isurus oxyrinchus,183,U,PSAT,15/09/2013,41.29,-63.12,156,35.73,-74.67,,ATL_N
+S423,Shortfin mako shark,Isurus oxyrinchus,210,U,PSAT,25/09/2011,42.12,-65.55,90,39.79,-42.53,,ATL_N
+S424,Shortfin mako shark,Isurus oxyrinchus,110,U,PSAT,25/09/2013,39.19,-65.61,10,40.97,-66.06,,ATL_N
+S425,Shortfin mako shark,Isurus oxyrinchus,122,U,PSAT,16/09/2013,42.51,-64.59,85,39.09,-65.49,,ATL_N
+S426,Shortfin mako shark,Isurus oxyrinchus,122,U,PSAT,19/09/2013,42.54,-64.52,146,42.92,-51.84,,ATL_N
+S427,Shortfin mako shark,Isurus oxyrinchus,122,U,PSAT,04/10/2013,40.45,-69.71,200,24.27,-74.05,,ATL_N
+S428,Shortfin mako shark,Isurus oxyrinchus,166,U,PSAT,22/10/2013,43.27,-62.33,29,40.03,-68.47,,ATL_N
+S429,Shortfin mako shark,Isurus oxyrinchus,127,U,PSAT,17/08/2011,43.9,-58.58,116,38.73,-42.67,,ATL_N
+S430,Shortfin mako shark,Isurus oxyrinchus,99,U,PSAT,17/08/2011,44.18,-58.2,17,42.25,-55.12,,ATL_N
+S431,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,11/08/2010,31.88,-118.61,626,13.17,-124.83,,PAC_NE
+S432,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,27/06/2011,33.32,-118.06,362,16.97,-116,,PAC_NE
+S433,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,09/07/2013,32.48,-117.84,336,21.15,-106.89,,PAC_NE
+S434,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,03/07/2014,33.54,-119.32,947,34.12,-119.21,,PAC_NE
+S435,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,03/07/2014,33.86,-119.33,147,31.89,-116.72,,PAC_NE
+S436,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,17/07/2012,32.7,-118.34,92,29.61,-116.14,,PAC_NE
+S437,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,13/07/2012,33.95,-119.42,709,31.63,-118.23,,PAC_NE
+S438,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,08/07/2013,33.15,-118.42,958,22.09,-146.87,,PAC_NE
+S439,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,03/07/2014,33.78,-119,177,18.97,-127.26,,PAC_NE
+S440,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,27/06/2014,33.13,-118.03,455,33.81,-118.67,,PAC_NE
+S441,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,12/07/2012,33.91,-119.55,675,22.02,-120.09,,PAC_NE
+S442,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,09/07/2012,32.94,-118.68,834,30.6,-121.4,,PAC_NE
+S443,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,20/06/2004,33.02,-118.42,442,34.91,-121.83,,PAC_NE
+S444,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,23/06/2004,33.9,-119.36,157,32.95,-118.26,,PAC_NE
+S445,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,27/06/2004,32.59,-118.11,217,18.41,-118.39,,PAC_NE
+S446,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,13/10/2004,24.27,-115.91,394,27.9,-111.72,,PAC_NE
+S447,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,19/11/2004,34.31,-121.36,83,23.82,-112.28,,PAC_NE
+S448,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,12/07/2005,32.85,-117.58,238,28.86,-118.04,,PAC_NE
+S449,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,31/01/2006,25.17,-113.39,47,22.89,-109.81,,PAC_NE
+S450,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,15/07/2006,33.7,-118.07,22,34.38,-121.63,,PAC_NE
+S451,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,14/07/2006,33.31,-118.17,344,26.67,-115.16,,PAC_NE
+S452,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,13/07/2006,33.31,-118.38,118,31.78,-118.47,,PAC_NE
+S453,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,15/07/2006,33.58,-117.79,80,32.7,-117.97,,PAC_NE
+S454,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,05/07/2007,32.98,-117.67,794,32.86,-122.76,,PAC_NE
+S455,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,11/07/2007,33.31,-117.74,121,28.21,-112.19,,PAC_NE
+S456,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,09/07/2007,33.76,-119.01,706,34.19,-119.83,,PAC_NE
+S457,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,13/07/2007,32.9,-118.17,361,28.96,-116.47,,PAC_NE
+S458,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,23/07/2007,33.06,-118.17,295,23.22,-109.11,,PAC_NE
+S459,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,31/07/2007,32.98,-117.92,567,13,-144.24,,PAC_NE
+S460,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,29/06/2008,33.27,-117.67,464,27.78,-120,,PAC_NE
+S461,Shortfin mako shark,Isurus oxyrinchus,,U,PSAT,26/06/2008,33.54,-118.77,255,23.28,-111.61,,PAC_NE
+S462,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,28/06/2003,32.76,-117.93,257,20.18,-118.62,,PAC_NE
+S463,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,26/06/2003,33.61,-118.41,227,27.98,-114.5,,PAC_NE
+S464,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,04/07/2003,33.66,-118.77,190,29.15,-115.08,,PAC_NE
+S465,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,02/07/2003,33.87,-119.36,172,21.35,-113.82,,PAC_NE
+S466,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,02/07/2003,33.93,-119.5,191,26.03,-113.09,,PAC_NE
+S467,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,01/04/2004,31.58,-127.67,11,29.83,-128.49,,PAC_NE
+S468,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,08/09/2003,31.56,-119.2,13,30.18,-117.83,,PAC_NE
+S469,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,27/12/2003,32.18,-119.29,12,31.35,-117.97,,PAC_NE
+S470,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,05/07/2003,33.23,-118.07,65,33.06,-119.94,,PAC_NE
+S471,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,30/06/2004,33.89,-119.48,276,23.7,-124.27,,PAC_NE
+S472,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,20/12/2004,28.92,-114.97,12,28.09,-114.65,,PAC_NE
+S473,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,09/02/2005,22.59,-114.95,13,21.41,-114.88,,PAC_NE
+S474,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,30/07/2004,31.67,-120.56,14,29.79,-118.9,,PAC_NE
+S475,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,05/07/2004,33.55,-118.59,505,31.27,-122.22,,PAC_NE
+S476,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,07/07/2004,33.54,-118.45,308,26.44,-122.93,,PAC_NE
+S477,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,03/07/2004,33.66,-119.19,483,25.63,-127.76,,PAC_NE
+S478,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,05/07/2004,33.65,-118.55,377,26.82,-113.9,,PAC_NE
+S479,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,05/07/2004,33.65,-118.54,697,29.31,-118.49,,PAC_NE
+S480,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,09/07/2005,33.07,-117.95,49,34.05,-120.14,,PAC_NE
+S481,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,20/06/2005,33.09,-117.53,15,33.46,-117.7,,PAC_NE
+S482,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,27/08/2009,32.61,-118.06,4,30.56,-118.58,,PAC_NE
+S483,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,31/07/2004,32.49,-117.39,80,33.4,-118.92,,PAC_NE
+S484,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,06/07/2004,33.84,-119.26,308,32.97,-117.34,,PAC_NE
+S485,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,07/07/2007,33.25,-118.22,307,20.46,-112.03,,PAC_NE
+S486,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,04/07/2004,33.76,-118.98,401,31.12,-136.94,,PAC_NE
+S487,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,10/11/2004,33.72,-121.5,108,30.56,-117.69,,PAC_NE
+S488,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,12/02/2005,23.19,-109.45,12,22.1,-107.19,,PAC_NE
+S489,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,20/07/2005,32.41,-121.44,10,31.85,-120.92,,PAC_NE
+S490,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,21/02/2009,32.22,-121.6,7,31.86,-121.49,,PAC_NE
+S491,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,14/02/2005,25.33,-113.24,4,27.7,-115.51,,PAC_NE
+S492,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,26/07/2007,32.8,-119.32,383,28.23,-115.59,,PAC_NE
+S493,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,24/07/2007,33.25,-118.03,555,16.27,-153.12,,PAC_NE
+S494,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,09/01/2006,30.28,-116.49,12,29.55,-116.98,,PAC_NE
+S495,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,18/12/2005,26.18,-113.46,11,25.76,-113.25,,PAC_NE
+S496,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,16/01/2006,30.65,-119.52,12,28.64,-120,,PAC_NE
+S497,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,09/07/2005,32.96,-118.14,123,28.65,-114.41,,PAC_NE
+S498,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,31/01/2006,25.14,-113.48,46,22.89,-109.82,,PAC_NE
+S499,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,10/07/2007,32.82,-117.71,435,36.53,-124.26,,PAC_NE
+S500,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,14/07/2006,33.14,-118.02,230,21.83,-111.36,,PAC_NE
+S501,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,15/07/2006,33.36,-118.01,79,33,-117.57,,PAC_NE
+S502,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,27/06/2006,32.94,-117.9,43,34.38,-121.39,,PAC_NE
+S503,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,03/07/2006,33.43,-117.66,121,31.68,-118.85,,PAC_NE
+S504,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,14/07/2006,32.9,-117.99,58,34.34,-120.94,,PAC_NE
+S505,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,07/07/2006,32.83,-117.82,568,32.82,-127.38,,PAC_NE
+S506,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,30/07/2007,33.09,-118.93,414,34.09,-120.87,,PAC_NE
+S507,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,03/07/2006,33.69,-118.57,77,35.6,-122.35,,PAC_NE
+S508,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,02/07/2006,33.8,-119.58,314,25.43,-112.19,,PAC_NE
+S509,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,14/07/2006,33.16,-117.82,328,22.73,-111.96,,PAC_NE
+S510,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,28/11/2006,31.27,-118.39,11,31.37,-117.16,,PAC_NE
+S511,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,20/12/2006,26.82,-114.03,11,26.08,-115.49,,PAC_NE
+S512,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,31/10/2006,32.92,-120.08,12,31.64,-119.84,,PAC_NE
+S513,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,12/07/2008,29.32,-115.41,10,27.62,-115.3,,PAC_NE
+S514,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,04/07/2007,33.08,-118.4,249,17.43,-119.51,,PAC_NE
+S515,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,09/07/2007,33.76,-119.03,705,33.98,-119.54,,PAC_NE
+S516,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,25/06/2008,33.79,-118.99,247,31.45,-121.83,,PAC_NE
+S517,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,07/12/2007,34.22,-122.52,9,32.79,-121.45,,PAC_NE
+S518,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,15/10/2007,26.19,-113.56,14,25.23,-113.91,,PAC_NE
+S519,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,22/10/2007,35.92,-124.37,10,35.38,-123.41,,PAC_NE
+S520,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,02/09/2007,26.05,-110.53,8,27.23,-111.32,,PAC_NE
+S521,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,28/02/2008,30.42,-117.32,9,28.46,-115.76,,PAC_NE
+S522,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,20/06/2008,32.88,-118.24,258,22.15,-111.12,,PAC_NE
+S523,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,09/06/2008,33.9,-119.45,25,32.53,-117.61,,PAC_NE
+S524,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,17/02/2009,11.56,-126.57,7,11.84,-127.76,,PAC_NE
+S525,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,01/07/2008,34.06,-119.3,7,33.03,-119.57,,PAC_NE
+S526,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,19/02/2009,23.15,-111.57,8,23.46,-112.01,,PAC_NE
+S527,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,27/06/2012,33.64,-119.4,134,38.15,-130.72,,PAC_NE
+S528,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,21/08/2009,33.41,-118.19,396,33.93,-119.22,,PAC_NE
+S529,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,18/08/2009,32.89,-117.81,768,27.49,-117.17,,PAC_NE
+S530,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,12/08/2009,33.56,-119.09,415,33.77,-119.9,,PAC_NE
+S531,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,18/07/2010,33.53,-118.56,60,29.56,-116.61,,PAC_NE
+S532,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,18/07/2010,33.62,-118.55,385,33.62,-118.88,,PAC_NE
+S533,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,02/08/2009,33.78,-119.39,1025,35.25,-131.84,,PAC_NE
+S534,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,02/08/2009,33.7,-118.98,280,32.86,-118.09,,PAC_NE
+S535,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,10/08/2009,33.68,-118.54,174,22.75,-113.29,,PAC_NE
+S536,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,06/08/2009,32.56,-118.02,393,35.84,-122.59,,PAC_NE
+S537,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,09/07/2011,33.69,-118.79,434,32.78,-118.26,,PAC_NE
+S538,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,10/08/2009,33.56,-118.61,589,30.33,-120.77,,PAC_NE
+S539,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,11/08/2009,33.96,-119.31,568,33.79,-124.28,,PAC_NE
+S540,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,10/08/2009,33,-117.45,774,40.2,-127.69,,PAC_NE
+S541,Shortfin mako shark,Isurus oxyrinchus,,U,SPOT,01/08/2009,34.01,-119.35,917,27.25,-111.33,,PAC_NE
+S542,White shark,Carcharodon carcharias,170,M,SPOT,25/10/2011,-32.65,152.2,83,-39.22,148.12,,AUSTRL
+S543,White shark,Carcharodon carcharias,220,F,SPOT,25/10/2011,-32.68,152.2,126,-40.81,148.22,,AUSTRL
+S544,White shark,Carcharodon carcharias,268,F,SPOT,24/11/2014,-32.68,152.2,446,-39.26,146.78,,AUSTRL
+S545,White shark,Carcharodon carcharias,190,M,SPOT,11/10/2007,-32.8,152.01,173,-40.79,146.48,,AUSTRL
+S546,White shark,Carcharodon carcharias,190,F,SPOT,08/10/2007,-32.8,152.01,101,-39.06,146.5,,AUSTRL
+S547,White shark,Carcharodon carcharias,280,U,SPOT,31/01/2004,-33.77,124.44,26,-34.64,122.39,,AUSTRL
+S548,White shark,Carcharodon carcharias,320,M,SPOT,11/11/2004,-35.23,136.07,92,-34.08,123.7,,AUSTRL
+S549,White shark,Carcharodon carcharias,210,M,SPOT,08/10/2007,-32.79,152.03,107,-43.29,177.81,,AUSTRL
+S550,White shark,Carcharodon carcharias,190,M,SPOT,26/10/2010,-32.8,152.01,102,-33.88,151.36,,AUSTRL
+S551,White shark,Carcharodon carcharias,280,F,SPOT,14/12/2010,-38.77,146.34,535,-39.14,149.24,,AUSTRL
+S552,White shark,Carcharodon carcharias,350,U,SPOT,29/06/2006,-35.23,136.07,141,-35.32,115.77,,AUSTRL
+S553,White shark,Carcharodon carcharias,220,F,SPOT,30/10/2009,-32.68,152.19,88,-37.86,148.5,,AUSTRL
+S554,White shark,Carcharodon carcharias,400,M,PSAT,19/09/2014,40.98,-70.2,123,32.69,-78.5,,ATL_N
+S555,White shark,Carcharodon carcharias,340,M,PSAT,26/08/2014,41.64,-69.95,155,34.25,-76.81,,ATL_N
+S556,White shark,Carcharodon carcharias,430,F,PSAT,28/11/2014,36.68,-74.46,190,38.01,-75.16,,ATL_N
+S557,White shark,Carcharodon carcharias,430,F,PSAT,29/09/2014,41.66,-69.94,27,41.26,-69.9,,ATL_N
+S558,White shark,Carcharodon carcharias,490,F,PSAT,30/08/2012,41.81,-69.94,190,36.22,-75.5,,ATL_N
+S559,White shark,Carcharodon carcharias,380,F,PSAT,15/08/2013,41.61,-69.96,279,23.59,-84.48,,ATL_N
+S560,White shark,Carcharodon carcharias,530,F,PSAT,13/09/2012,41.67,-69.93,52,41.63,-68.15,,ATL_N
+S561,White shark,Carcharodon carcharias,440,F,PSAT,03/03/2013,30.39,-81.38,181,30.48,-80,,ATL_N
+S562,White shark,Carcharodon carcharias,490,F,PSAT,28/10/2013,42.07,-70.06,217,35.99,-73.16,,ATL_N
+S563,White shark,Carcharodon carcharias,400,F,PSAT,16/11/2013,40.96,-70.51,88,33.71,-78.63,,ATL_N
+S564,White shark,Carcharodon carcharias,450,F,SPOT,13/09/2012,41.62,-69.88,958,39.71,-67.39,,ATL_N
+S565,White shark,Carcharodon carcharias,440,F,SPOT,03/03/2013,30.39,-81.38,1404,42.14,-59.82,,ATL_N
+S566,White shark,Carcharodon carcharias,490,F,SPOT,17/09/2012,41.62,-69.88,1567,31.4,-79.21,,ATL_N
+S567,White shark,Carcharodon carcharias,380,F,SPOT,18/04/2014,23.58,-93,913,44.93,-66.98,,ATL_N
+S568,White shark,Carcharodon carcharias,430,F,SPOT,20/08/2013,41.61,-69.96,1174,30.37,-79.4,,ATL_N
+S569,White shark,Carcharodon carcharias,340,U,PSAT,01/09/2010,41.59,-69.98,107,29,-80.42,,ATL_N
+S570,White shark,Carcharodon carcharias,370,U,PSAT,21/08/2010,41.66,-69.93,53,35.06,-75.92,,ATL_N
+S571,White shark,Carcharodon carcharias,530,F,PSAT,31/10/2010,41.75,-68.71,26,41.01,-69.11,,ATL_N
+S572,White shark,Carcharodon carcharias,240,U,PSAT,08/09/2009,41.59,-69.98,174,29.01,-80.55,,ATL_N
+S573,White shark,Carcharodon carcharias,370,U,PSAT,08/09/2009,41.59,-69.99,58,41.11,-70.01,,ATL_N
+S574,White shark,Carcharodon carcharias,300,U,PSAT,05/09/2009,41.6,-69.98,129,30.71,-80.19,,ATL_N
+S575,White shark,Carcharodon carcharias,380,U,PSAT,01/11/2009,39.6,-74.06,61,39.35,-74.15,,ATL_N
+S576,White shark,Carcharodon carcharias,370,U,PSAT,05/09/2009,41.6,-69.96,135,30.37,-80.56,,ATL_N
+S577,White shark,Carcharodon carcharias,370,M,PSAT,04/09/2014,41.64,-69.94,146,32.5,-79.81,,ATL_N
+S578,White shark,Carcharodon carcharias,360,F,PSAT,27/07/2010,41.65,-69.95,351,40.14,-54.91,,ATL_N
+S579,White shark,Carcharodon carcharias,280,U,PSAT,31/07/2010,41.63,-69.95,20,39.98,-69.2,,ATL_N
+S580,White shark,Carcharodon carcharias,400,M,PSAT,24/03/2014,-46.83,168.21,169,-29.52,153.85,,AUSTRL
+S581,White shark,Carcharodon carcharias,380,M,PSAT,26/05/2010,-46.51,167.55,299,-46.61,167.95,,AUSTRL
+S582,White shark,Carcharodon carcharias,350,M,PSAT,24/06/2012,-46.48,167.62,48,-25.81,159.48,,AUSTRL
+S583,White shark,Carcharodon carcharias,280,M,PSAT,18/04/2010,-46.26,167.56,157,-21.77,166.69,,AUSTRL
+S584,White shark,Carcharodon carcharias,400,M,PSAT,22/03/2011,-46.84,168.23,30,-46.59,168.73,,AUSTRL
+S585,White shark,Carcharodon carcharias,360,F,PSAT,19/04/2012,-46.54,168.2,116,-50.94,166.61,,AUSTRL
+S586,White shark,Carcharodon carcharias,300,F,PSAT,22/04/2010,-46.21,166.5,121,-22.66,153.18,,AUSTRL
+S587,White shark,Carcharodon carcharias,351,M,SPOT,20/03/2013,-46.84,168.21,324,-46.85,168.25,,AUSTRL
+S588,White shark,Carcharodon carcharias,330,F,SPOT,30/03/2014,-46.85,168.24,527,-30.44,153.13,,AUSTRL
+S589,White shark,Carcharodon carcharias,370,F,SPOT,03/04/2014,-46.84,168.23,763,-49.93,165.77,,AUSTRL
+S590,White shark,Carcharodon carcharias,440,F,PSAT,17/04/2011,-46.54,167.8,229,-20.72,157.73,,AUSTRL
+S591,White shark,Carcharodon carcharias,420,F,PSAT,07/04/2005,-44.22,-175.99,89,-35.35,-172.04,,AUSTRL
+S592,White shark,Carcharodon carcharias,400,F,PSAT,09/04/2005,-44.22,-175.99,149,-22.74,167.15,,AUSTRL
+S593,White shark,Carcharodon carcharias,320,M,PSAT,08/04/2005,-44.22,-175.99,181,-21.19,169.63,,AUSTRL
+S594,White shark,Carcharodon carcharias,350,F,PSAT,15/04/2008,-44.23,-175.99,271,-44.15,-176.16,,AUSTRL
+S595,White shark,Carcharodon carcharias,350,M,PSAT,11/05/2008,-38.14,163.82,10,-31.86,154.89,,AUSTRL
+S596,White shark,Carcharodon carcharias,440,F,PSAT,26/07/2007,-46.4,167.52,144,-22.61,152.48,,AUSTRL
+S597,White shark,Carcharodon carcharias,300,F,PSAT,12/04/2008,-43.94,-176.37,274,-32.49,-176.21,,AUSTRL
+S598,White shark,Carcharodon carcharias,400,M,PSAT,14/04/2008,-44.23,-175.99,202,-21.65,-175.19,,AUSTRL
+S599,White shark,Carcharodon carcharias,450,F,PSAT,19/04/2008,-43.94,-176.37,180,-22.62,-175.68,,AUSTRL
+S600,White shark,Carcharodon carcharias,450,M,PSAT,15/04/2008,-44.23,-175.99,134,-22,-175.63,,AUSTRL
+S601,White shark,Carcharodon carcharias,400,F,PSAT,23/03/2009,-46.91,168.26,201,-45.17,166.62,,AUSTRL
+S602,White shark,Carcharodon carcharias,400,M,PSAT,31/03/2009,-46.83,168.23,129,-21.25,158.53,,AUSTRL
+S603,White shark,Carcharodon carcharias,280,M,PSAT,26/03/2009,-46.91,168.26,90,-29.83,170.34,,AUSTRL
+S604,White shark,Carcharodon carcharias,380,F,PSAT,26/03/2009,-46.91,168.26,107,-39.56,178.53,,AUSTRL
+S605,White shark,Carcharodon carcharias,330,F,PSAT,27/03/2009,-46.91,168.26,195,-18.82,162.58,,AUSTRL
+S606,White shark,Carcharodon carcharias,290,M,PSAT,21/05/2009,-39.31,172.86,82,-22.27,167.2,,AUSTRL
+S607,White shark,Carcharodon carcharias,480,M,PSAT,19/04/2009,-46.37,168.17,83,-27.82,154.02,,AUSTRL
+S608,White shark,Carcharodon carcharias,400,F,PSAT,24/03/2009,-46.91,168.26,223,-22.09,158.41,,AUSTRL
+S609,White shark,Carcharodon carcharias,350,F,SPOT,10/03/2012,-34.07,22.21,500,-34.46,21.2,,IND_SW
+S610,White shark,Carcharodon carcharias,312,M,SPOT,23/03/2012,-34.12,22.13,714,-34.63,19.44,,IND_SW
+S611,White shark,Carcharodon carcharias,309,M,SPOT,23/03/2012,-34.12,22.13,532,-34.19,22.3,,IND_SW
+S612,White shark,Carcharodon carcharias,360,F,SPOT,12/04/2012,-34.64,19.43,421,-34.15,22.13,,IND_SW
+S613,White shark,Carcharodon carcharias,310,F,SPOT,08/03/2012,-34.07,22.21,348,-34.07,22.2,,IND_SW
+S614,White shark,Carcharodon carcharias,340,F,SPOT,23/03/2012,-34.12,22.13,277,-24.38,35.41,,IND_SW
+S615,White shark,Carcharodon carcharias,351,F,SPOT,08/03/2012,-34.07,22.21,717,-34.06,22.22,,IND_SW
+S616,White shark,Carcharodon carcharias,318,M,SPOT,12/04/2012,-34.68,19.4,1155,-29.14,31.91,,IND_SW
+S617,White shark,Carcharodon carcharias,371,F,SPOT,08/03/2012,-34.07,22.21,206,-24.8,34.83,,IND_SW
+S618,White shark,Carcharodon carcharias,297,F,SPOT,21/03/2012,-34.12,22.13,83,-34.56,19.27,,IND_SW
+S619,White shark,Carcharodon carcharias,266,M,SPOT,21/03/2012,-34.12,22.13,738,-25.04,33.68,,IND_SW
+S620,White shark,Carcharodon carcharias,259,F,SPOT,21/03/2012,-34.12,22.13,36,-34.14,24.79,,IND_SW
+S621,White shark,Carcharodon carcharias,297,M,SPOT,12/04/2012,-34.64,19.43,414,-28.63,32.32,,IND_SW
+S622,White shark,Carcharodon carcharias,251,F,SPOT,21/03/2012,-34.12,22.13,205,-34.08,22.27,,IND_SW
+S623,White shark,Carcharodon carcharias,228,F,SPOT,10/03/2012,-34.07,22.21,158,-34.14,23.19,,IND_SW
+S624,White shark,Carcharodon carcharias,265,F,SPOT,16/03/2012,-33.73,25.86,476,-34.61,21.7,,IND_SW
+S625,White shark,Carcharodon carcharias,299,F,SPOT,07/03/2012,-34.07,22.21,843,-34.36,20.49,,IND_SW
+S626,White shark,Carcharodon carcharias,295,M,SPOT,08/03/2012,-34.07,22.21,215,-34.4,24.51,,IND_SW
+S627,White shark,Carcharodon carcharias,292,F,SPOT,21/03/2012,-34.12,22.13,255,-34.47,20.76,,IND_SW
+S628,White shark,Carcharodon carcharias,420,M,SPOT,09/05/2012,-34.69,19.42,508,-29.01,32.02,,IND_SW
+S629,White shark,Carcharodon carcharias,418,F,SPOT,09/05/2012,-34.69,19.42,509,-34.47,19.34,,IND_SW
+S630,White shark,Carcharodon carcharias,417,F,SPOT,15/04/2012,-34.14,18.58,102,-34.49,19.33,,IND_SW
+S631,White shark,Carcharodon carcharias,431,F,SPOT,16/04/2012,-34.14,18.58,52,-29.34,32.36,,IND_SW
+S632,White shark,Carcharodon carcharias,505,F,SPOT,10/07/2012,-35.28,20.84,352,-34.32,23.1,,IND_SW
+S633,White shark,Carcharodon carcharias,441,F,SPOT,22/05/2012,-34.53,20.46,300,-33.47,18.53,,IND_SW
+S634,White shark,Carcharodon carcharias,441,F,SPOT,13/04/2012,-34.64,19.43,1106,-35.07,20.77,,IND_SW
+S635,White shark,Carcharodon carcharias,330,M,SPOT,13/04/2012,-34.68,19.4,240,-29.15,32.04,,IND_SW
+S636,White shark,Carcharodon carcharias,382,M,SPOT,23/05/2012,-34.53,20.46,678,-27.56,49.57,,IND_SW
+S637,White shark,Carcharodon carcharias,295,M,SPOT,08/05/2012,-34.68,19.4,224,-34.23,22.84,,IND_SW
+S638,White shark,Carcharodon carcharias,290,M,SPOT,08/05/2012,-34.68,19.4,293,-31.25,30.07,,IND_SW
+S639,White shark,Carcharodon carcharias,457,F,SPOT,16/04/2012,-34.14,18.58,538,-34.43,18.79,,IND_SW
+S640,White shark,Carcharodon carcharias,320,M,SPOT,08/05/2012,-34.68,19.4,110,-34.62,19.39,,IND_SW
+S641,White shark,Carcharodon carcharias,390,F,SPOT,09/05/2012,-34.69,19.42,694,-27.62,56.3,,IND_SW
+S642,White shark,Carcharodon carcharias,251,M,SPOT,13/04/2012,-34.64,19.43,397,-25.06,35,,IND_SW
+S643,White shark,Carcharodon carcharias,,U,PSAT,15/11/2002,37.7,-123,91,27.11,-134.83,,PAC_NE
+S644,White shark,Carcharodon carcharias,,U,PSAT,24/09/2003,37.7,-123.02,163,25,-133.28,,PAC_NE
+S645,White shark,Carcharodon carcharias,,U,PSAT,24/11/2003,37.27,-123.04,195,33.28,-134.02,,PAC_NE
+S646,White shark,Carcharodon carcharias,,U,PSAT,19/11/2004,35.03,-123.44,171,18.83,-127.45,,PAC_NE
+S647,White shark,Carcharodon carcharias,,U,PSAT,06/11/2004,37.1,-123.64,302,37.38,-122.62,,PAC_NE
+S648,White shark,Carcharodon carcharias,,U,PSAT,05/12/2004,34.82,-122.77,149,24.85,-136.87,,PAC_NE
+S649,White shark,Carcharodon carcharias,,U,PSAT,06/12/2004,37.21,-123.05,64,36.26,-122.75,,PAC_NE
+S650,White shark,Carcharodon carcharias,,U,PSAT,20/10/2005,37.09,-122.34,192,22.03,-139.36,,PAC_NE
+S651,White shark,Carcharodon carcharias,,U,PSAT,02/11/2005,37.1,-122.35,300,27.66,-134.75,,PAC_NE
+S652,White shark,Carcharodon carcharias,,U,PSAT,05/11/2005,37.05,-122.38,270,27.65,-143.42,,PAC_NE
+S653,White shark,Carcharodon carcharias,,U,PSAT,09/11/2005,37.07,-122.4,271,29.26,-129.2,,PAC_NE
+S654,White shark,Carcharodon carcharias,,U,PSAT,08/11/2005,37.83,-122.45,202,25.28,-134.68,,PAC_NE
+S655,White shark,Carcharodon carcharias,,U,PSAT,10/11/2005,37.69,-123.01,267,22.18,-131.96,,PAC_NE
+S656,White shark,Carcharodon carcharias,,U,PSAT,21/11/2005,36.96,-122.43,47,35.98,-122.58,,PAC_NE
+S657,White shark,Carcharodon carcharias,,U,PSAT,16/11/2005,36.89,-122.3,334,21.83,-139.7,,PAC_NE
+S658,White shark,Carcharodon carcharias,,U,PSAT,18/11/2005,37.08,-122.49,241,22.04,-126,,PAC_NE
+S659,White shark,Carcharodon carcharias,,U,PSAT,18/11/2005,37.08,-122.38,245,23.01,-127.79,,PAC_NE
+S660,White shark,Carcharodon carcharias,,U,PSAT,18/11/2005,37.08,-122.35,302,25.3,-139.2,,PAC_NE
+S661,White shark,Carcharodon carcharias,,U,PSAT,18/11/2005,37.01,-122.34,303,22.37,-138.81,,PAC_NE
+S662,White shark,Carcharodon carcharias,,U,PSAT,17/11/2005,37.69,-123,271,20.12,-134.78,,PAC_NE
+S663,White shark,Carcharodon carcharias,,U,PSAT,21/11/2005,37.28,-122.74,299,37.65,-122.87,,PAC_NE
+S664,White shark,Carcharodon carcharias,,U,PSAT,20/11/2005,37.7,-123.02,180,23.09,-130.43,,PAC_NE
+S665,White shark,Carcharodon carcharias,,U,PSAT,24/11/2005,36.01,-122.69,265,29.36,-125.13,,PAC_NE
+S666,White shark,Carcharodon carcharias,,U,PSAT,21/11/2005,37.69,-123.01,227,18.93,-124.67,,PAC_NE
+S667,White shark,Carcharodon carcharias,,U,PSAT,17/12/2005,35.71,-123.3,212,28.28,-134.86,,PAC_NE
+S668,White shark,Carcharodon carcharias,,U,PSAT,15/12/2005,37.11,-122.35,300,36.17,-122.69,,PAC_NE
+S669,White shark,Carcharodon carcharias,,U,PSAT,23/01/2006,36.91,-122.84,290,27.57,-175.99,,PAC_NE
+S670,White shark,Carcharodon carcharias,,U,PSAT,11/10/2006,37.43,-123.08,198,25.66,-129.62,,PAC_NE
+S671,White shark,Carcharodon carcharias,,U,PSAT,06/10/2006,37.62,-122.72,249,21.88,-134.39,,PAC_NE
+S672,White shark,Carcharodon carcharias,,U,PSAT,09/10/2006,37.7,-123.02,360,32.48,-118.37,,PAC_NE
+S673,White shark,Carcharodon carcharias,,U,PSAT,09/10/2006,37.7,-123.02,144,18.44,-158.01,,PAC_NE
+S674,White shark,Carcharodon carcharias,,U,PSAT,25/10/2006,37.61,-122.75,285,32.98,-121.9,,PAC_NE
+S675,White shark,Carcharodon carcharias,,U,PSAT,11/10/2006,37.56,-123.21,88,23.44,-159.17,,PAC_NE
+S676,White shark,Carcharodon carcharias,,U,PSAT,13/10/2006,36.36,-123.43,297,34.43,-122.4,,PAC_NE
+S677,White shark,Carcharodon carcharias,,U,PSAT,11/10/2006,37.6,-123.01,68,30.41,-143.88,,PAC_NE
+S678,White shark,Carcharodon carcharias,,U,PSAT,01/11/2006,37.7,-123.01,270,18.61,-157.58,,PAC_NE
+S679,White shark,Carcharodon carcharias,,U,PSAT,01/11/2006,37.1,-122.36,81,29.29,-131.36,,PAC_NE
+S680,White shark,Carcharodon carcharias,,U,PSAT,02/11/2006,36.98,-122.53,9,36.27,-122.07,,PAC_NE
+S681,White shark,Carcharodon carcharias,,U,PSAT,01/11/2006,37.06,-122.35,266,23.67,-133.02,,PAC_NE
+S682,White shark,Carcharodon carcharias,,U,PSAT,06/11/2006,37.66,-122.82,12,37.9,-123.25,,PAC_NE
+S683,White shark,Carcharodon carcharias,,U,PSAT,12/11/2006,36.43,-122.49,58,36.93,-125.59,,PAC_NE
+S684,White shark,Carcharodon carcharias,,U,PSAT,11/11/2006,36.38,-122.36,135,27.94,-142.63,,PAC_NE
+S685,White shark,Carcharodon carcharias,,U,PSAT,30/11/2006,38.29,-123.06,164,20.31,-136.28,,PAC_NE
+S686,White shark,Carcharodon carcharias,,U,PSAT,03/12/2006,38.25,-123.02,225,23.82,-156.62,,PAC_NE
+S687,White shark,Carcharodon carcharias,,U,PSAT,15/10/2007,37.31,-123.2,66,23.1,-136.31,,PAC_NE
+S688,White shark,Carcharodon carcharias,,U,PSAT,14/10/2007,37.62,-123.22,254,24.17,-135.49,,PAC_NE
+S689,White shark,Carcharodon carcharias,,U,PSAT,16/10/2007,37.4,-123.4,56,36.87,-125.98,,PAC_NE
+S690,White shark,Carcharodon carcharias,,U,PSAT,20/10/2007,37.68,-122.98,121,25.69,-170.09,,PAC_NE
+S691,White shark,Carcharodon carcharias,,U,PSAT,25/11/2007,37.05,-122.31,129,25.72,-130.23,,PAC_NE
+S692,White shark,Carcharodon carcharias,,U,PSAT,29/10/2007,37.66,-123.13,34,36.57,-122.9,,PAC_NE
+S693,White shark,Carcharodon carcharias,,U,PSAT,30/10/2007,37.69,-123,318,27.98,-142.84,,PAC_NE
+S694,White shark,Carcharodon carcharias,,U,PSAT,21/07/2007,33.59,-118.94,131,27.74,-114.55,,PAC_NE
+S695,White shark,Carcharodon carcharias,,U,PSAT,16/02/2008,32.19,-119.48,135,28.69,-112.38,,PAC_NE
+S696,White shark,Carcharodon carcharias,,U,PSAT,19/06/2008,33.61,-118.5,292,27.96,-113.98,,PAC_NE
+S697,White shark,Carcharodon carcharias,,U,PSAT,23/06/2008,34.05,-119.42,115,34.11,-119.26,,PAC_NE
+S698,White shark,Carcharodon carcharias,,U,PSAT,29/06/2008,33.97,-118.63,143,33.99,-118.49,,PAC_NE
+S699,White shark,Carcharodon carcharias,,U,PSAT,04/08/2008,33.08,-122.31,7,33.36,-123.12,,PAC_NE
+S700,White shark,Carcharodon carcharias,,U,PSAT,04/08/2008,34.24,-119.38,135,33.96,-118.57,,PAC_NE
+S701,White shark,Carcharodon carcharias,,U,PSAT,25/08/2008,34.25,-119.53,151,31.73,-116.61,,PAC_NE
+S702,Oceanic whitetip shark,Carcharhinus longimanus,245,F,SPOT,02/07/2011,18.61,-82.98,137,20.92,-73.39,,ATL_N
+S703,Oceanic whitetip shark,Carcharhinus longimanus,167,M,SPOT,22/05/2011,19.35,-81,178,21.03,-72.94,,ATL_N
+S704,Oceanic whitetip shark,Carcharhinus longimanus,200,F,SPOT,16/05/2012,24.03,-75.53,313,21.94,-73.46,,ATL_N
+S705,Oceanic whitetip shark,Carcharhinus longimanus,197,F,SPOT,27/04/2014,19.27,-81.02,97,18.07,-80.6,,ATL_N
+S706,Oceanic whitetip shark,Carcharhinus longimanus,195,M,SPOT,26/04/2014,19.16,-81.11,333,16.55,-85.19,,ATL_N
+S707,Oceanic whitetip shark,Carcharhinus longimanus,176,M,SPOT,27/04/2014,19.22,-81.46,175,18.89,-82.91,,ATL_N
+S708,Oceanic whitetip shark,Carcharhinus longimanus,184,F,SPOT,18/05/2013,24.1,-75.38,927,24.01,-75.61,,ATL_N
+S709,Oceanic whitetip shark,Carcharhinus longimanus,162,F,SPOT,15/05/2013,24.06,-75.34,447,31.52,-77.49,,ATL_N
+S710,Oceanic whitetip shark,Carcharhinus longimanus,201,M,SPOT,17/05/2013,24.01,-75.45,465,36.11,-72.48,,ATL_N
+S711,Oceanic whitetip shark,Carcharhinus longimanus,220,F,SPOT,16/05/2013,24.07,-75.44,355,24.13,-75.33,,ATL_N
+S712,Oceanic whitetip shark,Carcharhinus longimanus,180,F,SPOT,18/05/2013,24.09,-75.38,324,25.31,-77.05,,ATL_N
+S713,Oceanic whitetip shark,Carcharhinus longimanus,183,M,SPOT,15/05/2013,24.07,-75.54,328,25.44,-75.98,,ATL_N
+S714,Oceanic whitetip shark,Carcharhinus longimanus,179,M,SPOT,26/04/2014,19.19,-81.27,644,18.3,-80.76,,ATL_N
+S715,Oceanic whitetip shark,Carcharhinus longimanus,152,M,SPOT,26/04/2014,19.28,-81.07,199,17.55,-82.35,,ATL_N
+S716,Oceanic whitetip shark,Carcharhinus longimanus,171,M,SPOT,21/05/2016,19.25,-81.12,64,28.28,-78.19,,ATL_N
+S717,Oceanic whitetip shark,Carcharhinus longimanus,183,F,SPOT,30/05/2016,19.73,-81.32,43,18.39,-79.86,,ATL_N
+S718,Oceanic whitetip shark,Carcharhinus longimanus,176,M,SPOT,06/06/2015,19.37,-80.79,177,19.07,-82.14,,ATL_N
+S719,Oceanic whitetip shark,Carcharhinus longimanus,185,M,SPOT,03/05/2015,19.08,-81.24,113,19.07,-82.93,,ATL_N
+S720,Oceanic whitetip shark,Carcharhinus longimanus,188,M,SPOT,24/07/2016,19.34,-84.11,25,17.84,-85.53,,ATL_N
+S721,Oceanic whitetip shark,Carcharhinus longimanus,162,F,SPOT,26/04/2014,19.28,-81.07,191,14.91,-76.98,,ATL_N
+S722,Oceanic whitetip shark,Carcharhinus longimanus,212,F,PSAT,01/05/2011,24.12,-75.28,92,32.39,-73.01,,ATL_N
+S723,Oceanic whitetip shark,Carcharhinus longimanus,218,F,PSAT,01/05/2011,24.12,-75.28,184,22.91,-74.66,,ATL_N
+S724,Oceanic whitetip shark,Carcharhinus longimanus,189,F,PSAT,04/05/2011,24.12,-75.26,153,23.47,-74.96,,ATL_N
+S725,Oceanic whitetip shark,Carcharhinus longimanus,214,F,PSAT,04/05/2011,24.12,-75.26,245,23.79,-74.93,,ATL_N
+S726,Oceanic whitetip shark,Carcharhinus longimanus,213,F,PSAT,05/05/2011,24.12,-75.26,245,21.53,-73.69,,ATL_N
+S727,Oceanic whitetip shark,Carcharhinus longimanus,165,F,PSAT,07/05/2011,24.14,-75.25,92,22.69,-73.48,,ATL_N
+S728,Oceanic whitetip shark,Carcharhinus longimanus,161,F,PSAT,08/05/2011,24.11,-75.23,245,21.45,-73.96,,ATL_N
+S729,Oceanic whitetip shark,Carcharhinus longimanus,233,F,PSAT,01/05/2011,24.11,-75.31,153,24.36,-75.36,,ATL_N
+S730,Oceanic whitetip shark,Carcharhinus longimanus,241.2,F,PSAT,19/05/2015,24.14,-75.31,184,29.95,-76.75,,ATL_N
+S731,Oceanic whitetip shark,Carcharhinus longimanus,200,F,PSAT,07/05/2012,24.12,-75.28,30,24.5,-75.48,,ATL_N
+S732,Oceanic whitetip shark,Carcharhinus longimanus,227,F,PSAT,07/05/2012,24.12,-75.28,147,24.46,-75.53,,ATL_N
+S733,Oceanic whitetip shark,Carcharhinus longimanus,212,F,PSAT,07/05/2012,24.12,-75.28,245,24.68,-75.47,,ATL_N
+S734,Oceanic whitetip shark,Carcharhinus longimanus,179,F,PSAT,07/05/2012,24.12,-75.28,154,22.72,-73.49,,ATL_N
+S735,Oceanic whitetip shark,Carcharhinus longimanus,228,F,PSAT,11/05/2012,24.12,-75.28,281,22.84,-74.9,,ATL_N
+S736,Oceanic whitetip shark,Carcharhinus longimanus,176,F,PSAT,12/05/2012,24.12,-75.28,229,23.45,-74.53,,ATL_N
+S737,Oceanic whitetip shark,Carcharhinus longimanus,212,F,PSAT,12/05/2012,24.12,-75.28,335,24.77,-75.5,,ATL_N
+S738,Oceanic whitetip shark,Carcharhinus longimanus,174,M,PSAT,15/05/2012,24.12,-75.28,79,22.88,-73.05,,ATL_N
+S739,Oceanic whitetip shark,Carcharhinus longimanus,191,M,PSAT,10/05/2012,24.12,-75.28,330,23.11,-73.44,,ATL_N
+S740,Oceanic whitetip shark,Carcharhinus longimanus,195,M,PSAT,12/05/2012,24.12,-75.28,325,24.01,-75.51,,ATL_N
+S741,Oceanic whitetip shark,Carcharhinus longimanus,162,F,PSAT,11/05/2012,24.12,-75.28,204,21.31,-74.05,,ATL_N
+S742,Oceanic whitetip shark,Carcharhinus longimanus,203,M,PSAT,11/05/2012,24.12,-75.28,335,23.91,-74.98,,ATL_N
+S743,Oceanic whitetip shark,Carcharhinus longimanus,216,F,PSAT,09/05/2012,24.12,-75.28,113,24.19,-75.36,,ATL_N
+S744,Oceanic whitetip shark,Carcharhinus longimanus,203,F,PSAT,12/05/2012,24.12,-75.28,62,25.3,-75.24,,ATL_N
+S745,Oceanic whitetip shark,Carcharhinus longimanus,204,F,PSAT,10/05/2012,24.12,-75.28,175,32.61,-76.12,,ATL_N
+S746,Oceanic whitetip shark,Carcharhinus longimanus,184,F,PSAT,10/05/2012,24.12,-75.28,36,23,-74.41,,ATL_N
+S747,Oceanic whitetip shark,Carcharhinus longimanus,203,F,PSAT,11/05/2012,24.12,-75.28,184,24.14,-75.56,,ATL_N
+S748,Oceanic whitetip shark,Carcharhinus longimanus,169,F,PSAT,09/05/2012,24.12,-75.28,184,31.72,-77.38,,ATL_N
+S749,Oceanic whitetip shark,Carcharhinus longimanus,194,F,PSAT,09/05/2012,24.12,-75.28,184,23.92,-75.01,,ATL_N
+S750,Oceanic whitetip shark,Carcharhinus longimanus,193,F,PSAT,15/05/2012,24.12,-75.28,154,23.5,-74.91,,ATL_N
+S751,Oceanic whitetip shark,Carcharhinus longimanus,168,F,PSAT,10/05/2012,24.12,-75.28,64,24.68,-76.08,,ATL_N
+S752,Oceanic whitetip shark,Carcharhinus longimanus,214,F,PSAT,15/05/2012,24.12,-75.28,121,16.24,-65.77,,ATL_N
+S753,Oceanic whitetip shark,Carcharhinus longimanus,210,F,PSAT,09/05/2012,24.12,-75.28,245,21.8,-74.21,,ATL_N
+S754,Oceanic whitetip shark,Carcharhinus longimanus,,F,PSAT,09/05/2012,24.12,-75.28,245,24.37,-75.86,,ATL_N
+S755,Oceanic whitetip shark,Carcharhinus longimanus,205,M,PSAT,09/05/2012,24.12,-75.28,206,24.38,-75.92,,ATL_N
+S756,Oceanic whitetip shark,Carcharhinus longimanus,215.9,F,PSAT,08/05/2013,24.11,-75.27,105,24.4,-75.52,,ATL_N
+S757,Oceanic whitetip shark,Carcharhinus longimanus,198.1,M,PSAT,08/05/2013,24.12,-75.28,84,23.1,-75.01,,ATL_N
+S758,Oceanic whitetip shark,Carcharhinus longimanus,205.7,F,PSAT,08/05/2013,24.11,-75.27,154,23.9,-74.65,,ATL_N
+S759,Oceanic whitetip shark,Carcharhinus longimanus,213.3,F,PSAT,09/05/2013,24.11,-75.25,5,24.14,-75.29,,ATL_N
+S760,Oceanic whitetip shark,Carcharhinus longimanus,180.3,M,PSAT,14/05/2013,24.09,-75.24,262,24.56,-76.63,,ATL_N
+S761,Oceanic whitetip shark,Carcharhinus longimanus,172.7,M,PSAT,13/05/2013,24.1,-75.21,365,26.06,-76.83,,ATL_N
+S762,Oceanic whitetip shark,Carcharhinus longimanus,201.9,F,PSAT,08/05/2013,24.11,-75.28,11,23.88,-75.22,,ATL_N
+S763,Oceanic whitetip shark,Carcharhinus longimanus,218.4,F,PSAT,08/05/2013,24.13,-75.29,276,24.52,-75.22,,ATL_N
+S764,Oceanic whitetip shark,Carcharhinus longimanus,210.8,F,PSAT,17/05/2013,24.11,-75.22,9,24.15,-75.3,,ATL_N
+S765,Oceanic whitetip shark,Carcharhinus longimanus,208.2,F,PSAT,08/05/2013,24.12,-75.28,303,24.1,-75.04,,ATL_N
+S766,Oceanic whitetip shark,Carcharhinus longimanus,185.4,F,PSAT,12/05/2013,24.13,-75.31,284,24.09,-75.8,,ATL_N
+S767,Oceanic whitetip shark,Carcharhinus longimanus,182.8,F,PSAT,09/05/2013,24.12,-75.25,175,25.29,-76.32,,ATL_N
+S768,Oceanic whitetip shark,Carcharhinus longimanus,219.7,F,PSAT,09/05/2013,24.11,-75.25,29,25.05,-75.88,,ATL_N
+S769,Oceanic whitetip shark,Carcharhinus longimanus,203.2,F,PSAT,12/05/2013,24.13,-75.31,204,24.61,-75.86,,ATL_N
+S770,Oceanic whitetip shark,Carcharhinus longimanus,184.1,F,PSAT,09/05/2013,24.11,-75.25,49,25.01,-74.01,,ATL_N
+S771,Oceanic whitetip shark,Carcharhinus longimanus,187.9,F,PSAT,09/05/2013,24.1,-75.24,37,24.57,-74.66,,ATL_N
+S772,Oceanic whitetip shark,Carcharhinus longimanus,184.1,F,PSAT,09/05/2013,24.12,-75.25,245,24.84,-75.36,,ATL_N
+S773,Oceanic whitetip shark,Carcharhinus longimanus,175.2,F,PSAT,09/05/2013,24.12,-75.25,135,32.41,-73.51,,ATL_N
+S774,Oceanic whitetip shark,Carcharhinus longimanus,203.2,F,PSAT,08/05/2013,24.12,-75.28,23,24.83,-75.69,,ATL_N
+S775,Oceanic whitetip shark,Carcharhinus longimanus,241.3,F,PSAT,13/05/2013,24.12,-75.28,253,32.2,-76.58,,ATL_N
+S776,Oceanic whitetip shark,Carcharhinus longimanus,225,F,PSAT,27/04/2014,24.12,-75.24,5,24.7,-75.48,,ATL_N
+S777,Oceanic whitetip shark,Carcharhinus longimanus,202,F,PSAT,05/05/2014,24.12,-75.38,304,23.74,-75.56,,ATL_N
+S778,Oceanic whitetip shark,Carcharhinus longimanus,211,F,PSAT,26/04/2014,24.14,-75.21,127,27.36,-75.07,,ATL_N
+S779,Oceanic whitetip shark,Carcharhinus longimanus,210,F,PSAT,04/05/2014,24.15,-75.18,22,24.13,-75.86,,ATL_N
+S780,Oceanic whitetip shark,Carcharhinus longimanus,206,M,PSAT,29/04/2014,24.14,-75.34,190,23.93,-75.66,,ATL_N
+S781,Oceanic whitetip shark,Carcharhinus longimanus,219,F,PSAT,05/05/2014,24.13,-75.3,3,24.69,-75.69,,ATL_N
+S782,Oceanic whitetip shark,Carcharhinus longimanus,210,F,PSAT,26/04/2014,24.13,-75.24,163,22.29,-72.95,,ATL_N
+S783,Oceanic whitetip shark,Carcharhinus longimanus,208,F,PSAT,27/04/2014,24.14,-75.21,44,24.15,-75.34,,ATL_N
+S784,Oceanic whitetip shark,Carcharhinus longimanus,175,F,PSAT,28/04/2014,24.04,-75.48,19,20.66,-74.96,,ATL_N
+S785,Oceanic whitetip shark,Carcharhinus longimanus,202,M,PSAT,26/04/2014,24.12,-75.24,57,29.18,-76.51,,ATL_N
+S786,Oceanic whitetip shark,Carcharhinus longimanus,195,M,PSAT,26/04/2014,24.12,-75.23,306,23.99,-75.2,,ATL_N
+S787,Oceanic whitetip shark,Carcharhinus longimanus,196,F,PSAT,05/05/2014,24.13,-75.3,88,26.75,-70.76,,ATL_N
+S788,Oceanic whitetip shark,Carcharhinus longimanus,186,F,PSAT,04/05/2014,24.12,-75.21,89,25.89,-76.81,,ATL_N
+S789,Oceanic whitetip shark,Carcharhinus longimanus,223,F,PSAT,26/04/2014,24.13,-75.23,23,24.08,-74.08,,ATL_N
+S790,Oceanic whitetip shark,Carcharhinus longimanus,182,M,PSAT,04/05/2014,24.15,-75.18,170,23.89,-75.14,,ATL_N
+S791,Oceanic whitetip shark,Carcharhinus longimanus,235,M,PSAT,03/05/2014,24.17,-75.26,304,23.76,-75.86,,ATL_N
+S792,Oceanic whitetip shark,Carcharhinus longimanus,210,F,PSAT,05/05/2014,24.12,-75.36,16,24.36,-75.65,,ATL_N
+S793,Oceanic whitetip shark,Carcharhinus longimanus,193,F,PSAT,21/05/2015,24.13,-75.29,7,24.3,-75.39,,ATL_N
+S794,Oceanic whitetip shark,Carcharhinus longimanus,184,F,PSAT,29/04/2016,24.1,-75.23,67,17.86,-80.21,,ATL_N
+S795,Oceanic whitetip shark,Carcharhinus longimanus,225,F,PSAT,30/04/2016,24.12,-75.32,47,16.56,-74.63,,ATL_N
+S796,Oceanic whitetip shark,Carcharhinus longimanus,208,F,PSAT,01/05/2016,24.14,-75.32,4,24.74,-75.43,,ATL_N
+S797,Oceanic whitetip shark,Carcharhinus longimanus,,U,PSAT,02/05/2011,31.44,-75.56,92,32.51,-75.65,,ATL_N
+S801,Oceanic whitetip shark,Carcharhinus longimanus,152,M,PSAT,05/02/2010,0.16,-29.78,90,-1.16,-38.36,,ATL_N
+S802,Oceanic whitetip shark,Carcharhinus longimanus,135,F,PSAT,25/02/2010,0.48,-30.36,33,-1.84,-34.65,,ATL_N
+S803,Oceanic whitetip shark,Carcharhinus longimanus,100,F,PSAT,31/03/2012,-1.5,-44.52,51,6.64,-32.47,,ATL_N
+S805,Oceanic whitetip shark,Carcharhinus longimanus,,U,PSAT,01/10/2004,9.49,-106.87,27,8.1,-101.79,,PAC_NE
+S806,Oceanic whitetip shark,Carcharhinus longimanus,,U,PSAT,09/10/2004,10.94,-111.24,14,10.6,-112.41,,PAC_NE
+S807,Salmon shark,Lamna ditropis,,U,SPOT,15/08/2012,60.63,-146.75,630,60.56,-147.25,,PAC_NE
+S808,Salmon shark,Lamna ditropis,,U,SPOT,20/07/2012,60.76,-146.06,67,43.84,-128.06,,PAC_NE
+S809,Salmon shark,Lamna ditropis,,U,SPOT,29/07/2012,60.75,-146.07,416,41.41,-126.95,,PAC_NE
+S810,Salmon shark,Lamna ditropis,,U,SPOT,07/08/2015,60.77,-146.06,474,57.71,-136.77,,PAC_NE
+S811,Salmon shark,Lamna ditropis,,U,SPOT,10/08/2015,59.2,-145.3,42,51.87,-131.27,,PAC_NE
+S812,Salmon shark,Lamna ditropis,,U,SPOT,10/08/2015,59.95,-145.76,700,60.64,-145.72,,PAC_NE
+S813,Salmon shark,Lamna ditropis,,U,SPOT,05/08/2015,60.57,-145.74,640,38.33,-123.71,,PAC_NE
+S814,Salmon shark,Lamna ditropis,,U,SPOT,05/08/2015,60.61,-146.08,726,41.21,-124.12,,PAC_NE
+S815,Salmon shark,Lamna ditropis,,U,SPOT,11/08/2015,59.27,-146.05,703,38.98,-124.2,,PAC_NE
+S816,Salmon shark,Lamna ditropis,,U,SPOT,05/08/2015,60.59,-145.75,535,59.95,-147.86,,PAC_NE
+S817,Salmon shark,Lamna ditropis,,U,SPOT,05/08/2015,60.64,-145.71,692,60.59,-145.95,,PAC_NE
+S818,Salmon shark,Lamna ditropis,,U,SPOT,09/09/2015,60.1,-146.71,660,60.45,-146.97,,PAC_NE
+S819,Salmon shark,Lamna ditropis,,U,SPOT,08/08/2015,60.05,-147.27,190,42.19,-127.05,,PAC_NE
+S820,Salmon shark,Lamna ditropis,,U,PSAT,18/07/2002,60.61,-146.24,181,26.63,-129.22,,PAC_NE
+S821,Salmon shark,Lamna ditropis,,U,PSAT,16/07/2002,60.64,-146.3,725,37.78,-125.97,,PAC_NE
+S822,Salmon shark,Lamna ditropis,,U,PSAT,15/08/2003,60.65,-146.71,275,45.4,-128.12,,PAC_NE
+S823,Salmon shark,Lamna ditropis,,U,PSAT,15/08/2003,60.57,-146.75,31,43.32,-142.01,,PAC_NE
+S824,Salmon shark,Lamna ditropis,,U,PSAT,17/08/2003,60.71,-145.99,36,47.33,-130.34,,PAC_NE
+S825,Salmon shark,Lamna ditropis,,U,PSAT,03/09/2003,60.64,-146.05,1311,34.3,-154.69,,PAC_NE
+S826,Salmon shark,Lamna ditropis,,U,PSAT,01/12/2004,56.5,-143.36,534,39.25,-123.84,,PAC_NE
+S827,Salmon shark,Lamna ditropis,,U,PSAT,12/07/2004,60.58,-146.28,670,30.62,-128.04,,PAC_NE
+S828,Salmon shark,Lamna ditropis,,U,PSAT,12/07/2004,60.71,-146.13,714,43.81,-124.86,,PAC_NE
+S829,Salmon shark,Lamna ditropis,,U,PSAT,15/08/2004,59.61,-146.7,267,60.65,-146.25,,PAC_NE
+S830,Salmon shark,Lamna ditropis,,U,PSAT,12/11/2004,59.75,-147.71,249,43.48,-127.1,,PAC_NE
+S831,Salmon shark,Lamna ditropis,,U,PSAT,17/09/2004,60.38,-146.87,1293,36.65,-157.75,,PAC_NE
+S832,Salmon shark,Lamna ditropis,,U,PSAT,20/09/2004,60.26,-146.81,967,49.18,-134.06,,PAC_NE
+S833,Salmon shark,Lamna ditropis,,U,PSAT,24/08/2005,59.97,-146.26,351,60.65,-146.33,,PAC_NE
+S834,Salmon shark,Lamna ditropis,,U,PSAT,02/11/2005,58.67,-151.13,914,33.96,-128.6,,PAC_NE
+S835,Salmon shark,Lamna ditropis,,U,PSAT,24/08/2005,60.24,-146.12,480,35.22,-120.98,,PAC_NE
+S836,Salmon shark,Lamna ditropis,,U,PSAT,22/08/2005,60.57,-146.52,590,38.36,-138.6,,PAC_NE
+S837,Salmon shark,Lamna ditropis,,U,PSAT,22/08/2005,60.73,-146.06,211,41.46,-130.51,,PAC_NE
+S838,Salmon shark,Lamna ditropis,,U,PSAT,23/09/2005,60.57,-146.41,550,31.21,-127.69,,PAC_NE
+S839,Salmon shark,Lamna ditropis,,U,PSAT,23/08/2006,60.58,-145.75,753,59.8,-146.11,,PAC_NE
+S840,Salmon shark,Lamna ditropis,,U,PSAT,28/10/2008,60.77,-146.12,314,60.68,-145.73,,PAC_NE
+S841,Salmon shark,Lamna ditropis,,U,PSAT,26/08/2006,60.63,-146.52,547,33.34,-152.87,,PAC_NE
+S842,Salmon shark,Lamna ditropis,,U,PSAT,26/08/2006,61.08,-145.8,43,50.03,-133.68,,PAC_NE
+S843,Salmon shark,Lamna ditropis,,U,PSAT,22/08/2006,60.82,-146.17,236,30.81,-118.65,,PAC_NE
+S844,Salmon shark,Lamna ditropis,,U,PSAT,23/08/2006,60.72,-146.1,277,43.16,-143.7,,PAC_NE
+S845,Salmon shark,Lamna ditropis,,U,PSAT,24/08/2006,60.73,-146.13,300,36.18,-124.3,,PAC_NE
+S846,Salmon shark,Lamna ditropis,,U,PSAT,24/08/2006,60.76,-146.02,313,38.28,-123.42,,PAC_NE
+S847,Salmon shark,Lamna ditropis,,U,PSAT,20/09/2006,60.64,-146.05,593,34.87,-135.51,,PAC_NE
+S848,Salmon shark,Lamna ditropis,,U,PSAT,27/08/2006,60.55,-146.12,25,45.98,-131.27,,PAC_NE
+S849,Salmon shark,Lamna ditropis,,U,PSAT,29/09/2006,59.24,-144.04,189,33.86,-146.16,,PAC_NE
+S850,Salmon shark,Lamna ditropis,,U,PSAT,13/10/2006,58.17,-153.36,288,36.74,-126.44,,PAC_NE
+S851,Salmon shark,Lamna ditropis,,U,PSAT,26/08/2006,60.73,-146.04,51,47.69,-129.63,,PAC_NE
+S852,Salmon shark,Lamna ditropis,,U,PSAT,22/08/2007,60.68,-146.23,744,43.95,-125.09,,PAC_NE
+S853,Salmon shark,Lamna ditropis,,U,PSAT,23/08/2007,60.74,-146.04,18,60.85,-146.01,,PAC_NE
+S854,Salmon shark,Lamna ditropis,,U,PSAT,23/08/2007,60.76,-146.29,623,60.19,-147.47,,PAC_NE
+S855,Salmon shark,Lamna ditropis,,U,PSAT,24/08/2007,60.73,-146.09,644,45.37,-127.81,,PAC_NE
+S856,Salmon shark,Lamna ditropis,,U,PSAT,23/08/2007,60.69,-146.19,270,61.1,-147.89,,PAC_NE
+S857,Salmon shark,Lamna ditropis,,U,PSAT,06/09/2007,60.6,-145.87,16,60.6,-146.12,,PAC_NE
+S858,Salmon shark,Lamna ditropis,,U,SPOT,13/01/2003,60.79,-146.69,8,60.5,-147.64,,PAC_NE
+S859,Salmon shark,Lamna ditropis,,U,SPOT,15/09/2002,60.49,-147,10,59.71,-148.53,,PAC_NE
+S860,Salmon shark,Lamna ditropis,232,U,SPOT,03/09/2002,60.71,-146.14,309,60.7,-146.17,,PAC_NE
+S861,Salmon shark,Lamna ditropis,236,U,SPOT,05/09/2002,60.57,-146.83,435,49.41,-127.12,,PAC_NE
+S862,Salmon shark,Lamna ditropis,214,U,SPOT,15/07/2002,60.58,-146.44,249,29.06,-129.29,,PAC_NE
+S863,Salmon shark,Lamna ditropis,219,U,SPOT,21/04/2003,59.85,-149.07,1059,29.87,-136.09,,PAC_NE
+S864,Salmon shark,Lamna ditropis,230,U,SPOT,11/09/2002,59.83,-147.54,163,28.99,-145.81,,PAC_NE
+S865,Salmon shark,Lamna ditropis,236,U,SPOT,05/09/2002,60.77,-147.04,590,41.52,-159.44,,PAC_NE
+S866,Salmon shark,Lamna ditropis,225,U,SPOT,18/07/2002,60.55,-146.38,180,26.63,-129.19,,PAC_NE
+S867,Salmon shark,Lamna ditropis,244,U,SPOT,07/09/2002,59.43,-149.55,568,33.17,-143.56,,PAC_NE
+S868,Salmon shark,Lamna ditropis,226,U,SPOT,16/07/2002,60.66,-146.28,337,44.05,-133.25,,PAC_NE
+S869,Salmon shark,Lamna ditropis,,U,SPOT,03/11/2003,58.8,-152.02,283,60.87,-146.09,,PAC_NE
+S870,Salmon shark,Lamna ditropis,236,U,SPOT,07/09/2003,59.8,-146.41,838,45.18,-135.08,,PAC_NE
+S871,Salmon shark,Lamna ditropis,231,U,SPOT,14/09/2003,60.74,-146.09,323,42.71,-128.3,,PAC_NE
+S872,Salmon shark,Lamna ditropis,,U,SPOT,18/08/2003,59.88,-146.88,54,39.67,-130.28,,PAC_NE
+S873,Salmon shark,Lamna ditropis,226,U,SPOT,19/08/2003,60.65,-146.41,617,50.95,-143.32,,PAC_NE
+S874,Salmon shark,Lamna ditropis,247,U,SPOT,21/08/2003,60.16,-146.38,96,45,-133.28,,PAC_NE
+S875,Salmon shark,Lamna ditropis,223,U,SPOT,18/08/2003,60.6,-146.35,292,60.71,-146.18,,PAC_NE
+S876,Salmon shark,Lamna ditropis,247,U,SPOT,25/08/2003,60.06,-146.06,25,49.93,-132.9,,PAC_NE
+S877,Salmon shark,Lamna ditropis,235,U,SPOT,19/08/2003,60.7,-146.17,67,44.95,-127.06,,PAC_NE
+S878,Salmon shark,Lamna ditropis,237,U,SPOT,11/09/2003,60.38,-146.74,295,47.58,-158.02,,PAC_NE
+S879,Salmon shark,Lamna ditropis,234,U,SPOT,21/08/2003,60.37,-146.81,931,33.25,-138.17,,PAC_NE
+S880,Salmon shark,Lamna ditropis,,U,SPOT,09/01/2005,57.9,-154.12,5,57.42,-156.31,,PAC_NE
+S881,Salmon shark,Lamna ditropis,,U,SPOT,12/03/2005,30.18,-134.64,12,30.47,-133.68,,PAC_NE
+S882,Salmon shark,Lamna ditropis,,U,SPOT,10/01/2005,34.18,-123.34,12,33.33,-123.35,,PAC_NE
+S883,Salmon shark,Lamna ditropis,,U,SPOT,10/04/2005,42.45,-124.75,11,40.37,-124.94,,PAC_NE
+S884,Salmon shark,Lamna ditropis,,U,SPOT,12/04/2005,33.96,-120.81,12,32.22,-119.94,,PAC_NE
+S885,Salmon shark,Lamna ditropis,,U,SPOT,20/05/2004,59.6,-144.65,11,60.13,-146.49,,PAC_NE
+S886,Salmon shark,Lamna ditropis,,U,SPOT,02/03/2005,59.11,-152.61,11,57.28,-155.39,,PAC_NE
+S887,Salmon shark,Lamna ditropis,,U,SPOT,11/11/2004,57.99,-152.06,14,58.8,-152.98,,PAC_NE
+S888,Salmon shark,Lamna ditropis,,U,SPOT,20/02/2004,31.53,-142.76,10,31.44,-143.62,,PAC_NE
+S889,Salmon shark,Lamna ditropis,,U,SPOT,08/01/2005,45.63,-164.4,15,46,-164.73,,PAC_NE
+S890,Salmon shark,Lamna ditropis,,U,SPOT,09/01/2005,57.18,-152.8,5,56.78,-153.83,,PAC_NE
+S891,Salmon shark,Lamna ditropis,,U,SPOT,26/08/2006,60.72,-146.11,49,47.63,-130.34,,PAC_NE
+S892,Salmon shark,Lamna ditropis,242,U,SPOT,12/07/2004,60.68,-146.25,786,57.67,-153.68,,PAC_NE
+S893,Salmon shark,Lamna ditropis,233,U,SPOT,13/07/2004,60.72,-146.18,383,43.78,-129.23,,PAC_NE
+S894,Salmon shark,Lamna ditropis,242,U,SPOT,11/01/2005,59.18,-147.04,70,43.25,-145.48,,PAC_NE
+S895,Salmon shark,Lamna ditropis,234,U,SPOT,18/07/2004,60.66,-146.24,33,49.79,-134.48,,PAC_NE
+S896,Salmon shark,Lamna ditropis,247,U,SPOT,03/08/2004,60.79,-146.13,34,50.34,-133.03,,PAC_NE
+S897,Salmon shark,Lamna ditropis,229,U,SPOT,14/07/2004,60.73,-146.18,35,49.61,-132.86,,PAC_NE
+S898,Salmon shark,Lamna ditropis,239,U,SPOT,04/09/2004,60.41,-146.77,918,40.81,-149.58,,PAC_NE
+S899,Salmon shark,Lamna ditropis,232,U,SPOT,15/08/2004,59.97,-147.26,266,60.61,-146.08,,PAC_NE
+S900,Salmon shark,Lamna ditropis,230,U,SPOT,07/08/2004,60.43,-147.57,746,37.31,-130.94,,PAC_NE
+S901,Salmon shark,Lamna ditropis,252,U,SPOT,04/08/2004,60.74,-146.1,262,43.76,-135.6,,PAC_NE
+S902,Salmon shark,Lamna ditropis,248,U,SPOT,17/08/2004,60.49,-146.59,384,28.64,-146.42,,PAC_NE
+S903,Salmon shark,Lamna ditropis,216,U,SPOT,27/08/2005,60.02,-147.15,6,56.84,-148.09,,PAC_NE
+S904,Salmon shark,Lamna ditropis,238,U,SPOT,23/08/2005,60.73,-146.1,91,41.05,-128.77,,PAC_NE
+S905,Salmon shark,Lamna ditropis,,U,SPOT,13/10/2006,57.98,-153.57,287,36.89,-126.28,,PAC_NE
+S906,Salmon shark,Lamna ditropis,,U,SPOT,23/04/2006,37.86,-123.38,8,36.23,-122.96,,PAC_NE
+S907,Salmon shark,Lamna ditropis,,U,SPOT,22/05/2006,60.72,-147.53,9,60.65,-147.37,,PAC_NE
+S908,Salmon shark,Lamna ditropis,,U,SPOT,26/08/2005,60.66,-146.38,12,60.63,-147.6,,PAC_NE
+S909,Salmon shark,Lamna ditropis,,U,SPOT,06/08/2006,60.66,-146.32,9,60.49,-147.84,,PAC_NE
+S910,Salmon shark,Lamna ditropis,218,U,SPOT,22/08/2005,60.74,-146.12,549,37.44,-126.57,,PAC_NE
+S911,Salmon shark,Lamna ditropis,216,U,SPOT,03/10/2005,56.29,-144.4,76,36.9,-122.26,,PAC_NE
+S912,Salmon shark,Lamna ditropis,216,U,SPOT,22/08/2005,60.87,-146.24,762,51,-139.05,,PAC_NE
+S913,Salmon shark,Lamna ditropis,228,U,SPOT,22/08/2005,60.74,-146.14,469,31.43,-117.2,,PAC_NE
+S914,Salmon shark,Lamna ditropis,226,U,SPOT,24/08/2005,60.17,-146.33,479,35.18,-120.94,,PAC_NE
+S915,Salmon shark,Lamna ditropis,209,U,SPOT,02/11/2005,58.76,-151.09,913,34.16,-128.69,,PAC_NE
+S916,Salmon shark,Lamna ditropis,220,U,SPOT,22/08/2005,60.73,-146.09,726,52.68,-129.71,,PAC_NE
+S917,Salmon shark,Lamna ditropis,208,U,SPOT,27/08/2005,60.13,-146.35,40,56.82,-137.23,,PAC_NE
+S918,Salmon shark,Lamna ditropis,209,U,SPOT,31/08/2005,58.6,-143.12,425,48.77,-126.97,,PAC_NE
+S919,Salmon shark,Lamna ditropis,230,U,SPOT,23/08/2005,60.73,-146.14,29,52.46,-131.88,,PAC_NE
+S920,Salmon shark,Lamna ditropis,229,U,SPOT,22/08/2005,60.13,-145.79,589,38.39,-138.65,,PAC_NE
+S921,Salmon shark,Lamna ditropis,227,U,SPOT,23/09/2005,60.66,-146.36,545,35.67,-122.16,,PAC_NE
+S922,Salmon shark,Lamna ditropis,227,U,SPOT,26/08/2005,59.99,-146.69,758,58.48,-138.51,,PAC_NE
+S923,Salmon shark,Lamna ditropis,226,U,SPOT,22/08/2005,60.72,-146.12,26,54.16,-139.36,,PAC_NE
+S924,Salmon shark,Lamna ditropis,219,U,SPOT,28/08/2005,60.73,-146.1,14,58.11,-145.49,,PAC_NE
+S925,Salmon shark,Lamna ditropis,239,U,SPOT,27/09/2005,60.48,-146.82,1344,59.97,-147.91,,PAC_NE
+S926,Salmon shark,Lamna ditropis,223,U,SPOT,23/08/2005,60.83,-146.27,315,42.23,-128.23,,PAC_NE
+S927,Salmon shark,Lamna ditropis,227,U,SPOT,25/08/2005,60.73,-146.07,399,60.38,-146.96,,PAC_NE
+S928,Salmon shark,Lamna ditropis,230,U,SPOT,31/08/2005,60.18,-146.57,445,49.69,-152.19,,PAC_NE
+S929,Salmon shark,Lamna ditropis,,U,SPOT,24/08/2006,60.72,-146.13,312,38.29,-123.41,,PAC_NE
+S930,Salmon shark,Lamna ditropis,,U,SPOT,22/09/2006,60.51,-146.97,590,34.02,-134.37,,PAC_NE
+S931,Salmon shark,Lamna ditropis,,U,SPOT,27/08/2006,60.54,-146.15,24,45.99,-131.8,,PAC_NE
+S932,Salmon shark,Lamna ditropis,,U,SPOT,30/08/2006,60.52,-146.73,239,36.19,-131.87,,PAC_NE
+S933,Salmon shark,Lamna ditropis,,U,SPOT,04/09/2006,59.71,-144.11,62,42.12,-130.86,,PAC_NE
+S934,Salmon shark,Lamna ditropis,,U,SPOT,27/08/2006,58.26,-140.5,58,58.93,-139.27,,PAC_NE
+S935,Salmon shark,Lamna ditropis,,U,SPOT,20/04/2007,30.59,-118.14,8,28.76,-117.58,,PAC_NE
+S936,Salmon shark,Lamna ditropis,,U,SPOT,24/04/2007,30.72,-118.58,5,30.55,-118.23,,PAC_NE
+S937,Salmon shark,Lamna ditropis,,U,SPOT,25/09/2006,56.96,-137.68,14,58.25,-138.24,,PAC_NE
+S938,Salmon shark,Lamna ditropis,,U,SPOT,19/05/2007,46.32,-137.52,10,47.62,-135.94,,PAC_NE
+S939,Salmon shark,Lamna ditropis,,U,SPOT,30/08/2006,60.7,-146.17,11,60.65,-146.56,,PAC_NE
+S940,Salmon shark,Lamna ditropis,,U,SPOT,21/02/2007,43.36,-144.27,13,43.09,-141.42,,PAC_NE
+S941,Salmon shark,Lamna ditropis,,U,SPOT,30/08/2006,60.71,-146.18,8,60.75,-146.76,,PAC_NE
+S942,Salmon shark,Lamna ditropis,,U,SPOT,08/09/2007,60.7,-146.19,2,60.7,-146.4,,PAC_NE
+S943,Salmon shark,Lamna ditropis,,U,SPOT,21/09/2007,60.73,-146.12,11,60.49,-147.43,,PAC_NE
+S944,Salmon shark,Lamna ditropis,,U,SPOT,21/08/2006,60.45,-146.09,44,47.38,-130.13,,PAC_NE
+S945,Salmon shark,Lamna ditropis,,U,SPOT,28/08/2006,57.57,-143.98,271,43.43,-144.16,,PAC_NE
+S946,Salmon shark,Lamna ditropis,,U,SPOT,23/08/2006,60.59,-145.76,750,60.33,-146.84,,PAC_NE
+S947,Salmon shark,Lamna ditropis,,U,SPOT,21/08/2006,60.72,-146.11,10,58.4,-144.86,,PAC_NE
+S948,Salmon shark,Lamna ditropis,,U,SPOT,23/08/2006,60.72,-146.1,58,56.74,-150.69,,PAC_NE
+S949,Salmon shark,Lamna ditropis,,U,SPOT,22/08/2006,60.71,-146.1,12,59.35,-144.92,,PAC_NE
+S950,Salmon shark,Lamna ditropis,,U,SPOT,24/08/2006,60.7,-146.17,99,22.95,-127.43,,PAC_NE
+S951,Salmon shark,Lamna ditropis,,U,SPOT,21/08/2006,60.73,-146.09,8,57.64,-144.13,,PAC_NE
+S952,Salmon shark,Lamna ditropis,,U,SPOT,24/08/2006,60.53,-146.29,100,42.73,-128.89,,PAC_NE
+S953,Salmon shark,Lamna ditropis,,U,SPOT,21/08/2006,60.71,-146.13,94,36.59,-124.83,,PAC_NE
+S954,Salmon shark,Lamna ditropis,,U,SPOT,27/08/2006,60.66,-145.89,99,36.71,-138.01,,PAC_NE
+S955,Salmon shark,Lamna ditropis,,U,SPOT,26/08/2007,60.73,-146.09,38,49.44,-132.08,,PAC_NE
+S956,Salmon shark,Lamna ditropis,,U,SPOT,06/09/2007,60.86,-146.22,15,60.66,-146.14,,PAC_NE
+S957,Salmon shark,Lamna ditropis,,U,SPOT,23/08/2007,60.73,-146.11,259,43.7,-146.3,,PAC_NE
+S958,Salmon shark,Lamna ditropis,,U,SPOT,01/09/2007,60.73,-146.08,683,60.72,-146.12,,PAC_NE
+S959,Salmon shark,Lamna ditropis,,U,SPOT,23/08/2007,60.73,-146.09,460,38.6,-125.47,,PAC_NE
+S960,Salmon shark,Lamna ditropis,,U,SPOT,24/08/2007,60.73,-146.08,1113,60.43,-151.73,,PAC_NE
+S961,Salmon shark,Lamna ditropis,,U,SPOT,24/08/2007,60.74,-146.08,415,40.7,-124.89,,PAC_NE
+S962,Salmon shark,Lamna ditropis,,U,SPOT,23/08/2007,60.73,-146.1,263,61,-147.45,,PAC_NE
+S963,Salmon shark,Lamna ditropis,,U,SPOT,25/08/2007,60.73,-146.09,534,42.8,-148.41,,PAC_NE
+S964,Salmon shark,Lamna ditropis,,U,SPOT,22/08/2007,60.72,-146.09,991,60.55,-147.38,,PAC_NE
+S965,Salmon shark,Lamna ditropis,,U,SPOT,19/08/2007,60.72,-146.12,8,60.04,-146.31,,PAC_NE
+S966,Salmon shark,Lamna ditropis,,U,SPOT,19/08/2007,60.72,-146.13,303,60.17,-146.62,,PAC_NE
+S967,Salmon shark,Lamna ditropis,,U,SPOT,05/12/2007,60.82,-147.22,11,60.4,-147.87,,PAC_NE
+S968,Salmon shark,Lamna ditropis,,U,SPOT,17/12/2007,53.87,-160.94,9,53,-166.18,,PAC_NE
+S969,Salmon shark,Lamna ditropis,,U,SPOT,19/05/2008,35.59,-121.2,7,34.98,-120.65,,PAC_NE
+S970,Salmon shark,Lamna ditropis,,U,SPOT,21/08/2008,60.74,-146.09,282,34.38,-127.8,,PAC_NE
+S971,Salmon shark,Lamna ditropis,,U,SPOT,17/07/2010,60.77,-146.06,966,52.73,-171.06,,PAC_NE
+S972,Salmon shark,Lamna ditropis,,U,SPOT,17/07/2010,60.77,-146.06,381,58.23,-148.42,,PAC_NE
+S973,Salmon shark,Lamna ditropis,,U,SPOT,18/08/2008,60.62,-146.4,931,33.87,-121.7,,PAC_NE
+S974,Salmon shark,Lamna ditropis,,U,SPOT,19/07/2010,60.77,-146.06,75,52.26,-131.83,,PAC_NE
+S975,Salmon shark,Lamna ditropis,,U,SPOT,19/07/2010,60.77,-146.05,27,47.79,-129.01,,PAC_NE
+S976,Salmon shark,Lamna ditropis,,U,SPOT,19/07/2010,60.76,-146.06,904,58.8,-173.74,,PAC_NE
+S977,Salmon shark,Lamna ditropis,,U,SPOT,20/07/2010,60.56,-146.53,1218,57.64,-154.42,,PAC_NE
+S978,Salmon shark,Lamna ditropis,,U,SPOT,20/07/2010,60.47,-146.45,26,58.17,-138.24,,PAC_NE
+S979,Tiger shark,Galeocerdo cuvier,355,F,SPOT,09/03/2015,-24.72,153.17,61,-24.72,153.13,,AUSTRL
+S980,Tiger shark,Galeocerdo cuvier,330,F,SPOT,18/02/2015,-16.35,145.7,471,-16.23,145.73,,AUSTRL
+S981,Tiger shark,Galeocerdo cuvier,317,F,SPOT,16/03/2015,-16.31,145.93,357,-15.93,146.34,,AUSTRL
+S982,Tiger shark,Galeocerdo cuvier,301,F,SPOT,04/02/2015,-24.89,153.16,387,-24.19,152.34,,AUSTRL
+S983,Tiger shark,Galeocerdo cuvier,230,M,SPOT,18/02/2015,-16.35,145.7,104,-10.26,148.25,,AUSTRL
+S984,Tiger shark,Galeocerdo cuvier,300,F,SPOT,18/02/2015,-16.35,145.7,226,-16.42,145.82,,AUSTRL
+S985,Tiger shark,Galeocerdo cuvier,210,F,SPOT,12/02/2015,-16.35,145.7,193,-16.4,145.76,,AUSTRL
+S986,Tiger shark,Galeocerdo cuvier,360,F,SPOT,14/02/2015,-16.19,145.89,303,-16.35,145.88,,AUSTRL
+S987,Tiger shark,Galeocerdo cuvier,320,F,SPOT,21/02/2002,-11.6,144.06,45,-10.48,142.42,,AUSTRL
+S988,Tiger shark,Galeocerdo cuvier,350,F,SPOT,23/11/2004,-11.58,144.03,16,-13.98,143.88,,AUSTRL
+S989,Tiger shark,Galeocerdo cuvier,330,F,SPOT,03/12/2006,-11.58,144.03,43,-13.52,140.97,,AUSTRL
+S990,Tiger shark,Galeocerdo cuvier,295,F,SPOT,08/12/2006,-11.58,144.03,40,-11.54,144.21,,AUSTRL
+S991,Tiger shark,Galeocerdo cuvier,288,M,SPOT,18/12/2005,-11.59,144.03,356,-11.59,144.01,,AUSTRL
+S992,Tiger shark,Galeocerdo cuvier,350,F,SPOT,26/11/2006,-11.5,144.2,42,-11.61,144.01,,AUSTRL
+S993,Tiger shark,Galeocerdo cuvier,296,F,SPOT,16/12/2007,-11.59,144.03,231,-11.24,143.46,,AUSTRL
+S994,Tiger shark,Galeocerdo cuvier,300,F,SPOT,13/12/2007,-11.59,144.03,20,-11.57,144.03,,AUSTRL
+S995,Tiger shark,Galeocerdo cuvier,292,M,SPOT,10/12/2007,-11.59,144.03,182,-11.52,144,,AUSTRL
+S996,Tiger shark,Galeocerdo cuvier,368,F,SPOT,26/11/2007,-11.59,144.03,120,-10.73,142.09,,AUSTRL
+S997,Tiger shark,Galeocerdo cuvier,308,F,SPOT,04/12/2013,-11.59,144.03,136,-11.65,144.06,,AUSTRL
+S998,Tiger shark,Galeocerdo cuvier,280,F,SPOT,12/08/2015,-16.35,145.7,93,-16.43,145.78,,AUSTRL
+S999,Tiger shark,Galeocerdo cuvier,260,F,SPOT,16/09/2015,-16.47,145.8,48,-16.4,145.88,,AUSTRL
+S1000,Tiger shark,Galeocerdo cuvier,311,F,SPOT,25/03/2013,-11.59,144.03,383,-11.64,144.15,,AUSTRL
+S1001,Tiger shark,Galeocerdo cuvier,331,F,SPOT,25/03/2013,-11.59,144.03,79,-11.6,143.85,,AUSTRL
+S1002,Tiger shark,Galeocerdo cuvier,326,F,SPOT,17/11/2010,18.79,-110.91,186,18.72,-111.12,,PAC_NE
+S1003,Tiger shark,Galeocerdo cuvier,341,F,SPOT,17/11/2010,18.79,-110.91,40,18.87,-110.98,,PAC_NE
+S1004,Tiger shark,Galeocerdo cuvier,316,F,SPOT,14/11/2010,19.3,-110.8,87,19.32,-110.82,,PAC_NE
+S1005,Tiger shark,Galeocerdo cuvier,387,F,SPOT,17/11/2010,18.79,-110.91,79,18.83,-111.06,,PAC_NE
+S1006,Tiger shark,Galeocerdo cuvier,388,F,SPOT,15/11/2010,18.78,-111.05,139,18.76,-110.92,,PAC_NE
+S1007,Tiger shark,Galeocerdo cuvier,362,F,SPOT,22/01/2011,5.56,-87.04,38,5.53,-87.04,,PAC_NE
+S1008,Tiger shark,Galeocerdo cuvier,334,F,SPOT,20/01/2011,5.56,-87.05,316,1.23,-95.58,,PAC_NE
+S1009,Tiger shark,Galeocerdo cuvier,408,F,SPOT,22/01/2011,5.56,-87.04,94,5.51,-87.09,,PAC_NE
+S1010,Tiger shark,Galeocerdo cuvier,251,F,SPOT,30/01/2014,-0.48,-90.28,211,2.17,-80.92,,PAC_NE
+S1011,Tiger shark,Galeocerdo cuvier,222,F,SPOT,30/01/2014,-0.48,-90.28,334,-0.5,-90.5,,PAC_NE
+S1012,Tiger shark,Galeocerdo cuvier,274,F,SPOT,30/01/2014,-0.48,-90.28,117,-0.47,-90.34,,PAC_NE
+S1013,Tiger shark,Galeocerdo cuvier,249,F,SPOT,30/01/2014,-0.48,-90.28,86,-0.48,-90.31,,PAC_NE
+S1014,Tiger shark,Galeocerdo cuvier,210,F,SPOT,27/04/2012,-34.49,151.57,106,-26.29,153.81,,AUSTRL
+S1015,Tiger shark,Galeocerdo cuvier,250,F,SPOT,08/04/2012,-34.82,151.1,296,-36.56,151.29,,AUSTRL
+S1016,Tiger shark,Galeocerdo cuvier,150,F,PSAT,21/01/2012,-33.15,151.38,30,-35.35,152.91,,AUSTRL
+S1017,Tiger shark,Galeocerdo cuvier,310,M,PSAT,17/04/2007,-33.57,152.37,14,-36.26,152.78,,AUSTRL
+S1018,Tiger shark,Galeocerdo cuvier,165,F,PSAT,24/11/2007,-33.98,151.22,6,-34.47,151.36,,AUSTRL
+S1019,Tiger shark,Galeocerdo cuvier,245,F,PSAT,27/03/2012,-34.75,151.19,27,-35.94,153.11,,AUSTRL
+S1020,Tiger shark,Galeocerdo cuvier,320,F,PSAT,05/05/2007,-34.29,151.64,47,-20.59,161.15,,AUSTRL
+S1021,Tiger shark,Galeocerdo cuvier,200,F,PSAT,18/11/2007,-35.05,151.07,54,-32.99,155.29,,AUSTRL
+S1022,Tiger shark,Galeocerdo cuvier,310,F,PSAT,25/09/2010,-26.41,153.12,21,-27.9,154.25,,AUSTRL
+S1023,Tiger shark,Galeocerdo cuvier,180,M,SPOT,16/08/2009,-26.11,153.56,37,-26.11,153.23,,AUSTRL
+S1024,Tiger shark,Galeocerdo cuvier,290,F,SPOT,14/04/2011,-28.43,154.22,135,-24.57,153.25,,AUSTRL
+S1025,Tiger shark,Galeocerdo cuvier,280,F,SPOT,28/12/2010,26.79,-79.05,296,26.38,-78.18,,ATL_N
+S1026,Tiger shark,Galeocerdo cuvier,290,M,SPOT,28/12/2010,26.9,-79.06,9,27.17,-79.3,,ATL_N
+S1027,Tiger shark,Galeocerdo cuvier,250,F,SPOT,17/03/2011,-25.75,113.76,84,-25.53,113.36,,AUSTRL
+S1028,Tiger shark,Galeocerdo cuvier,270,F,SPOT,14/03/2011,-25.75,113.76,135,-25.76,113.54,,AUSTRL
+S1029,Tiger shark,Galeocerdo cuvier,270,F,SPOT,27/02/2011,-25.76,113.75,229,-24.57,112.91,,AUSTRL
+S1030,Tiger shark,Galeocerdo cuvier,250,F,SPOT,24/04/2011,-25.78,113.78,308,-25.16,113.91,,AUSTRL
+S1031,Tiger shark,Galeocerdo cuvier,250,F,SPOT,11/02/2011,-25.75,113.74,101,-22.97,112.45,,AUSTRL
+S1032,Tiger shark,Galeocerdo cuvier,300,F,SPOT,15/04/2011,-25.75,113.74,459,-21.58,114.27,,AUSTRL
+S1033,Tiger shark,Galeocerdo cuvier,250,F,SPOT,14/03/2011,-25.74,113.76,195,-24.85,113.03,,AUSTRL
+S1034,Tiger shark,Galeocerdo cuvier,260,F,SPOT,17/03/2011,-25.75,113.76,90,-25.7,112.59,,AUSTRL
+S1035,Tiger shark,Galeocerdo cuvier,300,F,SPOT,17/03/2011,-25.78,113.77,53,-20.22,113.05,,AUSTRL
+S1036,Tiger shark,Galeocerdo cuvier,160,F,SPOT,21/11/2011,32.16,-64.98,216,32.25,-64.85,,ATL_N
+S1037,Tiger shark,Galeocerdo cuvier,240,M,SPOT,22/03/2011,25.71,-79.32,22,26.22,-79.83,,ATL_N
+S1038,Tiger shark,Galeocerdo cuvier,150,M,SPOT,08/04/2011,25.72,-79.23,51,27.53,-79.42,,ATL_N
+S1039,Tiger shark,Galeocerdo cuvier,150,F,SPOT,21/09/2011,25.41,-77.92,4,25.85,-77.4,,ATL_N
+S1040,Tiger shark,Galeocerdo cuvier,250,M,SPOT,23/09/2011,25.77,-79.31,73,25.91,-79.19,,ATL_N
+S1041,Tiger shark,Galeocerdo cuvier,230,M,SPOT,23/09/2011,25.77,-79.31,125,23.08,-78.62,,ATL_N
+S1042,Tiger shark,Galeocerdo cuvier,280,F,SPOT,23/01/2012,25.7,-79.32,351,28.94,-77.82,,ATL_N
+S1043,Tiger shark,Galeocerdo cuvier,240,F,SPOT,02/12/2014,-3.4,40.16,77,-11.47,42.48,,IND_SW
+S1044,Tiger shark,Galeocerdo cuvier,240,F,SPOT,02/12/2014,-3.41,40.13,234,-6.75,39.94,,IND_SW
+S1045,Tiger shark,Galeocerdo cuvier,240,M,SPOT,19/05/2013,24.11,-75.31,458,32.09,-64.99,,ATL_N
+S1046,Tiger shark,Galeocerdo cuvier,370,M,SPOT,11/01/2015,-26.75,32.94,55,-26.84,32.91,,IND_SW
+S1047,Tiger shark,Galeocerdo cuvier,310,M,SPOT,12/01/2015,-26.75,32.94,35,-26.95,32.89,,IND_SW
+S1048,Tiger shark,Galeocerdo cuvier,310,M,SPOT,03/10/2013,31.99,-65.2,692,37.14,-55.02,,ATL_N
+S1049,Tiger shark,Galeocerdo cuvier,170,F,SPOT,09/01/2016,19.37,-81.31,50,19.39,-81.28,,ATL_N
+S1050,Tiger shark,Galeocerdo cuvier,340,F,SPOT,01/03/2016,19.36,-81.31,8,19.41,-81.35,,ATL_N
+S1051,Tiger shark,Galeocerdo cuvier,290,F,SPOT,11/04/2016,19.04,-80.58,46,19.66,-80.57,,ATL_N
+S1052,Tiger shark,Galeocerdo cuvier,280,F,SPOT,06/12/2010,18.33,-64.62,212,18.32,-64.6,,ATL_N
+S1053,Tiger shark,Galeocerdo cuvier,170,F,SPOT,26/06/2010,18.25,-64.97,201,18.82,-64.7,,ATL_N
+S1054,Tiger shark,Galeocerdo cuvier,270,F,SPOT,16/07/2010,17.62,-65.53,15,32.1,-65.16,,ATL_N
+S1055,Tiger shark,Galeocerdo cuvier,270,M,SPOT,27/07/2010,32.05,-65.04,607,30.22,-76.34,,ATL_N
+S1056,Tiger shark,Galeocerdo cuvier,180,F,SPOT,07/07/2012,32.05,-65.02,381,32.13,-65.03,,ATL_N
+S1057,Tiger shark,Galeocerdo cuvier,350,M,SPOT,24/07/2010,32.06,-65.04,305,34.49,-58.07,,ATL_N
+S1058,Tiger shark,Galeocerdo cuvier,300,F,SPOT,27/07/2010,18.14,-64.57,397,18.3,-64.91,,ATL_N
+S1059,Tiger shark,Galeocerdo cuvier,250,M,SPOT,05/09/2010,32.06,-65.05,41,31.94,-65.18,,ATL_N
+S1060,Tiger shark,Galeocerdo cuvier,280,F,SPOT,25/09/2010,18.23,-64.94,340,22.05,-59.54,,ATL_N
+S1061,Tiger shark,Galeocerdo cuvier,300,M,SPOT,29/07/2010,32.06,-65.03,773,28.18,-64.95,,ATL_N
+S1062,Tiger shark,Galeocerdo cuvier,330,M,SPOT,28/07/2010,32.06,-65.05,739,33.01,-57.71,,ATL_N
+S1063,Tiger shark,Galeocerdo cuvier,170,M,SPOT,18/08/2010,32.06,-65.04,402,32.12,-65.04,,ATL_N
+S1064,Tiger shark,Galeocerdo cuvier,260,M,SPOT,12/09/2010,18.26,-64.79,11,18.26,-64.79,,ATL_N
+S1065,Tiger shark,Galeocerdo cuvier,300,M,SPOT,17/08/2010,31.98,-65.11,44,32,-65.12,,ATL_N
+S1066,Tiger shark,Galeocerdo cuvier,330,M,SPOT,25/07/2010,32.06,-65.04,559,24.54,-67.66,,ATL_N
+S1067,Tiger shark,Galeocerdo cuvier,240,M,SPOT,28/07/2010,32.04,-65.05,833,38.46,-60.81,,ATL_N
+S1068,Tiger shark,Galeocerdo cuvier,340,M,SPOT,28/07/2010,32.07,-65.06,56,35.42,-68.75,,ATL_N
+S1069,Tiger shark,Galeocerdo cuvier,390,M,SPOT,27/07/2010,32.05,-65.04,411,29.32,-74.71,,ATL_N
+S1070,Tiger shark,Galeocerdo cuvier,200,M,SPOT,14/10/2010,32.11,-65.1,1394,10.64,-61.51,,ATL_N
+S1071,Tiger shark,Galeocerdo cuvier,280,M,SPOT,07/09/2010,32.05,-65.04,864,23.95,-71.54,,ATL_N
+S1072,Tiger shark,Galeocerdo cuvier,300,M,SPOT,11/09/2010,32.05,-65.02,746,38.98,-52.01,,ATL_N
+S1073,Tiger shark,Galeocerdo cuvier,200,F,SPOT,24/10/2010,32.13,-65.05,519,35.69,-62.67,,ATL_N
+S1074,Tiger shark,Galeocerdo cuvier,260,F,SPOT,04/12/2010,19.38,-81.31,150,16.87,-78,,ATL_N
+S1075,Tiger shark,Galeocerdo cuvier,260,M,SPOT,23/01/2012,25.7,-79.32,125,26.55,-79.36,,ATL_N
+S1076,Tiger shark,Galeocerdo cuvier,310,M,SPOT,27/08/2013,32.09,-65.11,1092,34.4,-52.98,,ATL_N
+S1077,Tiger shark,Galeocerdo cuvier,300,M,SPOT,05/08/2014,32.05,-64.96,765,37.35,-43.87,,ATL_N
+S1078,Tiger shark,Galeocerdo cuvier,240,F,SPOT,15/12/2010,19.37,-81.3,249,15.84,-82.8,,ATL_N
+S1079,Tiger shark,Galeocerdo cuvier,260,F,SPOT,23/01/2012,25.7,-79.32,131,29.32,-74.72,,ATL_N
+S1080,Tiger shark,Galeocerdo cuvier,270,F,SPOT,29/12/2010,27.02,-79.16,283,26.92,-78.63,,ATL_N
+S1081,Tiger shark,Galeocerdo cuvier,160,F,SPOT,20/04/2011,19.37,-81.3,522,17.4,-78.94,,ATL_N
+S1082,Tiger shark,Galeocerdo cuvier,260,F,SPOT,29/12/2010,26.79,-79.05,158,28.55,-79.82,,ATL_N
+S1083,Tiger shark,Galeocerdo cuvier,250,M,SPOT,25/07/2009,32.06,-65.03,366,34.36,-65.15,,ATL_N
+S1084,Tiger shark,Galeocerdo cuvier,270,M,SPOT,03/09/2009,31.67,-65.65,774,26.11,-78.07,,ATL_N
+S1085,Tiger shark,Galeocerdo cuvier,260,M,SPOT,03/08/2009,32.06,-65.02,724,28.87,-63.33,,ATL_N
+S1086,Tiger shark,Galeocerdo cuvier,300,M,SPOT,05/08/2009,32.07,-65.02,391,36.06,-61.38,,ATL_N
+S1087,Tiger shark,Galeocerdo cuvier,310,M,SPOT,16/08/2009,32.05,-65.03,392,39.74,-55.58,,ATL_N
+S1088,Tiger shark,Galeocerdo cuvier,290,M,SPOT,19/07/2009,32.06,-65.03,978,29.43,-55.79,,ATL_N
+S1089,Tiger shark,Galeocerdo cuvier,300,M,SPOT,20/09/2009,32.14,-65.28,1147,17.68,-62.05,,ATL_N
+S1091,Tiger shark,Galeocerdo cuvier,212,F,PSAT,01/08/2012,-3.82,-32.43,125,-0.54,-33.77,,ATL_N
+S1095,Tiger shark,Galeocerdo cuvier,251,M,SPOT,31/07/2014,-3.81,-32.41,184,3.21,-15.66,,ATL_N
+S1101,Tiger shark,Galeocerdo cuvier,202,M,SPOT,31/07/2014,-3.81,-32.41,124,5.57,-24.33,,ATL_N
+S1118,Tiger shark,Galeocerdo cuvier,274,F,SPOT,12/07/2014,40.66,-71.46,73,40.7,-62.31,,ATL_N
+S1119,Tiger shark,Galeocerdo cuvier,206,M,SPOT,12/07/2014,40.66,-71.46,46,38.16,-74.45,,ATL_N
+S1120,Tiger shark,Galeocerdo cuvier,168,M,PSAT,24/04/2007,33.08,-78.63,123,39.18,-72.96,,ATL_N
+S1121,Tiger shark,Galeocerdo cuvier,292,F,PSAT,22/04/2007,31.28,-80.05,76,36.05,-59.67,,ATL_N
+S1122,Tiger shark,Galeocerdo cuvier,233,M,PSAT,18/04/2007,27.03,-80,129,28.27,-91.7,,ATL_N
+S1123,Tiger shark,Galeocerdo cuvier,245,M,SPOT,27/02/2011,-0.33,73.45,27,-0.36,73.44,,IND_SW
+S1124,Tiger shark,Galeocerdo cuvier,205,F,SPOT,21/02/2011,-0.33,73.45,27,-0.31,73.33,,IND_SW
+S1125,Tiger shark,Galeocerdo cuvier,192,F,SPOT,01/02/2010,-22.4,166.85,38,-22.1,166.24,,AUSTRL
+S1126,Tiger shark,Galeocerdo cuvier,270,F,SPOT,13/08/2010,-19.86,158.32,28,-18.43,152.81,,AUSTRL
+S1127,Tiger shark,Galeocerdo cuvier,332,F,SPOT,15/08/2010,-19.86,158.32,27,-17.66,153.57,,AUSTRL
+S1128,Tiger shark,Galeocerdo cuvier,340,M,PSAT,13/07/2009,-22.4,166.85,13,-22.24,167.29,,AUSTRL
+S1129,Tiger shark,Galeocerdo cuvier,330,M,SPOT,18/01/2014,-26.75,32.94,376,-26.99,32.81,,IND_SW
+S1130,Tiger shark,Galeocerdo cuvier,230,F,SPOT,29/01/2014,-26.75,32.94,31,-30.41,45.23,,IND_SW
+S1131,Tiger shark,Galeocerdo cuvier,330,F,SPOT,12/01/2015,-26.75,32.94,363,-26.98,32.86,,IND_SW
+S1132,Tiger shark,Galeocerdo cuvier,327,M,SPOT,17/01/2014,-26.75,32.94,15,-26.82,32.9,,IND_SW
+S1133,Tiger shark,Galeocerdo cuvier,330,M,SPOT,25/01/2014,-26.75,32.94,373,-30.27,31.35,,IND_SW
+S1134,Tiger shark,Galeocerdo cuvier,328,F,SPOT,06/12/2015,-26.75,32.94,202,-26.75,33,,IND_SW
+S1135,Tiger shark,Galeocerdo cuvier,343,M,SPOT,27/03/2016,-26.97,32.95,28,-28.78,32.26,,IND_SW
+S1136,Tiger shark,Galeocerdo cuvier,411,F,SPOT,04/12/2015,-26.75,32.94,198,-23.84,51.43,,IND_SW
+S1137,Tiger shark,Galeocerdo cuvier,361,F,SPOT,05/12/2015,-26.75,32.94,163,-26.98,32.89,,IND_SW
+S1138,Tiger shark,Galeocerdo cuvier,303,F,SPOT,24/04/2015,-23.02,113.8,106,-23.03,113.58,,AUSTRL
+S1139,Tiger shark,Galeocerdo cuvier,363,F,SPOT,05/05/2015,-23.02,113.8,363,-33.33,131.04,,AUSTRL
+S1140,Tiger shark,Galeocerdo cuvier,407,F,SPOT,24/04/2015,-23.02,113.8,165,-18.35,119.69,,AUSTRL
+S1141,Tiger shark,Galeocerdo cuvier,319,F,SPOT,23/04/2015,-23.02,113.8,57,-20.28,117.23,,AUSTRL
+S1142,Tiger shark,Galeocerdo cuvier,390,F,SPOT,27/04/2015,-23.02,113.8,307,-23.14,113.51,,AUSTRL
+S1143,Tiger shark,Galeocerdo cuvier,276,F,SPOT,21/06/2007,-22.97,113.76,13,-23.44,113.79,,AUSTRL
+S1144,Tiger shark,Galeocerdo cuvier,214,F,SPOT,19/08/2008,-22.38,113.73,66,-21.43,114.44,,AUSTRL
+S1145,Tiger shark,Galeocerdo cuvier,179,F,SPOT,16/08/2008,-21.86,113.96,73,-21.17,115.24,,AUSTRL
+S1146,Tiger shark,Galeocerdo cuvier,222,F,SPOT,19/08/2008,-22.42,113.71,480,-19.93,115.62,,AUSTRL
+S1147,Tiger shark,Galeocerdo cuvier,224,M,SPOT,02/06/2010,-21.58,114.52,34,-21.21,115.2,,AUSTRL
+S1148,Tiger shark,Galeocerdo cuvier,333,M,SPOT,27/05/2010,-23.07,113.7,187,-23.3,113.45,,AUSTRL
+S1149,Tiger shark,Galeocerdo cuvier,375,F,SPOT,19/02/2011,26.1,-79.1,9,27.69,-79.41,,ATL_N
+S1150,Tiger shark,Galeocerdo cuvier,325,F,SPOT,22/02/2011,26.1,-79.1,38,27.65,-79.15,,ATL_N
+S1151,Tiger shark,Galeocerdo cuvier,310,F,SPOT,20/02/2011,26.86,-79.1,47,32.7,-73.9,,ATL_N
+S1152,Tiger shark,Galeocerdo cuvier,206,M,SPOT,10/04/2011,25.82,-77.93,52,30.61,-78.03,,ATL_N
+S1153,Tiger shark,Galeocerdo cuvier,320,F,SPOT,10/04/2011,25.82,-77.93,58,25.75,-79.24,,ATL_N
+S1154,Tiger shark,Galeocerdo cuvier,175,F,SPOT,09/12/2011,25.32,-80.23,346,26.45,-79.87,,ATL_N
+S1155,Tiger shark,Galeocerdo cuvier,380,F,SPOT,20/09/2011,20.72,-156.56,142,21.03,-156.61,,PAC_NE
+S1156,Tiger shark,Galeocerdo cuvier,405,F,SPOT,08/09/2011,20.72,-156.56,255,26.69,-169.18,,PAC_NE
+S1157,Tiger shark,Galeocerdo cuvier,285,F,SPOT,05/09/2011,20.72,-156.56,21,20.68,-156.6,,PAC_NE
+S1158,Tiger shark,Galeocerdo cuvier,180,F,SPOT,21/11/2013,25.01,-81,29,25.35,-82.35,,ATL_N
+S1159,Tiger shark,Galeocerdo cuvier,332,F,SPOT,14/12/2011,26.86,-79.04,5,26.91,-79.17,,ATL_N
+S1160,Tiger shark,Galeocerdo cuvier,248,F,SPOT,23/07/2012,26.86,-79.04,42,30.44,-80,,ATL_N
+S1161,Tiger shark,Galeocerdo cuvier,296,F,SPOT,22/07/2012,26.86,-79.04,26,29.01,-79.29,,ATL_N
+S1162,Tiger shark,Galeocerdo cuvier,260,F,SPOT,06/09/2012,25.1,-77.26,9,25.01,-76.66,,ATL_N
+S1163,Tiger shark,Galeocerdo cuvier,321,F,SPOT,16/12/2011,26.86,-79.04,31,26.95,-79.14,,ATL_N
+S1164,Tiger shark,Galeocerdo cuvier,305,F,SPOT,15/12/2011,26.86,-79.04,67,27.53,-79.06,,ATL_N
+S1165,Tiger shark,Galeocerdo cuvier,346,F,SPOT,05/02/2012,27.4,-78.65,56,33.85,-74.05,,ATL_N
+S1166,Tiger shark,Galeocerdo cuvier,299,M,SPOT,27/05/2012,24.7,-80.85,40,26.77,-72.8,,ATL_N
+S1167,Tiger shark,Galeocerdo cuvier,200,M,SPOT,06/02/2012,25.35,-80.26,28,25.67,-78.86,,ATL_N
+S1168,Tiger shark,Galeocerdo cuvier,297,F,SPOT,06/11/2012,25.06,-77.18,42,24.14,-77.56,,ATL_N
+S1169,Tiger shark,Galeocerdo cuvier,157,F,SPOT,08/09/2012,25.04,-77.24,134,24.65,-76.24,,ATL_N
+S1170,Tiger shark,Galeocerdo cuvier,215,F,SPOT,27/09/2012,25.66,-77.62,8,25.48,-77.27,,ATL_N
+S1171,Tiger shark,Galeocerdo cuvier,206,F,SPOT,18/03/2013,25.6,-80.16,16,27.92,-78.29,,ATL_N
+S1172,Tiger shark,Galeocerdo cuvier,360,F,SPOT,19/10/2013,25.91,-79.06,24,26.84,-79.1,,ATL_N
+S1173,Tiger shark,Galeocerdo cuvier,230,M,SPOT,13/11/2013,26.34,-81.95,60,25.72,-82.13,,ATL_N
+S1174,Tiger shark,Galeocerdo cuvier,300,F,SPOT,05/08/2013,24.58,-80.87,27,28.11,-80.51,,ATL_N
+S1175,Tiger shark,Galeocerdo cuvier,220,F,SPOT,24/05/2013,24.7,-80.85,30,23.28,-78.43,,ATL_N
+S1176,Tiger shark,Galeocerdo cuvier,369,F,SPOT,19/10/2013,25.91,-79.06,232,18.1,-71.82,,ATL_N
+S1177,Tiger shark,Galeocerdo cuvier,289,F,SPOT,01/06/2013,24.7,-80.85,290,20.36,-94.27,,ATL_N
+S1178,Tiger shark,Galeocerdo cuvier,357,F,SPOT,17/10/2013,25.91,-79.06,147,26.82,-79.06,,ATL_N
+S1179,Tiger shark,Galeocerdo cuvier,378,F,SPOT,17/10/2013,26.91,-79.08,10,27.73,-78.32,,ATL_N
+S1180,Tiger shark,Galeocerdo cuvier,307,F,SPOT,17/10/2013,25.91,-79.06,2,27.16,-79.04,,ATL_N
+S1181,Tiger shark,Galeocerdo cuvier,344,F,SPOT,18/10/2013,26.91,-79.08,10,27.14,-79.04,,ATL_N
+S1182,Tiger shark,Galeocerdo cuvier,294,F,SPOT,06/11/2013,24.89,-80.98,223,19.78,-86.32,,ATL_N
+S1183,Tiger shark,Galeocerdo cuvier,199,F,SPOT,21/03/2014,25.26,-80.06,150,24.95,-80.41,,ATL_N
+S1184,Tiger shark,Galeocerdo cuvier,242,M,SPOT,22/03/2014,25.61,-80.15,5,28.31,-80.1,,ATL_N
+S1185,Tiger shark,Galeocerdo cuvier,366,F,SPOT,22/06/2014,30.83,-77.81,102,27.36,-79.03,,ATL_N
+S1186,Tiger shark,Galeocerdo cuvier,383,F,SPOT,13/05/2014,26.91,-79.06,376,34.19,-77.2,,ATL_N
+S1187,Tiger shark,Galeocerdo cuvier,352,F,SPOT,12/05/2014,26.91,-79.06,186,35.16,-58.34,,ATL_N
+S1188,Tiger shark,Galeocerdo cuvier,300,F,SPOT,14/05/2014,26.91,-79.08,9,26.85,-78.99,,ATL_N
+S1189,Tiger shark,Galeocerdo cuvier,296,F,SPOT,29/06/2014,25.77,-80.08,25,25.5,-80.14,,ATL_N
+S1190,Tiger shark,Galeocerdo cuvier,352,M,SPOT,16/11/2014,27.02,-79.16,101,28.86,-79.65,,ATL_N
+S1191,Tiger shark,Galeocerdo cuvier,356,F,SPOT,14/11/2014,26.9,-79.08,474,28.42,-79.16,,ATL_N
+S1192,Tiger shark,Galeocerdo cuvier,270,F,SPOT,26/04/2015,25.78,-80.08,341,26.64,-78.09,,ATL_N
+S1193,Tiger shark,Galeocerdo cuvier,245,M,SPOT,15/03/2015,25.75,-80.17,233,29.71,-87.14,,ATL_N
+S1194,Tiger shark,Galeocerdo cuvier,324,F,SPOT,05/01/2016,26.91,-79.06,184,40.01,-70.45,,ATL_N
+S1195,Tiger shark,Galeocerdo cuvier,387,F,SPOT,06/01/2016,26.86,-79.04,183,36.29,-67.28,,ATL_N
+S1196,Tiger shark,Galeocerdo cuvier,202.9,F,SPOT,26/05/2010,26.37,-81.98,33,22.67,-84.52,,ATL_N
+S1197,Tiger shark,Galeocerdo cuvier,263,M,SPOT,26/05/2010,26.37,-81.98,41,26.45,-82.79,,ATL_N
+S1198,Tiger shark,Galeocerdo cuvier,241,F,SPOT,26/05/2010,26.37,-81.98,25,26.23,-81.85,,ATL_N
+S1199,Tiger shark,Galeocerdo cuvier,255,F,SPOT,26/05/2010,26.37,-81.98,191,30.74,-79.98,,ATL_N
+S1200,Tiger shark,Galeocerdo cuvier,255,F,SPOT,13/11/2010,24.7,-80.85,46,27.11,-79.88,,ATL_N
+S1201,Tiger shark,Galeocerdo cuvier,250,F,SPOT,10/06/2010,26.37,-81.98,95,26.04,-82.3,,ATL_N
+S1202,Tiger shark,Galeocerdo cuvier,295,F,SPOT,09/06/2010,26.37,-81.98,127,26.09,-82.12,,ATL_N
+S1203,Tiger shark,Galeocerdo cuvier,245,F,SPOT,29/01/2011,24.7,-80.85,27,24.85,-80.56,,ATL_N
+S1204,Tiger shark,Galeocerdo cuvier,200,M,SPOT,29/10/2010,26.37,-81.98,127,24.54,-82.88,,ATL_N
+S1205,Tiger shark,Galeocerdo cuvier,355,F,SPOT,19/02/2011,26.86,-79.04,94,33.09,-78.07,,ATL_N
+S1206,Tiger shark,Galeocerdo cuvier,320,F,SPOT,20/02/2011,26.86,-79.04,98,32.03,-79.76,,ATL_N
+S1207,Tiger shark,Galeocerdo cuvier,295,F,SPOT,20/02/2011,26.86,-79.04,309,26.63,-78.78,,ATL_N
+S1208,Tiger shark,Galeocerdo cuvier,365,F,SPOT,28/04/2011,27.86,-76.67,122,36.74,-60.79,,ATL_N
+S1209,Tiger shark,Galeocerdo cuvier,325,F,SPOT,20/02/2011,26.86,-79.04,231,27.2,-79.12,,ATL_N
+S1210,Tiger shark,Galeocerdo cuvier,280,F,SPOT,20/02/2011,26.86,-79.04,216,26.32,-77.25,,ATL_N
+S1211,Tiger shark,Galeocerdo cuvier,325,F,SPOT,19/02/2011,26.86,-79.04,556,40.33,-71.88,,ATL_N
+S1212,Tiger shark,Galeocerdo cuvier,403,F,SPOT,19/02/2011,26.86,-79.04,184,38.8,-69.15,,ATL_N
+S1213,Tiger shark,Galeocerdo cuvier,286,F,SPOT,20/02/2011,26.86,-79.04,252,33.45,-76.87,,ATL_N
+S1214,Tiger shark,Galeocerdo cuvier,322,F,SPOT,31/03/2011,27.12,-79.06,239,27.02,-79.04,,ATL_N
+S1215,Tiger shark,Galeocerdo cuvier,184,F,SPOT,12/11/2010,24.7,-80.85,84,31.19,-79.75,,ATL_N
+S1216,Tiger shark,Galeocerdo cuvier,330,F,SPOT,06/12/2014,-3.44,40.17,25,-2.51,40.98,,IND_SW
+S1217,Tiger shark,Galeocerdo cuvier,,F,SPOT,03/12/2014,-3.58,40.15,28,-2.51,40.99,,IND_SW
+S1218,Tiger shark,Galeocerdo cuvier,257,F,SPOT,29/01/2015,-30.24,30.83,58,-30.44,30.81,,IND_SW
+S1219,Tiger shark,Galeocerdo cuvier,380,M,SPOT,30/01/2015,-30.24,30.83,59,-30.23,30.88,,IND_SW
+S1220,Tiger shark,Galeocerdo cuvier,310,F,SPOT,03/02/2015,-30.24,30.83,56,-30.22,30.84,,IND_SW
+S1221,Tiger shark,Galeocerdo cuvier,319,F,SPOT,04/02/2015,-30.24,30.83,54,-30.85,30.44,,IND_SW
+S1222,Tiger shark,Galeocerdo cuvier,360,M,SPOT,04/02/2015,-30.24,30.83,53,-30.36,30.86,,IND_SW
+S1223,Tiger shark,Galeocerdo cuvier,316,F,SPOT,06/02/2015,-30.24,30.83,21,-30.44,31.1,,IND_SW
+S1224,Tiger shark,Galeocerdo cuvier,296,M,SPOT,07/02/2015,-30.24,30.83,49,-30.55,30.65,,IND_SW
+S1225,Tiger shark,Galeocerdo cuvier,315,F,SPOT,07/02/2015,-30.24,30.83,50,-30.58,30.59,,IND_SW
+S1226,Tiger shark,Galeocerdo cuvier,306,F,SPOT,07/02/2015,-30.24,30.83,52,-30.82,30.43,,IND_SW
+S1227,Tiger shark,Galeocerdo cuvier,296,M,SPOT,12/02/2015,-30.24,30.83,46,-30.21,30.91,,IND_SW
+S1228,Tiger shark,Galeocerdo cuvier,293,F,SPOT,13/02/2015,-30.24,30.83,43,-31.14,30.24,,IND_SW
+S1229,Tiger shark,Galeocerdo cuvier,292,F,SPOT,20/03/2013,-30.24,30.83,239,-27.05,32.89,,IND_SW
+S1230,Tiger shark,Galeocerdo cuvier,340,F,SPOT,24/03/2013,-30.24,30.83,10,-31.04,31.21,,IND_SW
+S1233,Whale shark,Rhincodon typus,1000,F,SPOT,27/10/2011,1.67,-91.99,80,-7.73,-81.68,,PAC_NE
+S1234,Whale shark,Rhincodon typus,800,F,SPOT,12/07/2011,1.67,-91.99,30,2.04,-104.1,,PAC_NE
+S1235,Whale shark,Rhincodon typus,400,F,SPOT,10/07/2011,1.67,-91.99,20,1.78,-112.34,,PAC_NE
+S1237,Whale shark,Rhincodon typus,650,M,SPOT,09/07/2011,1.67,-91.99,178,-2.02,-81.67,,PAC_NE
+S1238,Whale shark,Rhincodon typus,1050,F,SPOT,14/07/2011,1.67,-91.99,52,2.14,-97.44,,PAC_NE
+S1239,Whale shark,Rhincodon typus,1200,F,SPOT,12/10/2011,1.17,-87.01,87,-5.82,-82.89,,PAC_NE
+S1240,Whale shark,Rhincodon typus,1100,F,SPOT,01/09/2011,1.67,-91.99,7,1.77,-92.02,,PAC_NE
+S1241,Whale shark,Rhincodon typus,900,F,SPOT,08/07/2011,1.67,-91.99,131,-6.43,-89.57,,PAC_NE
+S1242,Whale shark,Rhincodon typus,1000,F,SPOT,08/09/2011,1.67,-91.99,38,1.64,-89.32,,PAC_NE
+S1243,Whale shark,Rhincodon typus,900,F,SPOT,13/07/2011,1.67,-91.99,16,2.74,-100.66,,PAC_NE
+S1244,Whale shark,Rhincodon typus,1000,F,SPOT,14/07/2011,1.67,-91.99,106,3.63,-109.35,,PAC_NE
+S1245,Whale shark,Rhincodon typus,1000,F,SPOT,16/10/2012,1.67,-91.99,94,4.11,-81.19,,PAC_NE
+S1246,Whale shark,Rhincodon typus,900,F,SPOT,19/10/2012,1.67,-91.99,45,3.9,-105.51,,PAC_NE
+S1247,Whale shark,Rhincodon typus,1100,F,SPOT,15/10/2012,1.67,-91.99,55,3.65,-114.83,,PAC_NE
+S1248,Whale shark,Rhincodon typus,900,F,SPOT,04/09/2012,1.67,-91.99,12,3.27,-89.31,,PAC_NE
+S1249,Whale shark,Rhincodon typus,1120,F,SPOT,06/09/2012,1.67,-91.99,48,1.4,-97.91,,PAC_NE
+S1251,Whale shark,Rhincodon typus,1250,F,SPOT,07/09/2012,1.67,-91.99,9,2.07,-92.13,,PAC_NE
+S1252,Whale shark,Rhincodon typus,1250,F,SPOT,06/09/2012,1.67,-91.99,7,0.35,-93.74,,PAC_NE
+S1253,Whale shark,Rhincodon typus,560,F,SPOT,05/09/2012,1.67,-91.99,31,-6.94,-104.96,,PAC_NE
+S1254,Whale shark,Rhincodon typus,1200,F,SPOT,07/10/2013,1.67,-91.99,11,0.8,-95.32,,PAC_NE
+S1255,Whale shark,Rhincodon typus,1300,F,SPOT,03/09/2015,1.67,-91.99,112,-7.9,-82.38,,PAC_NE
+S1256,Whale shark,Rhincodon typus,1310,F,SPOT,06/08/2014,1.67,-91.99,79,5.15,-119.17,,PAC_NE
+S1257,Whale shark,Rhincodon typus,1070,F,SPOT,01/08/2014,1.67,-91.99,138,-7.57,-85.01,,PAC_NE
+S1258,Whale shark,Rhincodon typus,1180,F,SPOT,08/08/2014,1.67,-91.99,143,4.76,-100.03,,PAC_NE
+S1259,Whale shark,Rhincodon typus,1100,F,SPOT,11/09/2015,1.67,-91.99,21,2.51,-89.2,,PAC_NE
+S1260,Whale shark,Rhincodon typus,400,F,SPOT,08/07/2011,1.67,-91.99,45,-9.07,-104.15,,PAC_NE
+S1289,Whale shark,Rhincodon typus,700,M,PSAT,27/10/2006,-3.07,55.62,13,-0.51,55.84,,IND_SW
+S1290,Whale shark,Rhincodon typus,600,M,PSAT,29/10/2006,-3.84,54.98,94,-11.56,61.63,,IND_SW
+S1293,Whale shark,Rhincodon typus,750,M,PSAT,21/10/2009,-4.8,55.53,88,-4.2,55.9,,IND_SW
+S1294,Whale shark,Rhincodon typus,550,F,PSAT,09/10/2009,-4.76,55.48,93,-13.57,53.78,,IND_SW
+S1296,Whale shark,Rhincodon typus,900,F,PSAT,19/06/2009,0.92,-29.35,15,0.91,-34.27,,ATL_N
+S1297,Whale shark,Rhincodon typus,900,F,PSAT,27/03/2010,0.92,-29.35,18,-3.3,-32.49,,ATL_N
+S1298,Whale shark,Rhincodon typus,600,M,PSAT,06/03/2011,0.92,-29.35,15,3.08,-22.6,,ATL_N
+S1299,Whale shark,Rhincodon typus,,U,SPOT,25/01/2012,24.16,-110.41,119,24.47,-110.38,,PAC_NE
+S1300,Whale shark,Rhincodon typus,,U,SPOT,12/12/2011,7.72,-81.61,38,7.7,-81.63,,PAC_NE
+S1301,Whale shark,Rhincodon typus,,U,SPOT,17/03/2012,7.88,-81.77,280,4.7,-78.01,,PAC_NE
+S1302,Whale shark,Rhincodon typus,,U,SPOT,20/01/2012,24.19,-110.46,270,8.69,-84.8,,PAC_NE
+S1303,Whale shark,Rhincodon typus,,U,SPOT,19/09/2011,7.68,-81.64,352,9.45,-84.22,,PAC_NE
+S1304,Whale shark,Rhincodon typus,,U,SPOT,21/01/2012,24.18,-110.43,211,27.29,-111.45,,PAC_NE
+S1305,Whale shark,Rhincodon typus,,U,SPOT,12/12/2011,7.63,-81.59,34,7.72,-81.57,,PAC_NE
+S1306,Whale shark,Rhincodon typus,,U,SPOT,14/12/2011,7.69,-81.58,32,7.59,-81.47,,PAC_NE
+S1307,Whale shark,Rhincodon typus,,U,SPOT,13/10/2011,7.89,-81.76,799,19.01,147.5,,PAC_NE
+S1308,Whale shark,Rhincodon typus,,U,SPOT,14/02/2012,7.68,-81.61,30,7.7,-81.55,,PAC_NE
+S1309,Whale shark,Rhincodon typus,,U,SPOT,20/02/2012,7.7,-81.67,10,7.68,-81.48,,PAC_NE
+S1310,Whale shark,Rhincodon typus,,U,SPOT,19/09/2011,7.69,-81.64,174,8.88,-92.2,,PAC_NE
+S1311,Whale shark,Rhincodon typus,,U,SPOT,18/02/2012,7.68,-81.62,238,4.08,-82.04,,PAC_NE
+S1312,Whale shark,Rhincodon typus,,U,SPOT,21/01/2012,24.21,-110.56,396,25.29,-110.74,,PAC_NE
+S1313,Whale shark,Rhincodon typus,,U,SPOT,18/02/2012,7.69,-81.61,280,6.64,-81.43,,PAC_NE
+S1314,Whale shark,Rhincodon typus,,U,SPOT,01/01/2011,24.21,-110.54,85,24.15,-110.33,,PAC_NE
+S1315,Whale shark,Rhincodon typus,,U,SPOT,21/12/2011,7.69,-81.6,18,7.69,-81.71,,PAC_NE
+S1316,Whale shark,Rhincodon typus,,U,SPOT,24/04/2012,21.49,-105.27,5,21.48,-105.22,,PAC_NE
+S1317,Whale shark,Rhincodon typus,,U,SPOT,24/04/2012,21.5,-105.22,147,21.54,-105.33,,PAC_NE
+S1318,Whale shark,Rhincodon typus,,U,SPOT,18/05/2012,24.14,-110.35,39,24.15,-110.34,,PAC_NE
+S1319,Whale shark,Rhincodon typus,,U,SPOT,23/04/2012,21.48,-105.22,5,21.46,-105.2,,PAC_NE
+S1320,Whale shark,Rhincodon typus,,U,SPOT,24/04/2012,21.47,-105.2,4,22.1,-105.68,,PAC_NE
+S1321,Whale shark,Rhincodon typus,,U,SPOT,24/04/2012,21.51,-105.29,4,21.49,-105.21,,PAC_NE
+S1322,Whale shark,Rhincodon typus,,U,SPOT,23/04/2012,21.52,-105.22,134,21.94,-105.62,,PAC_NE
+S1323,Whale shark,Rhincodon typus,,U,SPOT,21/03/2011,7.84,-81.78,21,8.16,-81.83,,PAC_NE
+S1324,Whale shark,Rhincodon typus,,U,SPOT,18/03/2011,7.56,-81.35,191,6.45,-80.18,,PAC_NE
+S1325,Whale shark,Rhincodon typus,,U,SPOT,17/03/2011,7.69,-81.64,459,7.25,-80.5,,PAC_NE
+S1326,Whale shark,Rhincodon typus,,U,SPOT,07/02/2011,7.7,-81.61,174,8.26,-79.09,,PAC_NE
+S1327,Whale shark,Rhincodon typus,,U,SPOT,04/02/2011,7.65,-81.58,170,5.33,-80.78,,PAC_NE
+S1328,Whale shark,Rhincodon typus,,U,SPOT,28/02/2011,7.66,-81.58,184,7.19,-81.8,,PAC_NE
+S1329,Whale shark,Rhincodon typus,,U,SPOT,20/03/2011,7.69,-81.61,281,5.26,-77.86,,PAC_NE
+S1330,Whale shark,Rhincodon typus,,U,SPOT,25/01/2012,24.12,-110.37,51,24.1,-110.4,,PAC_NE
+S1331,Whale shark,Rhincodon typus,,U,SPOT,24/03/2011,7.87,-81.8,3,7.88,-81.77,,PAC_NE
+S1332,Whale shark,Rhincodon typus,,U,SPOT,19/03/2011,7.69,-81.61,93,7.97,-81.63,,PAC_NE
+S1333,Whale shark,Rhincodon typus,,U,SPOT,02/03/2011,7.72,-81.65,184,8.51,-94.67,,PAC_NE
+S1334,Whale shark,Rhincodon typus,,U,SPOT,22/03/2011,7.67,-81.62,178,0.33,-80.03,,PAC_NE
+S1335,Whale shark,Rhincodon typus,,U,SPOT,18/03/2011,7.68,-81.59,24,6.78,-83.51,,PAC_NE
+S1336,Whale shark,Rhincodon typus,,U,SPOT,19/03/2011,7.63,-81.73,202,8.55,-78.52,,PAC_NE
+S1337,Whale shark,Rhincodon typus,,U,SPOT,07/09/2007,8.58,-78.94,81,6.57,-79.48,,PAC_NE
+S1338,Whale shark,Rhincodon typus,,U,SPOT,25/02/2010,7.59,-81.34,16,6.6,-82.86,,PAC_NE
+S1339,Whale shark,Rhincodon typus,,U,SPOT,07/01/2011,16.84,-95.42,9,16.14,-94.32,,PAC_NE
+S1340,Whale shark,Rhincodon typus,,U,SPOT,07/10/2007,6.81,-80.35,37,12.6,-87.87,,PAC_NE
+S1341,Whale shark,Rhincodon typus,,U,SPOT,02/01/2011,8.53,-78.82,86,8.16,-79.05,,PAC_NE
+S1342,Whale shark,Rhincodon typus,,U,SPOT,01/09/2007,8.5,-78.83,190,8.46,-78.92,,PAC_NE
+S1343,Whale shark,Rhincodon typus,425,F,SPOT,06/05/2005,-22.76,113.84,34,-14.39,110.41,,AUSTRL
+S1344,Whale shark,Rhincodon typus,425,M,SPOT,05/05/2005,-22.76,113.84,92,-3.86,85.52,,AUSTRL
+S1345,Whale shark,Rhincodon typus,,U,SPOT,01/05/2005,-22.76,113.84,39,-20.98,113.23,,AUSTRL
+S1346,Whale shark,Rhincodon typus,450,U,SPOT,05/05/2005,-22.76,113.84,29,-22.22,113.82,,AUSTRL
+S1347,Whale shark,Rhincodon typus,400,F,SPOT,06/05/2005,-22.76,113.84,121,-12.99,113.51,,AUSTRL
+S1348,Whale shark,Rhincodon typus,750,U,SPOT,05/05/2005,-22.76,113.84,117,-8.23,127.88,,AUSTRL
+S1349,Whale shark,Rhincodon typus,550,F,SPOT,03/05/2006,-22.76,113.84,27,-24.61,112.45,,AUSTRL
+S1350,Whale shark,Rhincodon typus,700,U,SPOT,02/05/2006,-22.76,113.84,7,-22.1,113.72,,AUSTRL
+S1351,Whale shark,Rhincodon typus,450,F,SPOT,29/04/2006,-22.76,113.84,35,-20.66,114.59,,AUSTRL
+S1352,Whale shark,Rhincodon typus,550,U,SPOT,03/05/2006,-22.76,113.84,19,-22.76,113.62,,AUSTRL
+S1353,Whale shark,Rhincodon typus,400,U,SPOT,29/04/2006,-22.76,113.84,9,-23.39,113.75,,AUSTRL
+S1354,Whale shark,Rhincodon typus,350,U,SPOT,18/06/2007,-19.56,106.19,11,-20.13,106.37,,AUSTRL
+S1355,Whale shark,Rhincodon typus,450,M,SPOT,30/05/2007,-22.76,113.84,9,-22.75,113.62,,AUSTRL
+S1356,Whale shark,Rhincodon typus,300,U,SPOT,30/05/2007,-22.76,113.84,24,-22.62,113.53,,AUSTRL
+S1357,Whale shark,Rhincodon typus,500,U,SPOT,29/05/2007,-22.76,113.84,30,-22.4,113.72,,AUSTRL
+S1358,Whale shark,Rhincodon typus,400,U,SPOT,17/01/2008,-10.49,105.65,87,-9.34,125.86,,AUSTRL
+S1359,Whale shark,Rhincodon typus,924,M,PSAT,11/09/2015,4,-81.62,11,5.78,-80.26,,PAC_NE
+S1360,Whale shark,Rhincodon typus,1100,F,PSAT,09/09/2015,4,-81.62,81,-0.94,-81.59,,PAC_NE
+S1361,Whale shark,Rhincodon typus,789,F,PSAT,17/09/2015,3.43,-82.52,10,4.07,-78.62,,PAC_NE
+S1362,Whale shark,Rhincodon typus,1010,F,PSAT,10/09/2015,4,-81.62,8,3.97,-81.6,,PAC_NE
+S1363,Whale shark,Rhincodon typus,700,F,SPOT,18/06/2016,4.01,-81.6,96,6.13,-77.75,,PAC_NE
+S1364,Whale shark,Rhincodon typus,650,F,SPOT,19/06/2016,4,-81.61,83,6.2,-77.37,,PAC_NE
+S1365,Whale shark,Rhincodon typus,830,F,SPOT,19/06/2016,4,-81.61,71,1.85,-82.08,,PAC_NE
+S1383,Whale shark,Rhincodon typus,550,F,SPOT,19/07/2011,-23.91,35.55,9,-21.75,35.51,,IND_SW
+S1384,Whale shark,Rhincodon typus,560,M,SPOT,10/11/2010,-23.87,35.56,5,-23.97,35.51,,IND_SW
+S1385,Whale shark,Rhincodon typus,630,M,SPOT,10/08/2011,-23.88,35.55,24,-23.95,35.51,,IND_SW
+S1386,Whale shark,Rhincodon typus,650,F,SPOT,26/10/2011,-23.93,35.54,83,-22.5,37.66,,IND_SW
+S1387,Whale shark,Rhincodon typus,600,M,SPOT,09/08/2011,-23.87,35.56,15,-23.11,37.78,,IND_SW
+S1388,Whale shark,Rhincodon typus,750,M,SPOT,22/07/2011,-23.93,35.53,3,-23.97,35.51,,IND_SW
+S1389,Whale shark,Rhincodon typus,870,M,SPOT,11/08/2011,-23.96,35.52,32,-24.43,35.27,,IND_SW
+S1390,Whale shark,Rhincodon typus,820,M,SPOT,28/11/2011,-23.82,35.55,34,-26.27,35.81,,IND_SW
+S1391,Whale shark,Rhincodon typus,540,M,SPOT,02/02/2011,-23.87,35.56,3,-25.13,38,,IND_SW
+S1392,Whale shark,Rhincodon typus,700,M,SPOT,09/08/2011,-23.85,35.56,9,-24.05,35.5,,IND_SW
+S1393,Whale shark,Rhincodon typus,550,M,SPOT,26/08/2011,-23.95,35.52,25,-23.96,35.51,,IND_SW
+S1394,Whale shark,Rhincodon typus,600,M,SPOT,12/10/2011,-23.88,35.56,27,-24.25,35.55,,IND_SW
+S1395,Whale shark,Rhincodon typus,600,F,SPOT,23/07/2011,-23.93,35.53,87,-34.06,26.72,,IND_SW
+S1396,Whale shark,Rhincodon typus,640,M,SPOT,11/08/2011,-23.9,35.54,10,-27.16,33.26,,IND_SW
+S1397,Bull shark,Carcharhinus leucas,196,M,SPOT,25/05/2011,26.72,-82.25,55,27.1,-82.76,,ATL_N
+S1398,Bull shark,Carcharhinus leucas,220,M,SPOT,22/05/2011,26.72,-82.25,231,22.76,-76.35,,ATL_N
+S1399,Bull shark,Carcharhinus leucas,249,F,PSAT,19/06/2013,26.71,-82.26,41,25.14,-82.06,,ATL_N
+S1400,Bull shark,Carcharhinus leucas,181,F,SPOT,28/06/2012,26.71,-82.26,24,26.7,-82.11,,ATL_N
+S1401,Bull shark,Carcharhinus leucas,248,F,SPOT,01/05/2010,26.72,-82.26,9,26.56,-82.44,,ATL_N
+S1402,Bull shark,Carcharhinus leucas,275,F,SPOT,08/05/2013,26.74,-82.23,10,26.52,-82.04,,ATL_N
+S1403,Bull shark,Carcharhinus leucas,190,M,SPOT,23/05/2010,27.56,-82.65,18,27.69,-82.64,,ATL_N
+S1404,Bull shark,Carcharhinus leucas,190,F,SPOT,28/06/2012,26.71,-82.25,67,29.74,-84.39,,ATL_N
+S1405,Bull shark,Carcharhinus leucas,420,F,PSAT,17/03/2011,-34.4,20.82,52,-23.43,35.78,,IND_SW
+S1406,Bull shark,Carcharhinus leucas,250,F,PSAT,24/03/2013,-21.01,55.21,139,-21.62,56.03,,IND_SW
+S1407,Bull shark,Carcharhinus leucas,240,M,PSAT,28/04/2013,-21.51,55.28,130,-22.94,56.56,,IND_SW
+S1408,Bull shark,Carcharhinus leucas,245,F,SPOT,27/02/2011,24.81,-80.91,4,24.97,-80.91,,ATL_N
+S1409,Bull shark,Carcharhinus leucas,176,F,SPOT,09/12/2011,25.1,-81.02,40,25.47,-81.25,,ATL_N
+S1410,Bull shark,Carcharhinus leucas,205,M,SPOT,23/11/2011,25.2,-80.21,567,25.54,-80.31,,ATL_N
+S1411,Bull shark,Carcharhinus leucas,192,M,SPOT,21/03/2012,29.26,-83.13,6,29.27,-83.16,,ATL_N
+S1412,Bull shark,Carcharhinus leucas,194,M,SPOT,27/10/2011,25.35,-80.26,124,25.27,-80.25,,ATL_N
+S1413,Bull shark,Carcharhinus leucas,269,F,SPOT,10/01/2012,25.65,-80.17,123,25.57,-80.2,,ATL_N
+S1414,Bull shark,Carcharhinus leucas,235,M,SPOT,03/08/2012,22.41,-79.93,5,22.41,-79.93,,ATL_N
+S1415,Bull shark,Carcharhinus leucas,262,F,SPOT,02/12/2012,25.66,-80.15,84,24.93,-81.35,,ATL_N
+S1416,Bull shark,Carcharhinus leucas,193,F,SPOT,21/06/2012,25.1,-81.02,13,25.1,-81.02,,ATL_N
+S1417,Bull shark,Carcharhinus leucas,245,F,SPOT,20/02/2014,25.65,-80.17,22,26.08,-80.06,,ATL_N
+S1418,Bull shark,Carcharhinus leucas,238,F,SPOT,02/12/2012,25.65,-80.17,111,25.72,-80.2,,ATL_N
+S1419,Bull shark,Carcharhinus leucas,189,F,SPOT,01/02/2013,25.31,-80.19,124,25.51,-80.32,,ATL_N
+S1420,Bull shark,Carcharhinus leucas,200,M,SPOT,08/04/2013,25.38,-80.21,131,33.06,-79.29,,ATL_N
+S1421,Bull shark,Carcharhinus leucas,230,F,SPOT,16/03/2013,25.65,-80.17,33,25.63,-80.18,,ATL_N
+S1422,Bull shark,Carcharhinus leucas,257,F,SPOT,16/03/2013,25.65,-80.17,11,25.53,-80.15,,ATL_N
+S1423,Bull shark,Carcharhinus leucas,262,F,SPOT,25/04/2013,25.61,-80.17,45,28.78,-78.44,,ATL_N
+S1424,Bull shark,Carcharhinus leucas,227,F,SPOT,26/04/2013,25.61,-80.17,27,25.66,-80.26,,ATL_N
+S1425,Bull shark,Carcharhinus leucas,194,F,SPOT,05/01/2014,25.66,-81.43,256,26.28,-82.05,,ATL_N
+S1426,Bull shark,Carcharhinus leucas,176,F,SPOT,07/11/2010,25.01,-81,91,25.13,-80.85,,ATL_N
+S1427,Bull shark,Carcharhinus leucas,221,F,SPOT,05/06/2010,24.7,-80.85,34,25.34,-80.19,,ATL_N
+S1428,Bull shark,Carcharhinus leucas,210,F,SPOT,26/03/2010,25.01,-81,31,25.13,-81.09,,ATL_N
+S1429,Bull shark,Carcharhinus leucas,173,M,SPOT,07/11/2010,25.01,-81,67,25.76,-80.19,,ATL_N
+S1430,Bull shark,Carcharhinus leucas,200,M,SPOT,06/11/2010,25.01,-81,130,25.01,-81.06,,ATL_N
+S1431,Bull shark,Carcharhinus leucas,170,M,SPOT,29/10/2010,26.37,-81.98,82,25.61,-81.24,,ATL_N
+S1432,Bull shark,Carcharhinus leucas,155,M,SPOT,10/08/2010,26.37,-81.98,11,26.49,-82.04,,ATL_N
+S1433,Bull shark,Carcharhinus leucas,176,F,SPOT,06/11/2010,25.01,-81,71,25.38,-81.18,,ATL_N
+S1434,Bull shark,Carcharhinus leucas,195,F,SPOT,07/10/2010,25.01,-81,310,24.76,-81.03,,ATL_N
+S1435,Bull shark,Carcharhinus leucas,245,M,SPOT,16/05/2011,27.7,-80.03,4,28.24,-80.16,,ATL_N
+S1436,Bull shark,Carcharhinus leucas,160,M,SPOT,28/01/2011,25.01,-81,22,25.38,-81.15,,ATL_N
+S1437,Bull shark,Carcharhinus leucas,194,F,SPOT,06/01/2011,24.76,-80.92,70,25.45,-80.34,,ATL_N
+S1438,Porbeagle shark,Lamna nasus,133,F,PSAT,20/11/2006,41.84,-68.09,120,42.08,-60.88,,ATL_N
+S1439,Porbeagle shark,Lamna nasus,145.8,F,PSAT,20/11/2006,41.84,-68.09,100,41.29,-61.39,,ATL_N
+S1440,Porbeagle shark,Lamna nasus,134.5,F,PSAT,21/11/2006,41.88,-67.91,119,41.49,-62.92,,ATL_N
+S1441,Porbeagle shark,Lamna nasus,132,M,PSAT,21/11/2006,41.89,-67.96,223,39.23,-67.98,,ATL_N
+S1442,Porbeagle shark,Lamna nasus,149.5,F,PSAT,21/11/2006,41.85,-67.99,241,42.22,-66.58,,ATL_N
+S1443,Porbeagle shark,Lamna nasus,129,M,PSAT,21/11/2006,41.82,-68.18,119,40.16,-69.09,,ATL_N
+S1444,Porbeagle shark,Lamna nasus,135,F,PSAT,21/11/2006,41.82,-68.22,241,44.79,-60.95,,ATL_N
+S1445,Porbeagle shark,Lamna nasus,128,M,PSAT,21/11/2006,41.82,-68.2,241,41.97,-65.32,,ATL_N
+S1446,Porbeagle shark,Lamna nasus,139.7,M,PSAT,21/11/2006,41.85,-68.09,241,43.21,-62.02,,ATL_N
+S1447,Porbeagle shark,Lamna nasus,154,F,PSAT,21/11/2006,41.84,-68.09,241,44.23,-62.28,,ATL_N
+S1448,Porbeagle shark,Lamna nasus,136,F,PSAT,21/11/2006,41.83,-68.24,364,44.19,-61.1,,ATL_N
+S1449,Porbeagle shark,Lamna nasus,130,M,PSAT,21/11/2006,41.82,-68.24,307,44.22,-62.38,,ATL_N
+S1450,Porbeagle shark,Lamna nasus,136.8,F,PSAT,21/11/2006,41.83,-68.01,364,42.62,-65.42,,ATL_N
+S1451,Porbeagle shark,Lamna nasus,144.8,M,PSAT,21/11/2006,41.84,-68,364,41.9,-69.33,,ATL_N
+S1452,Porbeagle shark,Lamna nasus,140,F,PSAT,21/11/2006,41.86,-68.21,312,43.31,-61.66,,ATL_N
+S1453,Porbeagle shark,Lamna nasus,127.8,M,PSAT,21/11/2006,41.82,-68.02,189,35.93,-74.55,,ATL_N
+S1454,Porbeagle shark,Lamna nasus,141.5,F,PSAT,21/11/2006,41.83,-68.02,119,40.32,-67.72,,ATL_N
+S1455,Porbeagle shark,Lamna nasus,187,F,PSAT,19/06/2009,-43.3,164.4,76,-35.97,166.52,,AUSTRL
+S1456,Porbeagle shark,Lamna nasus,102,F,PSAT,08/07/2008,-35.47,168.04,196,-49.35,158.94,,AUSTRL
+S1457,Porbeagle shark,Lamna nasus,119,F,PSAT,28/06/2008,-39.74,166.65,63,-38.23,167.52,,AUSTRL
+S1458,Porbeagle shark,Lamna nasus,178,M,PSAT,03/06/2010,-44.25,165.78,90,-46.89,166.37,,AUSTRL
+S1459,Porbeagle shark,Lamna nasus,193,F,PSAT,24/05/2008,-43.82,166.18,174,-37.12,174.18,,AUSTRL
+S1460,Porbeagle shark,Lamna nasus,178,F,PSAT,10/06/2009,-43.65,165.75,280,-48.38,169.72,,AUSTRL
+S1461,Porbeagle shark,Lamna nasus,160,M,PSAT,10/07/2008,-36.57,178.21,204,-36.78,-179.1,,AUSTRL
+S1462,Porbeagle shark,Lamna nasus,127,F,PSAT,22/07/2008,-34.38,175.4,240,-43.96,176.8,,AUSTRL
+S1463,Porbeagle shark,Lamna nasus,140,M,PSAT,02/10/2009,-34.95,179.28,130,-46.83,-134.46,,AUSTRL
+S1464,Porbeagle shark,Lamna nasus,160,U,PSAT,25/09/2009,-34.05,178.82,119,-42.79,-178.74,,AUSTRL
+S1465,Porbeagle shark,Lamna nasus,119,U,PSAT,25/09/2013,43.95,-63.56,139,42.85,-62.98,,ATL_N
+S1466,Porbeagle shark,Lamna nasus,127,U,PSAT,25/09/2013,43.93,-63.71,30,44.35,-63.46,,ATL_N
+S1467,Porbeagle shark,Lamna nasus,188,U,PSAT,12/05/2008,43.21,-65.6,124,42.41,-61.21,,ATL_N
+S1468,Porbeagle shark,Lamna nasus,238,U,PSAT,06/07/2008,42.08,-66.52,160,43.82,-66.52,,ATL_N
+S1469,Porbeagle shark,Lamna nasus,163,U,PSAT,27/11/2010,44.58,-50.44,74,45,-47.37,,ATL_N
+S1470,Porbeagle shark,Lamna nasus,249,U,PSAT,16/06/2008,38.74,-70.93,59,39.51,-67.52,,ATL_N
+S1471,Porbeagle shark,Lamna nasus,235,U,PSAT,06/07/2008,42.08,-66.5,223,42.97,-66.34,,ATL_N
+S1472,Porbeagle shark,Lamna nasus,101,U,PSAT,03/11/2010,44.09,-62.83,203,41.09,-70.52,,ATL_N
+S1473,Porbeagle shark,Lamna nasus,190,U,PSAT,12/06/2009,43.17,-61.39,66,38.86,-56.2,,ATL_N
+S1474,Porbeagle shark,Lamna nasus,220,U,PSAT,24/07/2007,42.1,-66.82,27,38.51,-64.64,,ATL_N
+S1475,Porbeagle shark,Lamna nasus,189,U,PSAT,11/06/2007,44.85,-55.15,169,44.46,-63.24,,ATL_N
+S1476,Porbeagle shark,Lamna nasus,240,U,PSAT,28/02/2010,40.27,-63.75,46,35.27,-66,,ATL_N
+S1477,Porbeagle shark,Lamna nasus,214,U,PSAT,17/06/2009,44.79,-55.62,183,49.36,-51.63,,ATL_N
+S1478,Porbeagle shark,Lamna nasus,181,U,PSAT,28/09/2006,45.88,-56.82,80,47.13,-58.13,,ATL_N
+S1479,Porbeagle shark,Lamna nasus,191,U,PSAT,31/10/2006,44.03,-66.2,71,42.27,-69.72,,ATL_N
+S1480,Porbeagle shark,Lamna nasus,198,U,PSAT,19/06/2007,41.94,-65.88,174,40.88,-69.12,,ATL_N
+S1481,Porbeagle shark,Lamna nasus,235,U,PSAT,07/08/2007,42.1,-66.59,36,36.04,-63.86,,ATL_N
+S1482,Porbeagle shark,Lamna nasus,192,U,PSAT,20/06/2007,42.9,-62.25,153,41.83,-68.02,,ATL_N
+S1483,Porbeagle shark,Lamna nasus,202.9,U,PSAT,20/06/2007,42.97,-61.7,177,44.9,-50.26,,ATL_N
+S1484,Porbeagle shark,Lamna nasus,215,F,PSAT,08/10/2007,39.15,-66.1,135,39.32,-64.92,,ATL_N
+S1485,Porbeagle shark,Lamna nasus,184,U,PSAT,24/01/2010,42.13,-66.88,10,41.8,-65.27,,ATL_N
+S1486,Porbeagle shark,Lamna nasus,133,U,PSAT,04/11/2010,43.93,-62.94,131,43.34,-67.59,,ATL_N
+S1487,Porbeagle shark,Lamna nasus,217,U,PSAT,06/07/2008,42.08,-66.52,232,42.1,-67.22,,ATL_N
+S1488,Porbeagle shark,Lamna nasus,229,U,PSAT,06/07/2008,42.08,-66.52,186,43.34,-67.34,,ATL_N
+S1489,Porbeagle shark,Lamna nasus,221,U,PSAT,06/07/2008,42.08,-66.5,160,44.44,-66.97,,ATL_N
+S1490,Porbeagle shark,Lamna nasus,240,U,PSAT,10/11/2008,40.5,-62.19,8,41.55,-62.09,,ATL_N
+S1491,Porbeagle shark,Lamna nasus,217,U,PSAT,21/06/2009,44.75,-50.82,176,42.94,-70,,ATL_N
+S1492,Porbeagle shark,Lamna nasus,131,U,PSAT,11/08/2010,46.44,-50.83,75,44.33,-59.34,,ATL_N
+S1493,Porbeagle shark,Lamna nasus,109,U,PSAT,25/09/2013,43.95,-63.54,79,43.56,-58.53,,ATL_N
+S1494,Silky shark,Carcharhinus falciformis,197,F,SPOT,21/11/2010,18.99,-112.08,45,11.85,-113.64,,PAC_NE
+S1495,Silky shark,Carcharhinus falciformis,206,F,SPOT,23/01/2011,5.56,-87.04,86,5.19,-87.98,,PAC_NE
+S1496,Silky shark,Carcharhinus falciformis,205,F,SPOT,21/11/2010,18.99,-112.08,153,19.48,-109.09,,PAC_NE
+S1497,Silky shark,Carcharhinus falciformis,216,F,SPOT,19/01/2014,1.67,-91.99,142,-0.68,-90.25,,PAC_NE
+S1498,Silky shark,Carcharhinus falciformis,226,F,SPOT,23/01/2011,5.56,-87.04,14,5.57,-86.99,,PAC_NE
+S1499,Silky shark,Carcharhinus falciformis,200,F,SPOT,21/11/2010,18.99,-112.08,35,16.79,-114.68,,PAC_NE
+S1500,Silky shark,Carcharhinus falciformis,223,F,SPOT,18/01/2014,1.38,-91.81,91,1.67,-92.01,,PAC_NE
+S1501,Silky shark,Carcharhinus falciformis,189,F,SPOT,18/01/2014,1.38,-91.81,155,1.72,-92.09,,PAC_NE
+S1502,Silky shark,Carcharhinus falciformis,224,F,SPOT,19/01/2014,1.67,-91.99,23,1.69,-92.01,,PAC_NE
+S1503,Silky shark,Carcharhinus falciformis,230,F,SPOT,20/02/2012,1.67,-91.99,224,-0.93,-80.73,,PAC_NE
+S1504,Silky shark,Carcharhinus falciformis,224,F,SPOT,19/02/2012,1.67,-91.99,128,1.67,-92.01,,PAC_NE
+S1505,Silky shark,Carcharhinus falciformis,180,F,SPOT,15/02/2012,1.38,-91.81,16,1.53,-91.58,,PAC_NE
+S1506,Silky shark,Carcharhinus falciformis,214,M,SPOT,15/02/2012,1.39,-91.82,33,1.3,-92.27,,PAC_NE
+S1507,Silky shark,Carcharhinus falciformis,221,F,SPOT,25/07/2006,1.68,-92,54,1.68,-92,,PAC_NE
+S1508,Silky shark,Carcharhinus falciformis,215,F,SPOT,25/07/2006,1.68,-92,54,1.67,-91.99,,PAC_NE
+S1509,Silky shark,Carcharhinus falciformis,171,F,SPOT,28/07/2006,1.39,-91.82,22,3.34,-102.54,,PAC_NE
+S1510,Silky shark,Carcharhinus falciformis,,U,SPOT,14/06/2008,5.56,-87.05,39,10.12,-84.73,,PAC_NE
+S1511,Silky shark,Carcharhinus falciformis,104,U,PSAT,06/05/2012,-7.29,60.33,79,-7.48,54.02,,IND_SW
+S1512,Silky shark,Carcharhinus falciformis,116,F,PSAT,01/04/2011,-15.35,44.77,39,-13.72,43.35,,IND_SW
+S1513,Silky shark,Carcharhinus falciformis,122,F,PSAT,25/05/2011,-14.55,42.62,58,3.77,54.44,,IND_SW
+S1514,Silky shark,Carcharhinus falciformis,119,F,PSAT,25/05/2011,-14.25,42.35,45,-0.17,43,,IND_SW
+S1515,Silky shark,Carcharhinus falciformis,104,M,PSAT,02/04/2012,-6.58,54.07,32,-5.89,54.87,,IND_SW
+S1516,Silky shark,Carcharhinus falciformis,132,M,PSAT,03/04/2012,-6.9,54.52,84,-7.04,53.5,,IND_SW
+S1517,Silky shark,Carcharhinus falciformis,112,F,PSAT,13/04/2012,-8.97,49.87,32,-8.24,52,,IND_SW
+S1518,Silky shark,Carcharhinus falciformis,230,M,PSAT,11/02/2011,-12.93,44.91,60,-13.43,48.01,,IND_SW
+S1519,Silky shark,Carcharhinus falciformis,91,M,PSAT,15/04/2011,-13.12,44.97,35,-13.15,40.52,,IND_SW
+S1520,Silky shark,Carcharhinus falciformis,98.5,M,PSAT,20/04/2011,-12.17,44.95,98,-9.59,42.94,,IND_SW
+S1521,Silky shark,Carcharhinus falciformis,93,M,PSAT,20/06/2011,-5.79,53.95,42,-6.11,51.28,,IND_SW
+S1522,Silky shark,Carcharhinus falciformis,88,F,PSAT,13/03/2010,-13.37,41.88,22,-14.34,45.83,,IND_SW
+S1523,Silky shark,Carcharhinus falciformis,109,M,PSAT,12/04/2010,-14.34,46.77,72,-6.42,39.42,,IND_SW
+S1524,Silky shark,Carcharhinus falciformis,234,M,PSAT,23/03/2009,-5.83,53.48,90,-5.69,53.68,,IND_SW
+S1525,Silky shark,Carcharhinus falciformis,226,M,PSAT,23/03/2009,-5.82,53.49,9,-5.7,53.5,,IND_SW
+S1526,Silky shark,Carcharhinus falciformis,176,M,PSAT,17/04/2010,-19.13,41.67,37,-21.23,42.92,,IND_SW
+S1527,Silky shark,Carcharhinus falciformis,102,M,PSAT,20/06/2011,-5.79,53.95,73,-7.5,52.26,,IND_SW
+S1528,Silky shark,Carcharhinus falciformis,116,U,PSAT,14/04/2012,-8.97,49.87,71,3.37,54.18,,IND_SW
+S1529,Silky shark,Carcharhinus falciformis,155,M,PSAT,02/04/2011,-15.32,44.73,22,-12.92,47.11,,IND_SW
+S1530,Silky shark,Carcharhinus falciformis,137,F,PSAT,28/03/2011,-14.2,45.32,47,-14.96,44.11,,IND_SW
+S1531,Silky shark,Carcharhinus falciformis,90,M,PSAT,01/04/2011,-15.35,44.77,23,-14.23,44.04,,IND_SW
+S1532,Silky shark,Carcharhinus falciformis,109,F,PSAT,13/04/2012,-8.97,49.87,121,5.89,58.08,,IND_SW
+S1533,Silky shark,Carcharhinus falciformis,98,F,PSAT,18/06/2011,-5.5,54.4,10,-6.33,53.44,,IND_SW
+S1534,Silky shark,Carcharhinus falciformis,235,M,PSAT,27/05/2011,-14.27,42.5,48,-14.21,42.9,,IND_SW
+S1535,Silky shark,Carcharhinus falciformis,103,F,PSAT,20/04/2011,-12.17,44.95,13,-11.6,45.51,,IND_SW
+S1536,Silky shark,Carcharhinus falciformis,225,M,PSAT,03/05/2012,-4.75,61.48,46,-1.88,72.69,,IND_SW
+S1537,Silky shark,Carcharhinus falciformis,130,F,PSAT,03/04/2012,-6.9,54.52,54,-7.11,52.48,,IND_SW
+S1538,Silky shark,Carcharhinus falciformis,155,M,PSAT,25/04/2012,-6.72,54.38,78,-6.62,70.97,,IND_SW
+S1544,Silky shark,Carcharhinus falciformis,219,M,SPOT,06/05/2015,24.85,-80.43,27,24.54,-81.14,,ATL_N
+S1545,Scalloped hammerhead shark,Sphyrna lewini,120,M,SPOT,19/07/2016,1.66,-91.99,12,1.73,-93.82,,PAC_NE
+S1546,Scalloped hammerhead shark,Sphyrna lewini,142,F,SPOT,13/12/2011,-0.5,-90.24,25,-0.43,-90.2,,PAC_NE
+S1547,Scalloped hammerhead shark,Sphyrna lewini,160,F,SPOT,06/02/2012,-0.4,-90.27,49,-4.63,-93.62,,PAC_NE
+S1548,Scalloped hammerhead shark,Sphyrna lewini,157,F,SPOT,28/01/2014,-0.4,-90.28,26,0.61,-97.19,,PAC_NE
+S1549,Scalloped hammerhead shark,Sphyrna lewini,134,F,SPOT,29/01/2014,-0.4,-90.28,25,2.07,-97.32,,PAC_NE
+S1550,Scalloped hammerhead shark,Sphyrna lewini,142,F,SPOT,29/01/2014,-0.4,-90.28,20,-0.43,-90.29,,PAC_NE
+S1551,Scalloped hammerhead shark,Sphyrna lewini,213,M,SPOT,01/11/2007,1.38,-91.81,96,-0.22,-91.15,,PAC_NE
+S1552,Scalloped hammerhead shark,Sphyrna lewini,225,M,SPOT,02/11/2007,1.39,-91.82,86,3.83,-96.66,,PAC_NE
+S1553,Scalloped hammerhead shark,Sphyrna lewini,194,M,SPOT,13/08/2008,1.78,-91.97,34,1.51,-92.05,,PAC_NE
+S1554,Scalloped hammerhead shark,Sphyrna lewini,175,M,SPOT,24/07/2008,1.39,-91.82,14,1.48,-91.63,,PAC_NE
+S1555,Scalloped hammerhead shark,Sphyrna lewini,224,M,SPOT,24/07/2008,1.39,-91.82,127,1.47,-93.13,,PAC_NE
+S1556,Scalloped hammerhead shark,Sphyrna lewini,240,F,SPOT,13/06/2008,5.55,-87.09,5,5.59,-88.16,,PAC_NE
+S1557,Scalloped hammerhead shark,Sphyrna lewini,235,F,SPOT,13/03/2009,1.68,-92,19,3.59,-89.57,,PAC_NE
+S1558,Scalloped hammerhead shark,Sphyrna lewini,218,M,SPOT,14/03/2009,1.68,-92,37,1.71,-91.85,,PAC_NE
+S1564,Scalloped hammerhead shark,Sphyrna lewini,255,M,SPOT,30/04/2011,24.7,-80.85,65,28.1,-84.77,,ATL_N
+S1565,Scalloped hammerhead shark,Sphyrna lewini,350,M,SPOT,12/04/2013,24.7,-80.85,20,28.23,-91.09,,ATL_N
+S1566,Scalloped hammerhead shark,Sphyrna lewini,280,F,SPOT,10/07/2012,33.72,-70.14,15,36.66,-65.69,,ATL_N
+S1567,Scalloped hammerhead shark,Sphyrna lewini,,M,SPOT,17/03/2013,25.43,-80.08,15,24.49,-81.66,,ATL_N
+S1568,Scalloped hammerhead shark,Sphyrna lewini,200,F,SPOT,17/03/2010,24.81,-80.45,23,24.81,-80.45,,ATL_N
+S1569,Scalloped hammerhead shark,Sphyrna lewini,200,U,SPOT,21/03/2006,1.7,-91.75,3,3.6,-94.69,,PAC_NE
+S1570,Scalloped hammerhead shark,Sphyrna lewini,250,F,SPOT,19/03/2006,3.91,-90.46,3,4.67,-90.69,,PAC_NE
+S1571,Scalloped hammerhead shark,Sphyrna lewini,250,U,SPOT,30/03/2006,2.55,-93.25,2,3.31,-94.76,,PAC_NE
+S1572,Scalloped hammerhead shark,Sphyrna lewini,250,F,PSAT,02/03/2006,4,-81.61,21,3.87,-94.13,,PAC_NE
+S1573,Scalloped hammerhead shark,Sphyrna lewini,250,F,PSAT,02/03/2006,4,-81.61,158,3.28,-81.09,,PAC_NE
+S1574,Scalloped hammerhead shark,Sphyrna lewini,220,M,PSAT,02/03/2006,4,-81.61,25,4.64,-81.74,,PAC_NE
+S1575,Scalloped hammerhead shark,Sphyrna lewini,260,F,PSAT,14/03/2008,4,-81.61,17,3.35,-83.27,,PAC_NE
+S1576,Great hammerhead shark,Sphyrna mokarran,345,M,SPOT,19/02/2011,26.1,-79.1,5,27.39,-78.68,,ATL_N
+S1577,Great hammerhead shark,Sphyrna mokarran,235,M,SPOT,26/02/2011,24.73,-80.85,2,24.75,-80.95,,ATL_N
+S1578,Great hammerhead shark,Sphyrna mokarran,270,F,SPOT,13/07/2011,24.66,-80.86,156,28.41,-80.59,,ATL_N
+S1579,Great hammerhead shark,Sphyrna mokarran,277,F,SPOT,05/08/2011,25.26,-80.23,31,25.3,-80.26,,ATL_N
+S1580,Great hammerhead shark,Sphyrna mokarran,301,M,SPOT,18/07/2011,28.63,-80.45,4,28.49,-80.44,,ATL_N
+S1581,Great hammerhead shark,Sphyrna mokarran,304,M,SPOT,20/04/2013,24.7,-80.85,16,29.27,-80.12,,ATL_N
+S1582,Great hammerhead shark,Sphyrna mokarran,263,M,SPOT,01/05/2012,25.22,-80.33,9,25.22,-80.33,,ATL_N
+S1583,Great hammerhead shark,Sphyrna mokarran,335,M,SPOT,20/04/2013,24.7,-80.85,34,24.95,-80.57,,ATL_N
+S1584,Great hammerhead shark,Sphyrna mokarran,320,F,SPOT,02/05/2014,25.48,-80.16,3,26.9,-79.95,,ATL_N
+S1585,Great hammerhead shark,Sphyrna mokarran,241,M,SPOT,05/04/2014,25.41,-80.05,10,27.42,-80.21,,ATL_N
+S1586,Great hammerhead shark,Sphyrna mokarran,300,M,SPOT,21/03/2014,25.69,-80.09,42,36.01,-66,,ATL_N
+S1587,Great hammerhead shark,Sphyrna mokarran,245,M,SPOT,27/04/2014,25.62,-80.16,19,25.7,-80.15,,ATL_N
+S1588,Great hammerhead shark,Sphyrna mokarran,240,M,SPOT,20/06/2013,25.68,-80.18,8,25.71,-80.15,,ATL_N
+S1589,Great hammerhead shark,Sphyrna mokarran,265,M,SPOT,25/11/2013,27.3,-79.12,14,27.38,-79.22,,ATL_N
+S1590,Great hammerhead shark,Sphyrna mokarran,277,M,SPOT,30/05/2014,25.78,-80.08,189,22.51,-78.51,,ATL_N
+S1591,Great hammerhead shark,Sphyrna mokarran,282,M,SPOT,20/11/2014,25.44,-80.16,14,25.38,-80.15,,ATL_N
+S1592,Great hammerhead shark,Sphyrna mokarran,450,F,SPOT,08/04/2015,25.66,-80.16,33,25.72,-80.23,,ATL_N
+S1593,Great hammerhead shark,Sphyrna mokarran,202,M,SPOT,07/08/2015,25.63,-80.2,6,25.72,-80.14,,ATL_N
+S1594,Great hammerhead shark,Sphyrna mokarran,234,F,SPOT,02/05/2015,25.67,-80.17,16,25.76,-80.15,,ATL_N
+S1595,Great hammerhead shark,Sphyrna mokarran,235,F,SPOT,07/03/2015,25.75,-80.17,36,33.79,-76.83,,ATL_N
+S1596,Great hammerhead shark,Sphyrna mokarran,221,M,SPOT,07/01/2015,25.78,-80.08,26,24.45,-83.62,,ATL_N
+S1597,Great hammerhead shark,Sphyrna mokarran,249,F,SPOT,15/03/2015,25.75,-80.17,7,26.24,-80.06,,ATL_N
+S1598,Great hammerhead shark,Sphyrna mokarran,256,M,SPOT,25/03/2016,25.98,-83.19,38,28.55,-83.31,,ATL_N
+S1599,Great hammerhead shark,Sphyrna mokarran,284,M,SPOT,16/03/2016,25.81,-80.08,17,23.62,-80.35,,ATL_N
+S1600,Great hammerhead shark,Sphyrna mokarran,277,M,SPOT,04/06/2010,24.7,-80.85,20,23.97,-80.38,,ATL_N
+S1601,Great hammerhead shark,Sphyrna mokarran,262,M,SPOT,12/03/2010,24.7,-80.85,41,25.53,-83.22,,ATL_N
+S1602,Great hammerhead shark,Sphyrna mokarran,287,F,SPOT,29/01/2011,24.7,-80.85,25,24.43,-81.9,,ATL_N
+S1603,Great hammerhead shark,Sphyrna mokarran,265,F,SPOT,15/04/2011,24.64,-81.18,33,24.97,-81.86,,ATL_N
+S1604,Great hammerhead shark,Sphyrna mokarran,295,F,SPOT,29/01/2011,24.7,-80.85,100,29.31,-85.24,,ATL_N
+S1605,Great hammerhead shark,Sphyrna mokarran,235,M,SPOT,20/02/2010,24.7,-80.85,10,24.58,-81.53,,ATL_N
+S1606,Great hammerhead shark,Sphyrna mokarran,249,M,SPOT,20/02/2010,24.7,-80.85,26,24.75,-80.88,,ATL_N
+S1607,Great hammerhead shark,Sphyrna mokarran,240,F,PSAT,12/04/2016,25.71,-79.31,53,30.81,-79.92,,ATL_N
+S1608,Great hammerhead shark,Sphyrna mokarran,320,F,PSAT,30/03/2015,25.7,-79.32,8,27.15,-77.91,,ATL_N
+S1609,Great hammerhead shark,Sphyrna mokarran,330,F,PSAT,07/04/2015,20.28,-80,5,18.48,-78.84,,ATL_N
+S1610,Smooth hammerhead,Sphyrna zygaena,206,M,SPOT,19/07/2015,40.79,-71.65,39,40.92,-72.02,,ATL_N
+S1611,Pelagic thresher,Alopias pelagicus,265,F,PSAT,10/03/2013,5.79,-77.56,34,5.96,-82.48,,PAC_NE
+S1612,Pelagic thresher,Alopias pelagicus,254,M,PSAT,13/03/2013,5.8,-77.53,20,4.46,-77.55,,PAC_NE
+S1613,Pelagic thresher,Alopias pelagicus,190,M,PSAT,09/03/2013,5.79,-77.44,50,7.35,-79.53,,PAC_NE
+S1614,Pelagic thresher,Alopias pelagicus,266,M,PSAT,10/03/2013,5.83,-77.57,181,0.95,-81.55,,PAC_NE
+S1615,Pelagic thresher,Alopias pelagicus,252,M,PSAT,13/03/2013,5.8,-77.53,20,3.49,-77.94,,PAC_NE
+S1616,Common thresher,Alopias vulpinus,175,F,PSAT,05/01/2013,-39.36,140.76,27,-42.66,142.67,,AUSTRL
+S1617,Common thresher,Alopias vulpinus,,U,PSAT,08/08/2004,34.5,-119.57,6,32.97,-117.3,,PAC_NE
+S1618,Common thresher,Alopias vulpinus,,U,PSAT,26/06/2005,33.32,-117.62,90,32.26,-116.9,,PAC_NE
+S1619,Common thresher,Alopias vulpinus,,U,PSAT,07/09/2006,34.28,-119.36,245,33.25,-119.64,,PAC_NE
+S1620,Common thresher,Alopias vulpinus,,U,PSAT,09/09/2006,34.46,-120.29,240,31.68,-120.25,,PAC_NE
+S1621,Common thresher,Alopias vulpinus,,U,PSAT,21/09/2006,32.62,-117.14,183,30.18,-117.38,,PAC_NE
+S1622,Common thresher,Alopias vulpinus,,U,PSAT,22/09/2006,32.6,-117.14,213,30.79,-119.11,,PAC_NE
+S1623,Common thresher,Alopias vulpinus,,U,PSAT,10/09/2007,33.57,-117.87,230,29.75,-117.15,,PAC_NE
+S1624,Common thresher,Alopias vulpinus,,U,PSAT,09/06/2008,34.32,-119.37,153,34.18,-119.9,,PAC_NE
+S1625,Common thresher,Alopias vulpinus,,U,PSAT,06/09/2008,34.32,-119.43,108,32.95,-120.32,,PAC_NE
+S1626,Common thresher,Alopias vulpinus,,U,PSAT,08/09/2008,34.46,-120.28,3,33.97,-120.59,,PAC_NE
+S1627,Blacktip shark,Carcharhinus limbatus,213.3,F,SPOT,29/01/2014,-0.44,-90.29,516,-0.47,-90.42,,PAC_NE
+S1628,Blacktip shark,Carcharhinus limbatus,214.6,F,SPOT,25/01/2014,-0.43,-90.29,106,-0.46,-90.28,,PAC_NE
+S1629,Blacktip shark,Carcharhinus limbatus,213.3,F,SPOT,28/01/2014,-0.41,-90.28,216,-0.38,-90.3,,PAC_NE
+S1630,Blacktip shark,Carcharhinus limbatus,195.5,F,SPOT,26/01/2014,-0.43,-90.29,89,-0.45,-90.29,,PAC_NE
+S1631,Blacktip shark,Carcharhinus limbatus,203.2,F,SPOT,28/01/2014,-0.41,-90.28,62,-0.42,-90.27,,PAC_NE
+S1632,Blacktip shark,Carcharhinus limbatus,213.3,F,SPOT,25/01/2014,-0.43,-90.29,146,-0.47,-90.32,,PAC_NE
+S1633,Blacktip shark,Carcharhinus limbatus,203.2,F,SPOT,26/01/2014,-0.43,-90.29,193,-0.41,-90.28,,PAC_NE
+S1634,Blacktip shark,Carcharhinus limbatus,203.2,F,SPOT,30/01/2014,-0.43,-90.29,111,-0.46,-90.29,,PAC_NE
+S1635,Blacktip shark,Carcharhinus limbatus,213.3,F,SPOT,28/01/2014,-0.41,-90.28,151,-0.43,-90.3,,PAC_NE
+S1636,Blacktip shark,Carcharhinus limbatus,210,F,SPOT,22/11/2011,-0.48,-90.28,34,-0.47,-90.33,,PAC_NE
+S1637,Blacktip shark,Carcharhinus limbatus,192,F,SPOT,13/12/2011,-0.39,-90.28,10,2.18,-89.17,,PAC_NE
+S1638,Blacktip shark,Carcharhinus limbatus,215,F,SPOT,23/11/2011,-0.74,-90.31,27,-0.74,-90.3,,PAC_NE
+S1639,Blacktip shark,Carcharhinus limbatus,200,F,SPOT,16/12/2011,-0.5,-90.24,20,-0.84,-90.02,,PAC_NE
+S1640,Blacktip shark,Carcharhinus limbatus,220,F,SPOT,26/07/2006,1.68,-92,5,1.67,-92,,PAC_NE
+S1641,Blacktip shark,Carcharhinus limbatus,208,M,SPOT,27/07/2006,1.39,-91.82,30,1.67,-92.02,,PAC_NE
+S1642,Blacktip shark,Carcharhinus limbatus,221,F,SPOT,25/07/2006,1.68,-92,86,-0.58,-90.92,,PAC_NE
+S1643,Blacktip shark,Carcharhinus limbatus,214,M,SPOT,26/07/2006,1.68,-92,21,1.66,-91.99,,PAC_NE
+S1644,Blacktip shark,Carcharhinus limbatus,193,F,SPOT,29/01/2014,-0.43,-90.29,43,-0.45,-90.29,,PAC_NE
+S1645,Blacktip shark,Carcharhinus limbatus,147,F,SPOT,14/11/2013,26.36,-81.96,310,27.95,-82.83,,ATL_N
+S1646,Copper shark,Carcharhinus brachyurus,330,F,PSAT,14/02/2015,-35.65,137.66,27,-36.13,137.8,,AUSTRL
+S1647,Copper shark,Carcharhinus brachyurus,290,F,PSAT,30/12/2014,-35.69,137.78,103,-42.19,136.96,,AUSTRL
+S1648,Copper shark,Carcharhinus brachyurus,200,F,PSAT,14/04/2015,-40.32,138.15,34,-40.73,140.14,,AUSTRL
+S1649,Copper shark,Carcharhinus brachyurus,270,U,PSAT,15/02/2016,-35.92,138.09,195,-37.41,123.87,,AUSTRL
+S1650,Dusky shark,Carcharhinus obscurus,237,M,PSAT,27/04/2011,27.97,-84.67,6,27.87,-85.06,,ATL_N
+S1651,Dusky shark,Carcharhinus obscurus,265,M,SPOT,15/03/2016,25.79,-80.08,110,32.94,-76.99,,ATL_N
+S1652,Galapagos shark,Carcharhinus galapagensis,175,F,SPOT,16/01/2012,-0.82,-89.99,8,-0.84,-89.97,,PAC_NE
+S1655,Galapagos shark,Carcharhinus galapagensis,160,F,PSAT,04/02/2016,10.31,-109.23,64,7.08,-109.23,,PAC_NE
+S1656,Galapagos shark,Carcharhinus galapagensis,220,M,PSAT,10/09/2015,4,-81.61,57,4.81,-81.31,,PAC_NE
+S1657,Galapagos shark,Carcharhinus galapagensis,240,F,PSAT,10/09/2015,4,-81.61,26,7.33,-78.57,,PAC_NE
+S1670,Galapagos shark,Carcharhinus galapagensis,,U,PSAT,24/09/2006,1.67,-92,30,0.06,-91.24,,PAC_NE
+S1671,Galapagos shark,Carcharhinus galapagensis,,U,PSAT,28/07/2006,1.76,-92.19,27,1.66,-92.08,,PAC_NE
+S1672,Galapagos shark,Carcharhinus galapagensis,,U,PSAT,31/07/2006,0.72,-93.09,23,4.89,-103.61,,PAC_NE
+S1673,Longfin mako shark,Isurus paucus,245,F,PSAT,08/11/2011,33.87,-43.36,49,29.49,-47.33,,ATL_N
+S1674,Sandbar shark,carcharhinus plumbeus,193,F,SPOT,13/03/2012,24.52,-171.16,20,24.19,-168.57,,PAC_NE
+S1675,Sandtiger shark,Odontaspis ferox,400,F,PSAT,13/03/2007,4.01,-81.6,89,3.87,-81.45,,PAC_NE
+S1676,Sandtiger shark,Odontaspis ferox,300,F,PSAT,10/03/2007,4.01,-81.6,54,2.9,-80.93,,PAC_NE
+S1677,Sandtiger shark,Odontaspis ferox,320,F,PSAT,09/03/2008,4.01,-81.6,28,4.96,-82.28,,PAC_NE
+S1678,Sandtiger shark,Odontaspis ferox,300,F,PSAT,11/03/2008,4.01,-81.6,36,3.55,-81.07,,PAC_NE
+S1679,Sandtiger shark,Odontaspis ferox,250,U,PSAT,11/03/2008,4.01,-81.6,134,3.19,-78.03,,PAC_NE
+S1680,Broadnose sevengill shark,Notorynchus cepedianus,189,F,PSAT,10/05/2011,-42.96,147.76,19,-43.07,147.58,,AUSTRL
+S1681,Broadnose sevengill shark,Notorynchus cepedianus,190,F,PSAT,10/05/2011,-42.96,147.76,99,-43.69,147.81,,AUSTRL
+S1559,Scalloped hammerhead shark,Sphyrna lewini,270,F,SPOT,22/08/2015,34.55,139.35,10,34.55,138.58,,OTHER
+S1653,Galapagos shark,Carcharhinus galapagensis,,U,SPOT,29/08/2015,34.53,138.24,21,33.04,137.65,,OTHER
+S1654,Galapagos shark,Carcharhinus galapagensis,250,F,SPOT,27/08/2015,34.57,138.87,217,26.06,153.07,,OTHER
+S372,Shortfin mako shark,Isurus oxyrinchus,200,M,PSAT,22/04/2007,-21.7,-94.5,11,-21.42,-89.03,,OTHER
+S373,Shortfin mako shark,Isurus oxyrinchus,140,U,PSAT,24/03/2007,-25.5,-87.75,34,-28.6,-79.22,,OTHER
+S374,Shortfin mako shark,Isurus oxyrinchus,220,U,PSAT,18/04/2007,-24.42,-91.38,69,-30.25,-96.33,,OTHER
+S375,Shortfin mako shark,Isurus oxyrinchus,200,U,PSAT,27/05/2007,-21.52,-80.72,9,-20.11,-84.9,,OTHER
+S376,Shortfin mako shark,Isurus oxyrinchus,150,U,PSAT,09/06/2007,-18.27,-84.68,32,-21.98,-72.36,,OTHER
+S377,Shortfin mako shark,Isurus oxyrinchus,180,U,PSAT,24/06/2007,-20.32,-81.55,38,-11.52,-79.19,,OTHER
+S378,Shortfin mako shark,Isurus oxyrinchus,160,F,PSAT,25/06/2007,-19.85,-81.65,41,-14.98,-77.69,,OTHER
+S379,Shortfin mako shark,Isurus oxyrinchus,170,F,PSAT,27/06/2007,-20.02,-80.95,144,-24.63,-75.43,,OTHER
+S398,Shortfin mako shark,Isurus oxyrinchus,129,F,PSAT,31/03/2016,-20.29,-74.97,63,-24.54,-74.2,,OTHER
+S399,Shortfin mako shark,Isurus oxyrinchus,143,F,PSAT,17/11/2015,-27.92,-73.85,113,-24.83,-71.54,,OTHER
+S400,Shortfin mako shark,Isurus oxyrinchus,147,M,PSAT,12/11/2015,-31.85,-76.37,85,-30.73,-73.05,,OTHER
+S401,Shortfin mako shark,Isurus oxyrinchus,153,F,PSAT,25/03/2016,-31.65,-71.72,91,-44.44,-74.67,,OTHER
+S402,Shortfin mako shark,Isurus oxyrinchus,132,F,PSAT,31/03/2016,-31.9,-71.6,121,-25.86,-79.22,,OTHER
+S403,Shortfin mako shark,Isurus oxyrinchus,215,F,PSAT,04/05/2016,-32.98,-80.12,116,-23.7,-87.7,,OTHER
+S1236,Whale shark,Rhincodon typus,800,F,SPOT,10/09/2011,1.67,-91.99,175,-5.82,-82.32,,OTHER
+S1250,Whale shark,Rhincodon typus,1100,F,SPOT,12/01/2013,-12.62,-81.31,13,-12.52,-82.56,,OTHER
+S1261,Whale shark,Rhincodon typus,400,F,PSAT,07/04/2011,20.13,40.21,35,16.4,40.67,,IND_SW
+S1262,Whale shark,Rhincodon typus,,U,PSAT,31/03/2011,20.13,40.21,62,18.04,40.42,,IND_SW
+S1263,Whale shark,Rhincodon typus,300,U,PSAT,17/04/2010,17.5,41.07,113,15.97,41.54,,IND_SW
+S1264,Whale shark,Rhincodon typus,500,F,PSAT,15/05/2010,22.44,36.8,29,26.61,35.13,,IND_SW
+S1265,Whale shark,Rhincodon typus,400,U,PSAT,12/10/2010,17.74,40.89,16,16.88,42.42,,IND_SW
+S1266,Whale shark,Rhincodon typus,300,U,PSAT,12/04/2010,20.13,40.22,146,17.01,40.63,,IND_SW
+S1267,Whale shark,Rhincodon typus,,U,PSAT,30/03/2010,20.12,40.22,97,25.57,36.18,,IND_SW
+S1268,Whale shark,Rhincodon typus,350,M,PSAT,12/04/2010,20.13,40.21,24,18.95,39.93,,IND_SW
+S1269,Whale shark,Rhincodon typus,400,F,PSAT,12/04/2010,20.1,40.23,38,17.35,41.21,,IND_SW
+S1270,Whale shark,Rhincodon typus,,U,PSAT,29/03/2010,20.12,40.22,92,15.01,40.74,,IND_SW
+S1271,Whale shark,Rhincodon typus,300,F,PSAT,04/05/2010,20.13,40.21,66,21.5,37.99,,IND_SW
+S1272,Whale shark,Rhincodon typus,500,M,PSAT,12/06/2010,18.36,41.17,180,18.11,39.9,,IND_SW
+S1273,Whale shark,Rhincodon typus,600,F,PSAT,06/08/2010,18.88,39.76,148,18.85,38.28,,IND_SW
+S1274,Whale shark,Rhincodon typus,,U,PSAT,31/03/2010,16.5,40.44,184,11.29,49.2,,IND_SW
+S1275,Whale shark,Rhincodon typus,300,U,PSAT,16/04/2010,20.12,40.21,145,11.16,47.37,,IND_SW
+S1276,Whale shark,Rhincodon typus,300,M,PSAT,04/05/2010,20.12,40.22,30,20,39.41,,IND_SW
+S1277,Whale shark,Rhincodon typus,350,M,SPOT,22/04/2010,20.13,40.21,3,20.16,40.16,,IND_SW
+S1278,Whale shark,Rhincodon typus,400,U,SPOT,29/03/2010,20.12,40.22,27,20.01,40.45,,IND_SW
+S1279,Whale shark,Rhincodon typus,300,M,SPOT,15/08/2010,15.7,41.29,5,15.45,41.51,,IND_SW
+S1280,Whale shark,Rhincodon typus,400,U,SPOT,28/03/2010,20.12,40.22,23,20.11,40.26,,IND_SW
+S1281,Whale shark,Rhincodon typus,450,U,SPOT,28/03/2010,20.13,40.21,53,20.04,40.42,,IND_SW
+S1282,Whale shark,Rhincodon typus,450,U,SPOT,06/08/2010,17.74,39.6,28,18.63,39.17,,IND_SW
+S1283,Whale shark,Rhincodon typus,400,U,SPOT,27/04/2010,22.95,38.82,94,22.79,38.95,,IND_SW
+S1284,Whale shark,Rhincodon typus,500,F,PSAT,29/03/2009,20.13,40.22,11,18.86,40.82,,IND_SW
+S1285,Whale shark,Rhincodon typus,300,U,PSAT,16/06/2009,18.78,40.32,10,18.81,40.52,,IND_SW
+S1286,Whale shark,Rhincodon typus,400,F,PSAT,31/01/2010,17.62,41.09,9,16.19,41.78,,IND_SW
+S1287,Whale shark,Rhincodon typus,450,M,PSAT,18/01/2012,11.58,42.76,118,16.39,39.53,,IND_SW
+S1288,Whale shark,Rhincodon typus,400,F,PSAT,19/01/2012,11.58,42.76,31,13.39,42.96,,IND_SW
+S1291,Whale shark,Rhincodon typus,600,M,PSAT,04/01/2009,11.56,42.76,20,11.66,50.13,,IND_SW
+S1292,Whale shark,Rhincodon typus,450,M,PSAT,13/01/2009,11.56,42.76,6,11.53,42.53,,IND_SW
+S1539,Silky shark,Carcharhinus falciformis,240,F,SPOT,06/05/2012,21.69,38.75,24,21.74,38.83,,IND_SW
+S1540,Silky shark,Carcharhinus falciformis,200,F,SPOT,29/05/2012,21.69,38.75,268,21.76,38.65,,IND_SW
+S1541,Silky shark,Carcharhinus falciformis,222,M,PSAT,24/10/2012,20.77,38.28,66,15.37,40.35,,IND_SW
+S1542,Silky shark,Carcharhinus falciformis,234,F,PSAT,30/09/2012,21.69,38.75,33,23.31,38.56,,IND_SW
+S1543,Silky shark,Carcharhinus falciformis,220,M,PSAT,21/05/2011,21.69,38.75,8,21.19,38.4,,IND_SW
+S1295,Whale shark,Rhincodon typus,550,M,PSAT,28/06/2009,18.23,109.47,93,11.86,110.4,,OTHER
+S1366,Whale shark,Rhincodon typus,450,M,SPOT,17/11/2015,9.93,125.25,131,8.47,118.94,,OTHER
+S1367,Whale shark,Rhincodon typus,650,F,SPOT,07/04/2016,9.55,125.42,74,9.98,121.62,,OTHER
+S1368,Whale shark,Rhincodon typus,500,M,SPOT,18/11/2015,9.95,125.25,104,8.38,121.66,,OTHER
+S1369,Whale shark,Rhincodon typus,600,M,SPOT,07/04/2016,9.44,125.44,27,9.37,125.35,,OTHER
+S1370,Whale shark,Rhincodon typus,700,F,SPOT,19/03/2016,8.84,124.79,43,9.13,124.57,,OTHER
+S1371,Whale shark,Rhincodon typus,550,M,SPOT,22/05/2015,8.75,119.83,109,7.05,118.39,,OTHER
+S1372,Whale shark,Rhincodon typus,450,M,SPOT,07/04/2016,9.41,125.46,21,9.8,124.62,,OTHER
+S1373,Whale shark,Rhincodon typus,500,M,SPOT,19/03/2016,8.86,124.78,90,10.07,125.18,,OTHER
+S1374,Whale shark,Rhincodon typus,550,U,SPOT,18/11/2015,9.94,125.25,56,10.17,125.1,,OTHER
+S1375,Whale shark,Rhincodon typus,600,M,SPOT,23/05/2015,8.75,119.83,66,9.53,120.88,,OTHER
+S1376,Whale shark,Rhincodon typus,550,M,SPOT,14/04/2015,10.14,125.18,103,11.13,125.02,,OTHER
+S1377,Whale shark,Rhincodon typus,500,M,SPOT,15/04/2015,10.24,125.23,102,11.09,125.52,,OTHER
+S1378,Whale shark,Rhincodon typus,450,F,SPOT,17/05/2015,8.75,119.83,38,11.07,119.85,,OTHER
+S1379,Whale shark,Rhincodon typus,600,M,SPOT,24/11/2015,9.91,125.26,14,9.91,125.26,,OTHER
+S1380,Whale shark,Rhincodon typus,600,U,SPOT,17/05/2015,8.75,119.83,15,9.28,120.09,,OTHER
+S1381,Whale shark,Rhincodon typus,600,F,SPOT,16/11/2015,9.94,125.24,27,10.05,125.08,,OTHER
+S1382,Whale shark,Rhincodon typus,550,M,SPOT,20/05/2015,8.93,120.01,5,7.46,118.87,,OTHER

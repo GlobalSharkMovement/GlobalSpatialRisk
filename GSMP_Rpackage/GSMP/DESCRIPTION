@@ -1,0 +1,11 @@
+Package: GSMP
+Type: Package
+Title: Fishing risk analyses based on telemetry data
+Version: 0.1.0
+Author: Marisa Vedor, Ivo da Costa, Nuno Queiroz
+Maintainer: Marisa Vedor <yourself@somewhere.net>
+Description: Summary of Fishing Effort Index and Overlap with fishing vessels by species, region and month. Kobe plots to analyse mean risk.
+Imports: data.table, foreach, ggplot2, plyr, plotrix, raster, reshape2, tidyr
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
