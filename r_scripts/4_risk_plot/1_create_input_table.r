@@ -1,3 +1,5 @@
+#### Create input table for risk plot, all species within one region ####
+
 ##### PACKAGES ####
 library(ggplot2)
 library(reshape2)
@@ -27,13 +29,10 @@ spNam <- c('PGL',
 #### FOLDERS ####
 
 # Set working directory
-setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Interactions/Revision2/CleanScripts/5. Fig3/'
-)
+setwd('~/4_risk_plot/')
 
 
-
-
-##### Output files from script in "~/3_tbl4_extended/1_create_tbl4_ext.R" #####
+##### Output files from script in "~/3_summ_table/1_create_summ_table.r" #####
 
 # Overall effort path
 overallEff <- 'Overall_mean&median_effort_02-17.csv'

@@ -1,17 +1,17 @@
-# OPTIONS #
+#### Summary statistics of FEI or Overlap for each ID per month ####
+
+#### PACKAGES ####
+library(GSMP)
+
+#### OPTIONS ####
 
 # Set working directory #
-setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Interactions/Revision2/CleanScripts/3. Fig4/')
+setwd('~/5_risk_plot_month/')
 
 # Analyses type 'Eff_median' or 'Ov_median'
 analyses <- 'Ov_median'
 
-# PACKAGES #
-library(GSMP)
 
-# FUNCTIONS #
-#source('FUNCTION_Overall.R')
-#source('FUNCTION_SppRegion.R')
 
 
 #### READ DATA ####

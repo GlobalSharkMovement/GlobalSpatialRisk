@@ -1,4 +1,7 @@
-##### PACKAGES ####
+#### Risk plot, for all months of a species within one region ####
+
+
+#### PACKAGES ####
 library(fields)
 library(GSMP)
 
@@ -24,8 +27,9 @@ spNam <- c('PGL',
 #### FOLDERS ####
 
 # Set working directory
-setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Interactions/Revision2/CleanScripts/3. Fig4/'
-)
+setwd('~/5_risk_plot_month/')
+
+# Path to files obtained from 2_create_input_table_month.r #
 
   # Overall risk threshold path
   overRisk <- paste0('RiskThr_', rg, '.csv')
@@ -33,10 +37,6 @@ setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Inter
   # Species-Region effort and overlap path
   SpRg <- paste0('Input_',rg,'.csv')
 
-#### FUNCTIONS ####
-
-# Kobe plots
-#source('FUNCTION_kobePlot.r')
 
 
 #### Main script ####
@@ -45,7 +45,7 @@ setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Inter
 dta <- read.csv(SpRg)
 
   dta$month <- factor(dta$month, levels = 1:12)
-  
+
   # Order months
   dta <- dta[order(as.numeric(dta$month)),]
 

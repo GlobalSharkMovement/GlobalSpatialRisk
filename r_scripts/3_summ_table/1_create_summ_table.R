@@ -1,23 +1,22 @@
-# OPTIONS #
+#### Summary statistics per Species and Region ####
+
+#### PACKAGES ####
+library(GSMP)
+
+#### OPTIONS ####
 
 # Set working directory #
-setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Interactions/Revision2/CleanScripts/1. Tbl4_extended/')
+setwd('~/3_summ_table/')
 
 # Analyses type 'Eff_mean' or 'Ov_mean'
 analyses <- 'Eff_mean'
 
-# PACKAGES #
-library(GSMP)
-
-# FUNCTIONS #
-#source('FUNCTION_Overall.R')
-#source('FUNCTION_SppRegion.R')
 
 
 #### READ DATA ####
 
 # Read shark data
-tbl <- read.csv('SharkData.csv')
+tbl <- get('SharkData')
 
 
 #### Calculate overall mean and median ####

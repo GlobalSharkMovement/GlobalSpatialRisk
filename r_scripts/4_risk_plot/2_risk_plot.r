@@ -1,3 +1,5 @@
+#### Risk plot, all species within one region ####
+
 ##### PACKAGES ####
 library(GSMP)
 
@@ -7,7 +9,7 @@ library(GSMP)
 rg <- 'PAC_NE'
 
 # Mean or Median
-md <- 'Median'
+md <- 'Mean'
 
 # species Name (in correct order)
 spNam <- c('PGL',
@@ -26,19 +28,16 @@ spNam <- c('PGL',
 #### FOLDERS ####
 
 # Set working directory
-setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Interactions/Revision2/CleanScripts/5. Fig3/'
-)
+setwd('~/4_risk_plot/')
+
+
+# Paths to files obtained from 1_create_input_table #
 
   # Overall risk threshold path
   overRisk <- paste0(md,'_RiskThr_', rg, '.csv')
 
   # Species-Region effort and overlap path
   SpRg <- paste0(md, '_Input_',rg,'.csv')
-
-#### FUNCTIONS ####
-
-# Kobe plots
-#source('FUNCTION_kobePlot.r')
 
 
 #### Main script ####
@@ -53,10 +52,7 @@ dta <- read.csv(SpRg)
 # Read overall risk
 v <- read.csv(overRisk)
   v <- as.numeric(v)
-  
-  
-  
-  
+
 
 
 ##### Define breaks #####
@@ -75,15 +71,15 @@ xBks <- unique(c(0,seq(0,cutPlt,by = 5*10^(pwr-1)),cutPlt))
 
 
 
-dta$upSD_effort[dta$upSD_effort > cutPlt] <- cutPlt 
+dta$upSD_effort[dta$upSD_effort > cutPlt] <- cutPlt
 
-  
-  
+
+
 #### Save kobe plot ####
 graphics.off()
 
-print(kobePlot(dta = dta, xNam = paste0(tolower(md),'_effort'), 
-               yNam = paste0(tolower(md),'_overlap'), 
+print(kobePlot(dta = dta, xNam = paste0(tolower(md),'_effort'),
+               yNam = paste0(tolower(md),'_overlap'),
                gp = 'Spp',
                xSdUp = "upSD_effort", xSdLow = "lowSD_effort",
                ySdUp = "upSD_overlap", ySdLow = "lowSD_effort",

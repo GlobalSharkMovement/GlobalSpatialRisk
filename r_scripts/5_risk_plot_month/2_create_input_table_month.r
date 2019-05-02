@@ -1,3 +1,5 @@
+#### Create input table for risk plot, for all months of a species within one region ####
+
 ##### PACKAGES ####
 library(reshape2)
 library(data.table)
@@ -23,20 +25,24 @@ spNam <- c('PGL',
 #### FOLDERS ####
 
 # Set working directory
-setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Interactions/Revision2/CleanScripts/3. Fig4/'
-)
+setwd('~/5_risk_plot_month/')
 
-# Overall effort path
-overallEff <- 'Overall_Eff_median.csv'
 
-# Overall overlap path
-overallOv <- 'Overall_Ov_median.csv'
+# Path to files obtained from 1_fei_summ_stats_month.r #
 
-# Species-Region effort path
-SpRgEff <- 'SppReg_Eff_median.csv'
+  # Overall effort path
+  overallEff <- 'Overall_Eff_median.csv'
 
-# Species-Region overlap path
-SpRgOv <- 'SppReg_Ov_median.csv'
+  # Overall overlap path
+  overallOv <- 'Overall_Ov_median.csv'
+
+  # Species-Region effort path
+  SpRgEff <- 'SppReg_Eff_median.csv'
+
+  # Species-Region overlap path
+  SpRgOv <- 'SppReg_Ov_median.csv'
+
+
 
 #### Main script ####
 

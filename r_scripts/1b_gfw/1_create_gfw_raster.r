@@ -1,10 +1,12 @@
-# PACKAGES # 
+#### Create monthly raster of GFW, and average between years ####
+
+# PACKAGES #
 library(GSMP)
 library(data.table)
 library(foreach)
 
 # FOLDERS #
-setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Interactions/Boat Data/Global fishing watch/fishing_effort/')
+setwd('~/1b_gfw/examples/')
 
 import <- 'daily_csvs/'
 exportData <- 'monthly_csv/'
@@ -26,7 +28,7 @@ resolution <- 1
 ext = matrix(c(-180, 90,
                180, 90,
                180, -90,
-               -180, -90), 
+               -180, -90),
              ncol = 2, byrow = TRUE)
 
 
@@ -46,12 +48,12 @@ yrMonLs <- lapply(yrMonLs, paste, collapse = '-')
 yrMonLs <- unlist(yrMonLs)
 
 # Create a raster with sum of boats in each year-month
-rstStk <- boatFun(orgLs = orgLs, 
-                  yrMon = yrMonLs) 
+rstStk <- boatFun(orgLs = orgLs,
+                  yrMon = yrMonLs)
 
 
 ##### Average months of all years #####
-  
+
 mn <- lapply(strsplit(names(rstStk), '\\.'), '[', 2)
 mn <- unlist(mn)
 
@@ -59,7 +61,7 @@ mnStk <- stackApply(rstStk, indices = mn, mean, na.rm = TRUE)
 
 
 # Save monthly raster
-for(rst in 1:(dim(mnStk)[3])) 
+for(rst in 1:(dim(mnStk)[3]))
 {
   rstNam <- gsub('index_', '', names(mnStk)[rst])
   writeRaster(mnStk[[rst]], filename = paste0(geartype,'_', rstNam, '.tif'), overwrite = TRUE)
