@@ -1,11 +1,21 @@
 Package: GSMP
 Type: Package
-Title: Fishing risk analyses based on telemetry data
+Title: Fishing Exposure Index based on telemetry data
 Version: 0.1.0
 Author: Marisa Vedor, Ivo da Costa, Nuno Queiroz
-Maintainer: Marisa Vedor <yourself@somewhere.net>
-Description: Summary of Fishing Effort Index and Overlap with fishing vessels by species, region and month. Kobe plots to analyse mean risk.
-Imports: data.table, foreach, ggplot2, plyr, plotrix, raster, reshape2, tidyr
+Maintainer: Marisa Vedor <info@globalsharkmovement.org>
+Description: This package reproduces the analysis in the paper "Global spatial risk assessment of sharks under the footprint of fisheries", 
+    by Queiroz et al. Focuses on analyses of Fishing Exposure Index (FEI), by calculating shark density for each mapped grid cell,
+    using telemetry data and calculates fishing risk from vessel data obtained from Global Fishing Watch database (https://globalfishingwatch.org/). 
+    Additionally, this package allows the creation of rasters with spatial FEI and kobe plots for risk assessment.
+Imports: data.table, 
+    foreach, 
+    ggplot2, 
+    plyr, 
+    plotrix, 
+    raster, 
+    reshape2, 
+    tidyr
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true

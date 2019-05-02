@@ -1,0 +1,27 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "README-"
+)
+```
+
+# GSMP
+
+This package reproduces the analysis in the paper "Global spatial risk assessment of sharks under the footprint of fisheries", by Queiroz et al. Focuses on analyses of Fishing Exposure Index (FEI), by calculating shark density for each mapped grid cell, using telemetry data and calculates fishing risk from vessel data obtained from Global Fishing Watch database (https://globalfishingwatch.org/). Additionally, this package allows the creation of rasters with spatial FEI and kobe plots for risk assessment.
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+## basic example code
+```
