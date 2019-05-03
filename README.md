@@ -7,7 +7,10 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 
 	\\1_dit_calc.r
 
-		Calculate point density for individual daily geolocations
+		Calculate point density for individual daily geolocations.
+		
+		Additional notes:
+		 - Example "track_points.csv" contains dummy data for script reproducibility purposes.
 
 	\\2_dit_month_calc.r
 
@@ -18,16 +21,28 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 	\\1_create_gfw_raster.r
 
 		Calculate monthly rasters of GFW and between-year averages
+		
+		Additional notes:
+		 - Original data obtained from Global Fishing Watch https://globalfishingwatch.org/
 
 ### \2_fei
 
 	\\1_fei_calc.r
 
 		Calculate fishing exposure index (FEI) and percent overlap (%) for each ID in each month
+		
+		Additional notes:
+		 - Example directory "\dit_month_from_1a\" contains dummy data for script reproducibility purposes, as an output of script "2_dit_month_calc.r".
+		 - Example file "eg_grid_data.csv" contains dummy data for script reproducibility purposes.
+		 - Example file "eg_metadata.csv" contains dummy data for script reproducibility purposes.
+
 
 	\\2_fei_summ_stats.r
 
 		Summary statistics of FEI or % for each ID
+		
+		Additional notes:
+		 - Provided derived data for each tracked ID
 
 ### \3_summ_table
 
