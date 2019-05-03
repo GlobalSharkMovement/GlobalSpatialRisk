@@ -1,9 +1,9 @@
 # GlobalSpatialRisk
 Repository containing raw data, R scripts and the GSMP Rpackage for the manuscript "Global spatial risk assessment of sharks under the footprint of fisheries"
 
-**r_scripts**
+## r_scripts
 
-## \1a_dit
+### \1a_dit
 
 	\\1_dit_calc.r
 
@@ -13,13 +13,13 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 
 		Calculate monthly shark relative density (Dit) for each individual shark in a spatial grid
 
-## \1b_gfw
+### \1b_gfw
 
 	\\1_create_gfw_raster.r
 
 		Calculate monthly rasters of GFW and between-year averages
 
-## \2_fei
+### \2_fei
 
 	\\1_fei_calc.r
 
@@ -29,13 +29,13 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 
 		Summary statistics of FEI or % for each ID
 
-## \3_summ_table
+### \3_summ_table
 
 	\\1_create_summ_table.r
 
 		Summary statistics per species/region
 
-## \4_risk_plot
+### \4_risk_plot
 
 	\\1_create_input_table.r
 
@@ -45,7 +45,7 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 
 		Risk plots; all species within a region
 
-## \5_risk_plot_month
+### \5_risk_plot_month
 
 	\\1_fei_summ_stats_month.r
 
@@ -60,12 +60,12 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 		Risk plots; monthly data for a given species within a region
 
 
-**GSMP_Rpackage**
+# GSMP_Rpackage
 
 	Package to calculate Fishing Exposure Index and Risk based on telemetry data
    
 
-**raw_data**
+# raw_data
 
 	Metadata
 
