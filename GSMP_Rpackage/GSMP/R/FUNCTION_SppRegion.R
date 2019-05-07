@@ -8,22 +8,22 @@
 sppFun <- function(dta, reg = 'Region', sp = 'Spp', anty, agFac = agFun(...),...)
 {
   # Packages
-  pck <- c('plyr', 'tidyr', 'plotrix')
-  lapply(pck, require, character.only = TRUE)
+  #pck <- c('plotrix')
+  #lapply(pck, require, character.only = TRUE)
 
 
   # Calculate species overall mean and median
-  spMean <- agFun(dta = dta, anty = anty,dta[,sp]) #dta[,sp]
+  spMean <- GSMP::agFun(dta = dta, anty = anty,dta[,sp]) #dta[,sp]
     colnames(spMean)[1] <- c('Spp')
 
   spTbl <- data.frame('Region' = 'Overall', spMean)
 
   # Calculate species per Region mean and median
-  spReg <- agFun(dta = dta, anty = anty, dta[,reg], dta[,sp], agFac)#
+  spReg <- GSMP::agFun(dta = dta, anty = anty, dta[,reg], dta[,sp], agFac)#
   colnames(spReg)[1:2] <- c('Region','Spp')
 
   # Join overall and Region
-  spSave <- rbind.fill(spTbl, spReg)
+  spSave <- plyr::rbind.fill(spTbl, spReg)
 
   # ORDER TABLE #
 
@@ -53,7 +53,7 @@ sppFun <- function(dta, reg = 'Region', sp = 'Spp', anty, agFac = agFun(...),...
   spSave <- spSave[order(spSave$Spp,  spSave$Region),]
 
   # Add NA to missing combinations
-  overallMean <- complete(spSave, Spp, Region, fill = list(mean = NA,
+  overallMean <- tidyr::complete(spSave, Spp, Region, fill = list(mean = NA,
                                                               median = NA))
 
   overallMean <- overallMean[order(overallMean$Region),]

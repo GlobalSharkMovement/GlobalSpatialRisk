@@ -5,7 +5,6 @@ overlapCalc <- function(mon = c('01','02','03','04','05','06','07','08','09','10
   gc()
 
   # PACKAGES #
-  require(foreach)
   require(raster)
 
 
@@ -100,7 +99,7 @@ overlapCalc <- function(mon = c('01','02','03','04','05','06','07','08','09','10
                                      overlapTbl$effort <- overlapTbl$nBoats * overlapTbl$dit
 
                                      # Add species and id
-                                     overlapTbl <- data.frame('spp' = sp, 'id' = gsub(".tif", "", id), overlapTbl)
+                                     overlapTbl <- data.frame('spp' = sp, 'id' = gsub(".tif", "", basename(id)), overlapTbl)
                                    }
                                    return(overlapTbl)
                                  } # end loop for each id

@@ -7,9 +7,6 @@ boatFun <- function(orgLs, yrMon,
                                            ncol = 2, byrow = TRUE),
                     ncores = 1)
 {
-  library(foreach)
-  library(data.table)
-
   # Loop for each year-Month
   # CAN BE PARALLELIZED...
   print('Processing in parallel... ')
@@ -23,7 +20,7 @@ boatFun <- function(orgLs, yrMon,
 
 
                      # Read data
-                     tblLs <- lapply(orgLs[yrMon == mon], fread)
+                     tblLs <- lapply(orgLs[yrMon == mon], data.table::fread)
                      orgTbl <- do.call(rbind, tblLs)
                      orgTbl <- as.data.frame(orgTbl)
 

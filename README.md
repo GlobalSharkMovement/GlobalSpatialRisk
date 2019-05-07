@@ -10,7 +10,7 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 		Calculate point density for individual daily geolocations.
 		
 		Additional notes:
-		 - Example "track_points.csv" contains dummy data for script reproducibility purposes.
+		 - Example "track_points.csv" contains example data for script reproducibility purposes.
 
 	\\2_dit_month_calc.r
 
@@ -32,9 +32,9 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 		Calculate fishing exposure index (FEI) and percent overlap (%) for each ID in each month
 		
 		Additional notes:
-		 - Example directory "\dit_month_from_1a\" contains dummy data for script reproducibility purposes, as an output of script "2_dit_month_calc.r".
-		 - Example file "eg_grid_data.csv" contains dummy data for script reproducibility purposes.
-		 - Example file "eg_metadata.csv" contains dummy data for script reproducibility purposes.
+		 - Example directory "\dit_month_from_1a\" contains example data for script reproducibility purposes, as an output of script "2_dit_month_calc.r".
+		 - Example file "eg_grid_data.csv" contains example data for script reproducibility purposes.
+		 - Example file "eg_metadata.csv" contains example data for script reproducibility purposes.
 
 
 	\\2_fei_summ_stats.r
@@ -43,6 +43,14 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 		
 		Additional notes:
 		 - Provided derived data for each tracked ID
+		 
+	\\3_fei_summ_stats_month.r
+
+		Summary statistics of FEI or % for each ID, monthly
+		
+		Additional notes:
+		 - Example directory "2_fei\examples\output\" contains example data for script reproducibility purposes, as an output of script "1_fei_calc.r"
+		 
 
 ### \3_summ_table
 

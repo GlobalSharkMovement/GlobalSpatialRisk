@@ -6,9 +6,6 @@
 
 overallFun <- function(dta, reg = 'Region', anty, agFac = agFun(...),...)
 {
-  # Packages
-  library(plyr)
-
   # Overall summary stats
   ovTbl <- agFun(dta = dta,  anty = anty, rep(1, nrow(dta)))
   colnames(ovTbl)[1] <- 'Region'
@@ -19,7 +16,7 @@ overallFun <- function(dta, reg = 'Region', anty, agFac = agFun(...),...)
   colnames(regTbl)[1] <- 'Region'
 
   # Join overall and Region
-  tblSave <- rbind.fill(ovTbl, regTbl)
+  tblSave <- plyr::rbind.fill(ovTbl, regTbl)
 
   return(tblSave)
 }

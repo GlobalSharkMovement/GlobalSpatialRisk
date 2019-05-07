@@ -1,8 +1,6 @@
 # Summary tables function [options: dta = Data; ]
 agFun <- function(dta, anty, ...)#x,y,z,mon)
 {
-  library(reshape2)
-
   # Mean
   meanTotal <- tapply(dta[,anty], list(...), mean, na.rm = TRUE)
   # Median
@@ -13,10 +11,10 @@ agFun <- function(dta, anty, ...)#x,y,z,mon)
   seTotal <- tapply(dta[,anty], list(...), std.error, na.rm = TRUE)
 
   # Convert table format
-  mean1 <- melt(meanTotal)
-  median1 <- melt(medianTotal)
-  sd1 <- melt(sdTotal)
-  se1 <- melt(seTotal)
+  mean1 <- reshape2::melt(meanTotal)
+  median1 <- reshape2::melt(medianTotal)
+  sd1 <- reshape2::melt(sdTotal)
+  se1 <- reshape2::melt(seTotal)
 
 
   # Join all data in a table

@@ -9,8 +9,10 @@ Description: This package reproduces the analysis in the paper "Global spatial r
     using telemetry data and calculates fishing risk from vessel data obtained from Global Fishing Watch database (https://globalfishingwatch.org/). 
     Additionally, this package allows the creation of rasters with spatial FEI and kobe plots for risk assessment.
 Imports: data.table, 
+    doParallel,
     foreach, 
     ggplot2, 
+    parallel,
     plyr, 
     plotrix, 
     raster, 
