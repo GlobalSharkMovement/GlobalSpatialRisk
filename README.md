@@ -1,5 +1,5 @@
 # GlobalSpatialRisk
-Repository containing raw data, R scripts and the GSMP Rpackage for the manuscript "Global spatial risk assessment of sharks under the footprint of fisheries"
+Repository containing derived data, R scripts and the GSMP Rpackage for the manuscript "Global spatial risk assessment of sharks under the footprint of fisheries"
 
 ## r_scripts
 
@@ -88,9 +88,7 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 	Package to calculate Fishing Exposure Index and Risk based on telemetry data
    
 
-# raw_data
-
-	Metadata
+# derived_data
 
 	Shark data
 
