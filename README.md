@@ -90,6 +90,6 @@ Repository containing derived data, R scripts and the GSMP Rpackage for the manu
 
 # derived_data
 
-	Shark data
+	Derived shark data
 
 	Rasters of Dit, GFW and FEI
