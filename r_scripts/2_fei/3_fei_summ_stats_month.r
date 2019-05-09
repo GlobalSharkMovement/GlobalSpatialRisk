@@ -8,7 +8,7 @@ library(GSMP)
 type <- 'GFW_ll'
 
 # FOLDERS #
-setwd('C:/Users/Marisa/Documents/PhD/Shark data/WorldSharks/Global Fishery Interactions/Revision2/CleanScripts/r_scripts/')
+setwd()
 
 overFld <- '2_fei/examples/output/'
 sharkFld <- '2_fei/examples/'
