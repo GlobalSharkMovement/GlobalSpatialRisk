@@ -88,9 +88,7 @@ Repository containing raw data, R scripts and the GSMP Rpackage for the manuscri
 	Package to calculate Fishing Exposure Index and Risk based on telemetry data
    
 
-# raw_data
-
-	Metadata
+# derived_data
 
 	Shark data
 
