@@ -6,9 +6,9 @@ library(data.table)
 library(foreach)
 
 # FOLDERS #
-setwd('~/1b_gfw/examples/')
+setwd('~/r_scripts/1b_gfw/')
 
-import <- 'daily_csvs/'
+import <- 'examples/'
 exportData <- 'monthly_csv/'
 exportRst <- 'monthly_rst/'
 
@@ -64,5 +64,5 @@ mnStk <- stackApply(rstStk, indices = mn, mean, na.rm = TRUE)
 for(rst in 1:(dim(mnStk)[3]))
 {
   rstNam <- gsub('index_', '', names(mnStk)[rst])
-  writeRaster(mnStk[[rst]], filename = paste0(geartype,'_', rstNam, '.tif'), overwrite = TRUE)
+  raster::writeRaster(mnStk[[rst]], filename = paste0(type,'_', rstNam, '.tif'), overwrite = TRUE)
 }
